@@ -61,7 +61,7 @@ PCB's can be ordered from the following links:
 | [Rezonit] |  The manufacturer of PCB from Russia. Delivery by mail in Russia. The minimum order is 1 pieces. |
 
 [PA0RDT Mini Whip]: <http://dl1dbc.net/SAQ/miniwhip.html>
-[How to import EasyEDA .json files]: <https://easyeda.com/dillon/Backup_Your_EasyEDA_Project_Locally-JrecamWv>
+[How to import EasyEDA .json files]: <https://easyeda.com/dillon/Backup_Your_EasyEDA_Project_Locally-JrecamWv5>
 [JLCPCB]: <https://jlcpcb.com/quote>
 [Seeed Studio]: <https://www.seeedstudio.com/fusion_pcb.html>
 [ITEAD]: <https://www.itead.cc/open-pcb.html>
