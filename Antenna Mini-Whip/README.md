@@ -7,8 +7,8 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 
 ## Basic characteristics of the antenna:
 
-- **Frequency range:** 10kHz - 30MHz;
-- **Power:** DC 12 - 15 V, 50mA;
+- **Frequency range:** 10 kHz - 30 MHz;
+- **Power:** DC 12 - 15 V, 50 mA;
 - **Second order output intercept point:** > + 70 dBm;
 - **Third order output intercept point:** > + 30 dBm;
 - **Maximum output power:** in excess of – 15 dBm;
@@ -18,7 +18,7 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 ## For the manufacture of the device you will need to purchase the following components
 
 ### Capacitors:
-* [100nF, nonpolar](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100nf.TRS2&_nkw=100nf&_sacat=0) - **4 pcs.**
+* [100 nF, nonpolar](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100nf.TRS2&_nkw=100nf&_sacat=0) - **4 pcs.**
 ### Connectors:
 * [SMA Female](https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=sma+female&_blrs=spell_check) - **3 pcs.**
 * [SMA Male](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0) - **4 pcs.**
@@ -28,7 +28,7 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 ### Diodes:
 * [Schottky 1A](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XSchottky+1A.TRS0&_nkw=Schottky+1A&_sacat=0) - **1 pcs.**
 ### Inductors:
-* [470uH](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X470uh.TRS0&_nkw=470uh&_sacat=0) - **2 pcs.**
+* [470 uH](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X470uh.TRS0&_nkw=470uh&_sacat=0) - **2 pcs.**
 ### Resistors:
 * [47R, 0.125](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.X47ohm.TRS0&_nkw=47ohm&_sacat=0) - **1 pcs.**
 * [220R, 0.125W](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR3.TRC1.A0.H0.X220ohm.TRS0&_nkw=220ohm&_sacat=0) - **1 pcs.**
