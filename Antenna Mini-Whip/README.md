@@ -2,18 +2,18 @@
 
 Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit. In turn, I developed PCB for the self-made printed circuit board based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
 
-Original schematic: [PA0RDT Mini Whip];
+Original schematic: [PA0RDT Mini Whip];<br/>
 Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands];
 
 ## Basic characteristics of the antenna:
 
-**Frequency range:** 10kHz - 30MHz;
-**Power:** DC 12 - 15 V, 50mA;
-**Second order output intercept point:** > + 70 dBm;
-**Third order output intercept point:** > + 30 dBm;
-**Maximum output power:** in excess of – 15 dBm;
-**RF connector:** SMA;
-**Feed line:** 50 - 100 Ohm coaxial cable;
+**Frequency range:** 10kHz - 30MHz;<br/>
+**Power:** DC 12 - 15 V, 50mA;<br/>
+**Second order output intercept point:** > + 70 dBm;<br/>
+**Third order output intercept point:** > + 30 dBm;<br/>
+**Maximum output power:** in excess of – 15 dBm;<br/>
+**RF connector:** SMA;<br/>
+**Feed line:** 50 - 100 Ohm coaxial cable;<br/>
 
 ## For the manufacture of the device you will need to purchase the following components
 
