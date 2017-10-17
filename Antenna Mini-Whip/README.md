@@ -1,6 +1,6 @@
 # Project for easy and quick build active pa0rdt Mini-Whip antenna.
 
-Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit. In turn, I developed PCB for the self-made printed circuit board based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
+Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
 
 - Original schematic: [PA0RDT Mini Whip];
 - Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands];
@@ -14,6 +14,7 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 - **Maximum output power:** in excess of – 15 dBm;
 - **RF connector:** SMA;
 - **Feed line:** 50 - 100 Ohm coaxial cable;
+Do not forget about the impedance matching with the receiver.
 
 ## For the manufacture of the device you will need to purchase the following components
 
@@ -55,10 +56,15 @@ PCB's can be ordered from the following links:
 | [Seeed Studio] | International shipping. The minimum order is 5 pieces.|
 | [ITEAD] | International shipping. The minimum order is 5 pieces.|
 | [OSH Park] | International shipping. |
-| [Belplata] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus.|
-| [Nanotech] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus. |
-| [PS Electro] | The manufacturer of PCB from Russia. Delivery by mail in Russia. The minimum order is 1 pieces.|
-| [Rezonit] |  The manufacturer of PCB from Russia. Delivery by mail in Russia. The minimum order is 1 pieces. |
+| [Belplata] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery.|
+| [Nanotech] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery. |
+| [PS Electro] | The manufacturer of PCB from Russia. Delivery by mail in Russia, self-delivery. The minimum order is 1 pieces.|
+| [Rezonit] |  The manufacturer of PCB from Russia. Delivery by mail in Russia, self-delivery. The minimum order is 1 pieces. |
+| [MERKAR] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery, courier. The minimum order is 1 pieces. |
+| [SATLAND PROTOTYPE] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery. |
+| [Margol Electronics] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery. The minimum order is 1 pieces. |
+
+
 
 [PA0RDT Mini Whip]: <http://dl1dbc.net/SAQ/miniwhip.html>
 [How to import EasyEDA .json files]: <https://easyeda.com/dillon/Backup_Your_EasyEDA_Project_Locally-JrecamWv5>
@@ -70,4 +76,7 @@ PCB's can be ordered from the following links:
 [PS Electro]: <http://www.pselectro.ru/zakaz_pechatnyh_plat/>
 [Rezonit]: <http://www.rezonit.ru/service/calc/>
 [Nanotech]: <http://www.pcb.by/index.php/clients/orderform>
+[MERKAR]: <http://www.merkar.pl/cennik.html>
+[SATLAND PROTOTYPE]: <http://prototypy.com/t/51,Plytki_PCB>
+[Margol Electronics]: <http://www.fabrykapcb.pl/jakzamowic.html>
 [Wide-band WebSDR in Enschede, the Netherlands]: <http://websdr.ewi.utwente.nl:8901/>
