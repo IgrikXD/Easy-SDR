@@ -14,8 +14,7 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 - **Third order output intercept point:** > + 30 dBm;
 - **Maximum output power:** in excess of – 15 dBm;
 - **RF connector:** SMA;
-- **Feed line:** 50 - 100 Ohm coaxial cable;
-Do not forget about the impedance matching with the receiver.
+- **Feed line:** 50 Ohm coaxial cable;
 
 ## For the manufacture of the device you will need to purchase the following components
 
