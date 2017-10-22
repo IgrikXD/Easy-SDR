@@ -1,6 +1,6 @@
 # Project for easy and quick build active pa0rdt Mini-Whip antenna.
 
-Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
+Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the good grounding of the antenna.
 
 - Original schematic: [PA0RDT Mini Whip], pdf file included in this repository;
 - Link to the project on EasyADA: [TEMPORARILY UNAVAILABLE]
@@ -43,7 +43,7 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 ### Coaxial cable:
 * [RG-58](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0)/[RG-213](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR9.TRC1.A0.H0.Xrg213.TRS0&_nkw=rg213&_sacat=0) - 6 meters. Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
 ### Copper Clad Boards (it is not necessary if you ordering finished PCB):
-* [106x33 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Antenna module.
+* [100x33 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Antenna module.
 * [47x33 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Power Feed Unit.
 
 [How to import EasyEDA .json files] into your project;
