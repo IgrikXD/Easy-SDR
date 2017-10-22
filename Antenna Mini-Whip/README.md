@@ -3,7 +3,7 @@
 Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the good grounding of the antenna.
 
 - Original schematic: [PA0RDT Mini Whip], pdf file included in this repository;
-- Link to the project on EasyADA: [TEMPORARILY UNAVAILABLE]
+- Link to the project on EasyADA: [TEMPORARILY UNAVAILABLE];
 - Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands];
 
 ## Basic characteristics of the antenna:
@@ -38,8 +38,8 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 * [10K, 0.125W](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.X10k+ohm.TRS0&_nkw=10k+ohm&_sacat=0) - **1 pcs.**
 * [1M, 0.125W](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR2.TRC0.A0.H0.X1m+ohm.TRS0&_nkw=1m+ohm&_sacat=0) - **3 pcs.**
 ### Transistors:
-* [BJT: 2N5109](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X2n5109.TRS1&_nkw=2n5109&_sacat=0) - **1 pcs.**
-* [FET: J310](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.Xj310.TRS0&_nkw=j310&_sacat=0) - **1 pcs.**
+* [BJT: 2N5109](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X2n5109.TRS1&_nkw=2n5109&_sacat=0) - **1 pcs.** [2N5109 datasheet];
+* [FET: J310](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.Xj310.TRS0&_nkw=j310&_sacat=0) - **1 pcs.** [J310 datasheet];
 ### Coaxial cable:
 * [RG-58](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0)/[RG-213](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR9.TRC1.A0.H0.Xrg213.TRS0&_nkw=rg213&_sacat=0) - 6 meters. Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
 ### Copper Clad Boards (it is not necessary if you ordering finished PCB):
@@ -66,7 +66,7 @@ PCB's can be ordered from the following links:
 
 
 
-[PA0RDT Mini Whip]: <http://dl1dbc.net/SAQ/miniwhip.html>
+[PA0RDT Mini Whip]: <./pa0rdt-Mini-Whip.pdf>
 [How to import EasyEDA .json files]: <https://easyeda.com/dillon/Backup_Your_EasyEDA_Project_Locally-JrecamWv5>
 [JLCPCB]: <https://jlcpcb.com/quote>
 [Seeed Studio]: <https://www.seeedstudio.com/fusion_pcb.html>
@@ -80,3 +80,5 @@ PCB's can be ordered from the following links:
 [SATLAND PROTOTYPE]: <http://prototypy.com/t/51,Plytki_PCB>
 [Margol Electronics]: <http://www.fabrykapcb.pl/jakzamowic.html>
 [Wide-band WebSDR in Enschede, the Netherlands]: <http://websdr.ewi.utwente.nl:8901/>
+[J310 datasheet]: <./J310 Datasheet.pdf>
+[2N5109 datasheet]: <./2N5109 Datasheet Motorola.pdf>
