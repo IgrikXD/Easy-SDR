@@ -45,8 +45,8 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 ### Coaxial cable:
 * [RG-58](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0)/[RG-213](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR9.TRC1.A0.H0.Xrg213.TRS0&_nkw=rg213&_sacat=0) - 6 meters. Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
 ### Single-layer copper clad boards (it is not necessary if you ordering finished PCB):
-* [100x33 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Antenna module.
-* [47x33 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Power Feed Unit.
+* [100x32 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Antenna module.
+* [47x32 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Power Feed Unit.
 
 PCB's can be ordered from the following links:
 
