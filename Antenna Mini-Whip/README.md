@@ -39,7 +39,8 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 * [1M, 0.125W](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR2.TRC0.A0.H0.X1m+ohm.TRS0&_nkw=1m+ohm&_sacat=0) - **3 pcs.**
 ### Transistors:
 * [BJT: 2N5109](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X2n5109.TRS1&_nkw=2n5109&_sacat=0) - **1 pcs.** [2N5109 datasheet];
-* [FET: J310](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.Xj310.TRS0&_nkw=j310&_sacat=0) - **1 pcs.** [J310 datasheet];
+* [JFET: 
+J310](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.Xj310.TRS0&_nkw=j310&_sacat=0) - **1 pcs.** [J310 datasheet];
 ### Coaxial cable:
 * [RG-58](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0)/[RG-213](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR9.TRC1.A0.H0.Xrg213.TRS0&_nkw=rg213&_sacat=0) - 6 meters. Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
 ### Copper Clad Boards (it is not necessary if you ordering finished PCB):
