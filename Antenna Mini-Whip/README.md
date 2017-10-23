@@ -80,5 +80,5 @@ PCB's can be ordered from the following links:
 [SATLAND PROTOTYPE]: <http://prototypy.com/t/51,Plytki_PCB>
 [Margol Electronics]: <http://www.fabrykapcb.pl/jakzamowic.html>
 [Wide-band WebSDR in Enschede, the Netherlands]: <http://websdr.ewi.utwente.nl:8901/>
-[J310 datasheet]: <./J310-Datasheet.pdf>
-[2N5109 datasheet]: <./2N5109-Datasheet-Motorola.pdf>
+[J310 datasheet]: <./Datasheets/J310-Datasheet.pdf>
+[2N5109 datasheet]: <./Datasheets/2N5109-Datasheet-Motorola.pdf>
