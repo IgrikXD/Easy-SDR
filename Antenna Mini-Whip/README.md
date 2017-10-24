@@ -1,6 +1,6 @@
 # Project for easy and quick build active pa0rdt Mini-Whip antenna.
 
-Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the good grounding of the antenna. If you use a PCB based on a Sprint Layout file, you can turn off or include a layer of metallization on the final board.
+Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the good grounding of the antenna. If you use a PCB based on a Sprint Layout file, you can turn off or include a layer of metallization on the final board by one click.
 
 - Original schematic: [pa0rdt Mini Whip];
 - Link to the project on EasyEDA: [Antenna Mini-Whip EasyEDA];
