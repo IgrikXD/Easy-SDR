@@ -11,7 +11,7 @@ You can order the SDR receiver on any of the currently available internet sites,
 
 | SDR Store | Information |
 | ----- | ----- |
-| [Software-defined radio (SDR)] | International shipping. Performed selling modified versions of receivers. Performs support and develop new versions. |
+| [RTL-SDR.COM] | International shipping. Performed selling modified versions of receivers. Performs support and develop new versions. |
 | [NooElec] | International shipping. Large selection of receivers and accessories. |
 
 
