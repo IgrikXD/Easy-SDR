@@ -1,6 +1,6 @@
-# Project for easy and quick build active pa0rdt Mini-Whip antenna.
+# Project for easy and quick building of active pa0rdt Mini-Whip antenna.
 
-Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the good grounding of the antenna. If you use a PCB based on a Sprint Layout file, you can turn off or include a layer of metallization on the final board by one click.
+Project includes schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the good grounding of the antenna. If you use a PCB based on a Sprint Layout file, you can turn off or include a layer of metallization on the final board by one click.
 
 - Original schematic: [pa0rdt Mini Whip];
 - Link to the project on EasyEDA: [Antenna Mini-Whip EasyEDA];
@@ -18,7 +18,7 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 - **RF connector:** SMA;
 - **Feed line:** 50 Ohm coaxial cable;
 
-## For the manufacture of the device you will need to purchase the following components
+## For the manufacture of the device you need to purchase the following components:
 
 ### Capacitors:
 * [100 nF, nonpolar](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100nf.TRS2&_nkw=100nf&_sacat=0) - **7 pcs.**
@@ -44,7 +44,7 @@ Project include schematic and PCB (EasyEDA, Sprint layout). Based on the submitt
 * [JFET: J310](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.Xj310.TRS0&_nkw=j310&_sacat=0) - **1 pcs.** [J310 datasheet];
 ### Coaxial cable:
 * [RG-58](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0)/[RG-213](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR9.TRC1.A0.H0.Xrg213.TRS0&_nkw=rg213&_sacat=0) - 6 meters. Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
-### Single-layer copper clad boards (it is not necessary if you ordering finished PCB):
+### Single-layer copper clad boards (it is not necessary if you order finished PCB):
 * [100x32 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Antenna module.
 * [47x32 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Power Feed Unit.
 
