@@ -11,10 +11,12 @@ You can order the SDR receiver on any of the currently available internet sites,
 
 | SDR Store | Information |
 | ----- | ----- |
-| [RTL-SDR.COM] | International shipping. Performed selling modified versions of receivers. Performs support and develop new versions. |
+| [RTL-SDR.COM] | International shipping. Performed selling modified versions of receivers. Performs support and develop new versions. There is a large set of various useful information (software, articles, manuals, news). |
 | [NooElec] | International shipping. Large selection of receivers and accessories. |
+| [Airspy] | You can choose a retailer according to your whereabouts. Performs support and develop new versions. There are links for downloading software and working with the server. |
 
 
 [Software-defined radio (SDR)]: <https://en.wikipedia.org/wiki/Software-defined_radio>
 [RTL-SDR.COM]: <https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/>
 [NooElec]: <http://www.nooelec.com/store/sdr.html>
+[Airspy]: <https://airspy.com/purchase/>
