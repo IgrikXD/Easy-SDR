@@ -14,7 +14,7 @@ Creating affordable, easy-to-manufacture layouts of PCBs and software to working
 - [HF Upconverter (SMD)]
 
 ## Current development progress:
-[![Progress](http://progressed.io/bar/100?title=EasyEDA)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/100?title=SprintLayout) ![Progress](http://progressed.io/bar/50?title=Documentation) ![Progress](http://progressed.io/bar/0?title=Testing)
+[![Progress](http://progressed.io/bar/100?title=EasyEDA%20)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/100?title=SprintLayout) ![Progress](http://progressed.io/bar/50?title=Documentation%20) ![Progress](http://progressed.io/bar/0?title=Testing)
 
 ## Where can I buy a SDR receiver?
 You can order the SDR receiver on any of the currently available internet sites, such as Ebay, Aliexpress, Taobao, etc. Or you can use the following links to order some advanced versions of SDR receivers:
