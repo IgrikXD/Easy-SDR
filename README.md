@@ -38,6 +38,11 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers [RTL-SDR
 | [Basic SDR Upconverter v1.0] | The original circuit of the HF Upconverter was used. The PCB for TH components on platforms EasyEDA and Sprint Layout was implemented. |
 | [Upconverter1v3] | Use some parts from original schematic. The PCBs for SMD components on platform EasyEDA was implemented. |
 
+## How to contact me?
+- E-mail: igor.nikolaevich.96@gmail.com
+- Telegram: https://t.me/igrikxd
+- LinkedIn: https://www.linkedin.com/in/igor-yatsevich/
+
 [Software-defined radio (SDR)]: <https://en.wikipedia.org/wiki/Software-defined_radio>
 [RTL-SDR.COM]: <https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/>
 [NooElec]: <http://www.nooelec.com/store/sdr.html>
