@@ -6,15 +6,17 @@
 ## What are the objectives of this project?
 Creating affordable, easy-to-manufacture layouts of PCBs and software to working and expand the capabilities of existing low-cost SDR receivers available to ordinary users. All the created elements of the project will have a detailed description of the manufacturing process, with all the existing features and possible problems.
 
-## Current available modules at EasyEDA platform
-
+## Current available modules at EasyEDA platform:
 - [Antenna Mini-Whip (TH)]
 - [Antenna Mini-Whip (SMD)]
 - [HF Upconverter (TH)]
 - [HF Upconverter (SMD)]
 
 ## Current development progress:
-[![Progress](http://progressed.io/bar/100?title=EasyEDA%20)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/100?title=SprintLayout) ![Progress](http://progressed.io/bar/50?title=Documentation%20) ![Progress](http://progressed.io/bar/0?title=Testing)
+[![Progress](http://progressed.io/bar/100?title=EasyEDA%20)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/100?title=Sprint%20Layout) ![Progress](http://progressed.io/bar/50?title=Documentation%20) ![Progress](http://progressed.io/bar/0?title=Testing)
+
+## How to use this repository?
+In the root of the repository, select the device of interest and go to the appropriate directory (for example [HF Upconverter](./HF%20Upconverter). After the transition, select the component group of interest ([SMD](./HF%20Upconverter/SMD) or [TH](./HF%20Upconverter/TH)). The next step is to choose the platform in which the project is implemented ([EasyEDA](./HF%20Upconverter/TH/EasyEDA) or [Sprint Layout](./HF%20Upconverter/TH/Sprint%20Layout)). After selecting the directory with the platform of interest, a list of files for implementing the device becomes available to you. After that, based on submitted files, you can make the device completely independently or order printed circuit boards for factory manufacturing.
 
 ## Where can I buy a SDR receiver?
 You can order the SDR receiver on any of the currently available internet sites, such as Ebay, Aliexpress, Taobao, etc. Or you can use the following links to order some advanced versions of SDR receivers:
@@ -35,7 +37,6 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers [RTL-SDR
 | [Opendous Inc.'s OpenHardware] | Some useful information about HF Upconverter. |
 | [Basic SDR Upconverter v1.0] | The original circuit of the HF Upconverter was used. The PCB for TH components on platforms EasyEDA and Sprint Layout was implemented. |
 | [Upconverter1v3] | Use some parts from original schematic. The PCBs for SMD components on platform EasyEDA was implemented. |
-
 
 [Software-defined radio (SDR)]: <https://en.wikipedia.org/wiki/Software-defined_radio>
 [RTL-SDR.COM]: <https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/>
