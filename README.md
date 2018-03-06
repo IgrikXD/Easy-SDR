@@ -6,6 +6,13 @@
 ## What are the objectives of this project?
 Creating affordable, easy-to-manufacture layouts of PCBs and software to working and expand the capabilities of existing low-cost SDR receivers available to ordinary users. All the created elements of the project will have a detailed description of the manufacturing process, with all the existing features and possible problems.
 
+## Current available modules at EasyEDA platform
+
+- [Antenna Mini-Whip (TH)]
+- [Antenna Mini-Whip (SMD)]
+- [HF Upconverter (TH)]
+- [HF Upconverter (SMD)]
+
 ## Current development progress:
 [![Progress](http://progressed.io/bar/100?title=EasyEDA)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/100?title=SprintLayout) ![Progress](http://progressed.io/bar/50?title=Documentation) ![Progress](http://progressed.io/bar/0?title=Testing)
 
@@ -18,7 +25,7 @@ You can order the SDR receiver on any of the currently available internet sites,
 | [NooElec] | International shipping. Large selection of receivers and accessories. |
 | [Airspy] | You can choose a retailer according to your whereabouts. Performs support and develop new versions. There are links for downloading software and working with the server. |
 
-Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers [RTL-SDR.COM V.3] and information support. And [Mini-Circuits] for the provided samples of [ADE] frequency mixer by EZ-Sample program.
+Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers [RTL-SDR.COM V.3] and information support. And also [Mini-Circuits] for the provided samples of [ADE] frequency mixer by EZ-Sample program.
 
 ## What was used mainly in the development?
 | Source | Description |
@@ -42,3 +49,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers [RTL-SDR
 [Opendous Inc.'s OpenHardware]: <https://github.com/ha7ilm/opendous/wiki>
 [Basic SDR Upconverter v1.0]: <http://home.scarlet.be/on1bes/sdr_up_conv_v1.0_ade1_125_en.html>
 [Upconverter1v3]: <https://github.com/opendous/Upconverter1v3>
+[Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
+[Antenna Mini-Whip (SMD)]: <https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754>
+[HF Upconverter (TH)]: <https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8>
+[HF Upconverter (SMD)]: <https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d>
