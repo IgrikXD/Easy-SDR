@@ -1,6 +1,6 @@
 # Antenna Mini-Whip
 
-Easy and quick building of active [PA0RDT Mini-Whip antenna](./TH) (TH component group) or [RA0SMS Mini-Whip antenna](./SMD/EasyEDA) (SMD component group). Module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the **good grounding of the antenna**.
+Easy and quick building of active [PA0RDT Mini-Whip antenna](./TH) (TH component group) or [RA0SMS Mini-Whip antenna](./SMD/EasyEDA) (SMD component group). Module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
 
 Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands]
 
@@ -17,6 +17,8 @@ Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in En
 - **Maximum output power:** in excess of – 15 dBm
 - **RF connector:** SMA
 - **Feed line:** 50 Ohm coaxial cable
+
+An important point is the **good grounding of the antenna**.
 
 ## What was used in the development?
 | Source | Description |
