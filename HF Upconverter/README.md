@@ -34,6 +34,10 @@ Some theoretical information about constituent parts:
 - [Elliptic filter]
 - [Attenuator]
 
+## Who helped improve this project?
+
+- [Alexander Sashimanu-San](https://vk.com/sashimanu) - Recommendation for improving the power circuit for noise reduction. The idea of implementing a upconverter, which using powe circuit based at LM1117.
+
 [HF Upconverter (TH)]: <https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8>
 [HF Upconverter (SMD)]: <https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d>
 [Upconverter1v3]: <https://github.com/opendous/Upconverter1v3>
