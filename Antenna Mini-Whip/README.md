@@ -1,6 +1,6 @@
 # Antenna Mini-Whip
 
-Easy and quick building of active [PA0RDT Mini-Whip antenna](./TH) (TH component group) or [RA0SMS Mini-Whip antenna](./SMD/EasyEDA) (SMD component group). Module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the `good grounding of the antenna`.
+Easy and quick building of active [PA0RDT Mini-Whip antenna](./TH) (TH component group) or [RA0SMS Mini-Whip antenna](./SMD/EasyEDA) (SMD component group). Module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the **good grounding of the antenna**.
 
 - Link to the projects on EasyEDA: [Antenna Mini-Whip (TH)], [Antenna Mini-Whip (SMD)]
 - Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands]
@@ -23,6 +23,7 @@ Easy and quick building of active [PA0RDT Mini-Whip antenna](./TH) (TH component
 | [Fundamentals of the MiniWhip antenna] | Description of the principles of operation of the antenna. A qualitative article with a detailed step-by-step description. |
 | [Grounding of MiniWhip and other active whip antennas] | Explanation of the need for a good grounding of the active receiving antenna. |
 | [Теоретические основы антенны MiniWhip] | Translation of the two previous articles into Russian.  |
+
 And also some videos about Mini-Whip (Russian language, original names saved):
 [Антенна Mini-Whip. Изготовление активной приёмной антенны на все КВ диапазоны.](https://www.youtube.com/watch?v=wIoeg69Uv6g)
 [Антенна Mini-Whip. Устройство запитки антенны по кабелю.](https://www.youtube.com/watch?v=J28H7zGxNyg)
