@@ -13,7 +13,7 @@ For example:
 We want to receive a signal with frequency **4625 kHz**. But if we try to receive this signal directly to SDR receiver, without any transformations, we most likely will not hear anything. Why? Answer is simple - **RTL2832 can not process a signal with such a low frequency**. Sure, now some SDR recievers allows to use Direct Sampling mode which transform signal directly to RTL2832 bypassing R820T/R820T2 chips (perfect realisation for example at [RTL-SDR.COM V.3]). But this method confidently receives signals only with frequency lower than 14400 kHz and also has a low sensitivity. However exist method shifting frequency by a certain value up, this method named Up-сonverting. For implementation, an auxiliary generator is used, to shift the original signal with a certain frequency(in this module we will use 125 MHz) and a mixer where the input signal is additioned to the generator signal. When we using a generator at **125 MHz**, the frequency shift of our received radio station will look like this: **4.625 MHz + 125 MHz = 129.625 MHz**. Also, we need to use input and output filters to suppress unnecessary signals and reduce interference. After all transformations, our SDR receiver will be able to process the signal of this frequency without any problems. After that, we can also set the amount of offset in the software used for reception. The last step is necessary for the frequency of our radio station to be displayed exactly as 4.625 MHz and not 129.625 MHz.
 
 ## HF Upconverter diagram
-![HF Upconverter diagram](.Pictures/Upconverter-diagram.png)
+![HF Upconverter diagram](../Resources/Upconverter-diagram.png)
 
 ## What was used in the development?
 | Source | Description |
