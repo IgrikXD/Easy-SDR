@@ -21,6 +21,10 @@ We want to receive a signal with frequency **4625 kHz**. But if we try to receiv
 | [Upconverter1v3] | Use some parts from original schematic. The PCBs for SMD components on platform EasyEDA was implemented. |
 | [Basic SDR Upconverter v1.0] | The original circuit of the HF Upconverter was used. The PCB for TH components on platforms EasyEDA and Sprint Layout was implemented. |
 | [Opendous Inc.'s OpenHardware] | Some useful information about HF Upconverter. |
+| [Еще раз о приеме КВ на RTL-SDR] | Article in Russian, describing how the converter works. The schematic of the Upconverter is given. |
+| [Защита устройств от неправильной подачи полярности питания] | Article in Russian, describing the principle of protecting electrical appliances from improper polarity of power. This decision was used in HF Upconverter (SMD) module. |
+| [Широкополосный SDR радиосканер из DVB тюнера] | The Russian community works with SDR receivers. Any user can ask a question of interest, open discussions. |
+| [Снимки с метеоспутников + SDR] | The Russian community works with SDR receivers and is engaged in receiving images from meteorological satellites. Closed discussions, messages are moderated. |
 
 Some theoretical information about constituent parts:
 
@@ -35,16 +39,13 @@ Some theoretical information about constituent parts:
 [Upconverter1v3]: <https://github.com/opendous/Upconverter1v3>
 [Basic SDR Upconverter v1.0]: <http://home.scarlet.be/on1bes/sdr_up_conv_v1.0_ade1_125_en.html>
 [Opendous Inc.'s OpenHardware]: <https://github.com/ha7ilm/opendous/wiki>
-
 [Еще раз о приеме КВ на RTL-SDR]: <https://m.geektimes.ru/post/289241/>
 [Защита устройств от неправильной подачи полярности питания]: <https://habrahabr.ru/post/254035/>
 [Широкополосный SDR радиосканер из DVB тюнера]: <https://vk.com/dvb_tv>
 [Снимки с метеоспутников + SDR]: <https://vk.com/noaa_sat>
-
 [Low-pass filter]: <https://en.wikipedia.org/wiki/Low-pass_filter>
 [High-pass filter]: <https://en.wikipedia.org/wiki/High-pass_filter>
 [Butterworth filter]: <https://en.wikipedia.org/wiki/Butterworth_filter>
 [Elliptic filter]: <https://en.wikipedia.org/wiki/Elliptic_filter>
 [Attenuator]: <https://en.wikipedia.org/wiki/Attenuator_(electronics)>
-
 [RTL-SDR.COM V.3]: <https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/>
