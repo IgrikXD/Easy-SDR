@@ -7,13 +7,13 @@ Easy and quick building of active [PA0RDT Mini-Whip antenna](./TH) (TH component
 
 ## Basic characteristics of the antenna:
 
-- **Frequency range:** 10 kHz - 30 MHz;
-- **Power:** DC 12 - 15 V, 50 mA;
-- **Second order output intercept point:** > + 70 dBm;
-- **Third order output intercept point:** > + 30 dBm;
-- **Maximum output power:** in excess of – 15 dBm;
-- **RF connector:** SMA;
-- **Feed line:** 50 Ohm coaxial cable;
+- **Frequency range:** 10 kHz - 30 MHz
+- **Power:** DC 12 - 15 V, 50 mA
+- **Second order output intercept point:** > + 70 dBm
+- **Third order output intercept point:** > + 30 dBm
+- **Maximum output power:** in excess of – 15 dBm
+- **RF connector:** SMA
+- **Feed line:** 50 Ohm coaxial cable
 
 ## What was used in the development?
 | Source | Description |
