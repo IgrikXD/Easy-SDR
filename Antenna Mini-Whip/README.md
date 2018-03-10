@@ -1,12 +1,9 @@
-# Project for easy and quick building of active pa0rdt Mini-Whip antenna.
+# Antenna Mini-Whip
 
-Project includes schematic and PCB (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The project was based on the idea of an active receiving antenna pa0rdt Mini-Whip. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the good grounding of the antenna. If you use a PCB based on a Sprint Layout file, you can turn off or include a layer of metallization on the final board by one click.
+Easy and quick building of active [PA0RDT Mini-Whip antenna](./TH) (TH component group) or [RA0SMS Mini-Whip antenna](./SMD/EasyEDA) (SMD component group). Module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module. An important point is the `good grounding of the antenna`.
 
-- Original schematic: [pa0rdt Mini Whip];
-- Link to the project on EasyEDA: [Antenna Mini-Whip EasyEDA];
-- Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands];
-
-[How to import EasyEDA .json files] into your project;
+- Link to the projects on EasyEDA: [Antenna Mini-Whip (TH)], [Antenna Mini-Whip (SMD)]
+- Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands]
 
 ## Basic characteristics of the antenna:
 
@@ -18,67 +15,26 @@ Project includes schematic and PCB (EasyEDA, Sprint layout). Based on the submit
 - **RF connector:** SMA;
 - **Feed line:** 50 Ohm coaxial cable;
 
-## For the manufacture of the device you need to purchase the following components:
+## What was used in the development?
+| Source | Description |
+| ------ | ------ |
+| [PA0RDT Mini-Whip] | The original circuit of the active receiving antenna was used. The PCBs for TH components on platforms EasyEDA and Sprint Layout was implemented. |
+| [RA0SMS Mini-Whip] | The original circuit of the active receiving antenna was used. The PCBs for SMD components on platform EasyEDA was implemented. |
+| [Fundamentals of the MiniWhip antenna] | Description of the principles of operation of the antenna. A qualitative article with a detailed step-by-step description. |
+| [Grounding of MiniWhip and other active whip antennas] | Explanation of the need for a good grounding of the active receiving antenna. |
+| [Теоретические основы антенны MiniWhip] | Translation of the two previous articles into Russian.  |
+And also some videos about Mini-Whip (Russian language, original names saved):
+[Антенна Mini-Whip. Изготовление активной приёмной антенны на все КВ диапазоны.](https://www.youtube.com/watch?v=wIoeg69Uv6g)
+[Антенна Mini-Whip. Устройство запитки антенны по кабелю.](https://www.youtube.com/watch?v=J28H7zGxNyg)
+[Антенна Mini-Whip. Проверка антенны в полях. Приём сигналов в диапазонах ДВ/СВ/КВ.](https://www.youtube.com/watch?v=SuCMK43mWR0)
+[Антенна Mini-Whip - активная приёмная КВ/СВ/ДВ/СДВ антенна.](https://www.youtube.com/watch?v=mPkObZw7KLg)
+[MiniWhip vs Dipol. Сравнение работы антенны MiniWhip и диполь на диапазон 40м. Радиосвязь.](https://www.youtube.com/watch?v=QXBOGIJIDug&t)
 
-### Capacitors:
-* [100 nF, nonpolar](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100nf.TRS2&_nkw=100nf&_sacat=0) - **7 pcs.**
-### Connectors:
-* [SMA Female](https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=sma+female&_blrs=spell_check) - **3 pcs.**
-* [SMA Male](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0) - **4 pcs.**
-* [DC-003](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xdc-003.TRS0&_nkw=dc-003&_sacat=0)/[DC-005](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.Xdc-005.TRS2&_nkw=dc-005&_sacat=0)/[KF301-5.0-3P](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.XKF301-3P.TRS0&_nkw=KF301-3P&_sacat=0) - **1 pcs.** The choice of a connector depends on the selection of the PFU module from the Sprint Layout file.
-### Fuse:
-* [Self repaiting fuse 100mA](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xmf-r+100mA.TRS5&_nkw=mf-r+100mA&_sacat=0) - **1 pcs.** Not necessarily, it can be replaced by a jumper.
-### Diodes:
-* [Schottky 1A](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XSchottky+1A.TRS0&_nkw=Schottky+1A&_sacat=0) - **1 pcs.**
-### Inductors:
-* [470 uH](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X470uh.TRS0&_nkw=470uh&_sacat=0) - **2 pcs.**
-### Resistors:
-* [47R, 0.125](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.X47ohm.TRS0&_nkw=47ohm&_sacat=0) - **1 pcs.**
-* [220R, 0.125W](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR3.TRC1.A0.H0.X220ohm.TRS0&_nkw=220ohm&_sacat=0) - **1 pcs.**
-* [680R, 0.125W](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.X680ohm.TRS0&_nkw=680ohm&_sacat=0) - **1 pcs.**
-* [2K2, 0.125W](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.X2.2k+ohm.TRS5&_nkw=2.2k+ohm&_sacat=0) - **1 pcs.**
-* [10K, 0.125W](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.X10k+ohm.TRS0&_nkw=10k+ohm&_sacat=0) - **1 pcs.**
-* [1M, 0.125W](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR2.TRC0.A0.H0.X1m+ohm.TRS0&_nkw=1m+ohm&_sacat=0) - **3 pcs.**
-### Transistors:
-* [BJT: 2N5109](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X2n5109.TRS1&_nkw=2n5109&_sacat=0) - **1 pcs.** [2N5109 datasheet];
-* [JFET: J310](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.Xj310.TRS0&_nkw=j310&_sacat=0) - **1 pcs.** [J310 datasheet];
-### Coaxial cable:
-* [RG-58](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0)/[RG-213](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR9.TRC1.A0.H0.Xrg213.TRS0&_nkw=rg213&_sacat=0) - 6 meters. Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
-### Single-layer copper clad boards (it is not necessary if you order finished PCB):
-* [100x32 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Antenna module.
-* [47x32 mm.](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) - Power Feed Unit.
-
-PCB's can be ordered from the following links:
-
-| PCB Manufacturer | Information |
-| ----- | ----- |
-| [JLCPCB] | International shipping. The minimum order is 5 pieces.|
-| [Seeed Studio] | International shipping. The minimum order is 5 pieces.|
-| [ITEAD] | International shipping. The minimum order is 5 pieces.|
-| [OSH Park] | International shipping. |
-| [Belplata] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery.|
-| [Nanotech] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery. |
-| [PS Electro] | The manufacturer of PCB from Russia. Delivery by mail in Russia, self-delivery. The minimum order is 1 pieces.|
-| [Rezonit] |  The manufacturer of PCB from Russia. Delivery by mail in Russia, self-delivery. The minimum order is 1 pieces. |
-| [MERKAR] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery, courier. The minimum order is 1 pieces. |
-| [SATLAND PROTOTYPE] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery. |
-| [Margol Electronics] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery. The minimum order is 1 pieces. |
-
-
-[PA0RDT Mini Whip]: <./pa0rdt-Mini-Whip.pdf>
-[How to import EasyEDA .json files]: <https://easyeda.com/dillon/Backup_Your_EasyEDA_Project_Locally-JrecamWv5>
-[JLCPCB]: <https://jlcpcb.com/quote>
-[Seeed Studio]: <https://www.seeedstudio.com/fusion_pcb.html>
-[ITEAD]: <https://www.itead.cc/open-pcb.html>
-[OSH Park]: <https://oshpark.com/uploads/new>
-[Belplata]: <http://www.belplata.by/on-line-order>
-[PS Electro]: <http://www.pselectro.ru/zakaz_pechatnyh_plat/>
-[Rezonit]: <http://www.rezonit.ru/service/calc/>
-[Nanotech]: <http://www.pcb.by/index.php/clients/orderform>
-[MERKAR]: <http://www.merkar.pl/cennik.html>
-[SATLAND PROTOTYPE]: <http://prototypy.com/t/51,Plytki_PCB>
-[Margol Electronics]: <http://www.fabrykapcb.pl/jakzamowic.html>
+[PA0RDT Mini-Whip]: <http://dl1dbc.net/SAQ/miniwhip.html>
+[RA0SMS Mini-Whip]: <http://www.ra0sms.ru/p/the-active-antenna-mini-whip-10-khz-30.html>
+[Fundamentals of the MiniWhip antenna]: <http://www.pa3fwm.nl/technotes/tn07.html>
+[Grounding of MiniWhip and other active whip antennas]: <http://www.pa3fwm.nl/technotes/tn09d.html>
+[Теоретические основы антенны MiniWhip]: <http://www.ra0sms.ru/p/mini-whip.html>
 [Wide-band WebSDR in Enschede, the Netherlands]: <http://websdr.ewi.utwente.nl:8901/>
-[J310 datasheet]: <./Datasheets/J310-Datasheet.pdf>
-[2N5109 datasheet]: <./Datasheets/2N5109-Datasheet-Motorola.pdf>
-[Antenna Mini-Whip EasyEDA]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
+[Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
+[Antenna Mini-Whip (SMD)]: <https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754>
