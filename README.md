@@ -28,7 +28,7 @@ You can order the SDR receiver on any of the currently available internet sites,
 | [Airspy] | You can choose a retailer according to your whereabouts. Performs support and develop new versions. There are links for downloading software and working with the server. |
 
 ## Who helped me with the development of the project?
-Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers [RTL-SDR.COM V.3] and information support. And also [Mini-Circuits] for the provided samples of [ADE] frequency mixer by EZ-Sample program.
+Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers [RTL-SDR.COM V.3] and information support. [LCSC] company that provided most of the electronic components used for assembly for completely free. And also [Mini-Circuits] for the provided samples of [ADE] frequency mixer by EZ-Sample program.
 
 ## What was used mainly in the development?
 | Source | Description |
@@ -48,7 +48,8 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers [RTL-SDR
 [RTL-SDR.COM]: <https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/>
 [NooElec]: <http://www.nooelec.com/store/sdr.html>
 [Airspy]: <https://airspy.com/purchase/>
-[RTL-SDR.COM V.3]: <https://www.rtl-sdr.com/product/rtl-sdr-blog-v3-r820t2-rtl2832u-1ppm-tcxo-sma-software-defined-radio-dongle-only/>
+[RTL-SDR.COM V.3]: <https://www.rtl-sdr.com/>
+[LCSC]: <https://lcsc.com/>
 [Mini-Circuits]: <https://ww2.minicircuits.com/homepage/homepage.html>
 [ADE]: <https://www.minicircuits.com/WebStore/dashboard.html?model=ADE-1%2B>
 [PA0RDT Mini-Whip]: <http://dl1dbc.net/SAQ/miniwhip.html>
