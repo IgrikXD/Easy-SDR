@@ -4,6 +4,7 @@ Easy and quick building of active [PA0RDT Mini-Whip antenna](./TH) (TH component
 
 ## How it works?
 Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands]
+Detailed description of the principle of operation: [Fundamentals of the MiniWhip antenna]
 
 ## Current available implementations at EasyEDA platform:
 - [Antenna Mini-Whip (TH)]
