@@ -26,7 +26,7 @@ We want to receive a signal with frequency **4625 kHz**. But if we try to receiv
 | [Широкополосный SDR радиосканер из DVB тюнера] | The Russian community works with SDR receivers. Any user can ask a question of interest, open discussions. |
 | [Снимки с метеоспутников + SDR] | The Russian community works with SDR receivers and is engaged in receiving images from meteorological satellites. Closed discussions, messages are moderated. |
 
-Some theoretical information about constituent parts:
+Some theoretical information about used parts:
 
 - [Low-pass filter]
 - [High-pass filter]
