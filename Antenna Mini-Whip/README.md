@@ -25,6 +25,7 @@ Easy and quick building of active [PA0RDT Mini-Whip antenna](./TH) (TH component
 | [Теоретические основы антенны MiniWhip] | Translation of the two previous articles into Russian.  |
 
 And also some videos about Mini-Whip (Russian language, original names saved):
+
 - [Антенна Mini-Whip. Изготовление активной приёмной антенны на все КВ диапазоны.](https://www.youtube.com/watch?v=wIoeg69Uv6g);
 - [Антенна Mini-Whip. Устройство запитки антенны по кабелю.](https://www.youtube.com/watch?v=J28H7zGxNyg);
 - [Антенна Mini-Whip. Проверка антенны в полях. Приём сигналов в диапазонах ДВ/СВ/КВ.](https://www.youtube.com/watch?v=SuCMK43mWR0);
