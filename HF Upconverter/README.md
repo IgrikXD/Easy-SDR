@@ -22,7 +22,7 @@ At the moment, the method described above is the best way to work with the SDR r
 ## What was used in the development?
 | Source | Description |
 | ------ | ------ |
-| [Upconverter1v3] | Use some parts from original schematic. The PCBs for SMD components on platform EasyEDA was implemented. |
+| [Upconverter1v3] | Some parts from original schematic were used. The PCBs for SMD components on platform EasyEDA was implemented. |
 | [Basic SDR Upconverter v1.0] | The original circuit of the HF Upconverter was used. The PCB for TH components on platforms EasyEDA and Sprint Layout was implemented. |
 | [Opendous Inc.'s OpenHardware] | Some useful information about HF Upconverter. |
 | [Еще раз о приеме КВ на RTL-SDR] | Article in Russian, describing how the converter works. The schematic of the Upconverter is given. |
