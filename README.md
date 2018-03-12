@@ -37,7 +37,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 | [RA0SMS Mini-Whip] | The original circuit of the active receiving antenna was used. The PCBs for SMD components on platform EasyEDA was implemented. |
 | [Opendous Inc.'s OpenHardware] | Some useful information about HF Upconverter. |
 | [Basic SDR Upconverter v1.0] | The original circuit of the HF Upconverter was used. The PCB for TH components on platforms EasyEDA and Sprint Layout was implemented. |
-| [Upconverter1v3] | Use some parts from original schematic. The PCBs for SMD components on platform EasyEDA was implemented. |
+| [Upconverter1v3] | Some parts from original schematic were used. The PCBs for SMD components on platform EasyEDA was implemented. |
 
 ## How to contact me?
 - E-mail: igor.nikolaevich.96@gmail.com
