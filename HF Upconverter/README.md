@@ -17,7 +17,7 @@ After that, we can also set the amount of offset in the software used for recept
 At the moment, the method described above is the best way to work with the SDR receiver in the frequency range up to 30 MHz (subject to the availability of an appropriate antenna).
 
 ## HF Upconverter diagram
-![HF Upconverter diagram](../Resources/Upconverter-diagram.png)
+![HF Upconverter diagram](../Resources/HF%20Upconverter/Upconverter-diagram.png)
 
 ## What was used in the development?
 | Source | Description |
