@@ -2,13 +2,13 @@
 
 Easy and quick building of active PA0RDT Mini-Whip antenna ([TH component group](./TH)) or RA0SMS Mini-Whip antenna ([SMD component group](./SMD/EasyEDA)). Module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
 
-## How it works?
-Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands]  
-Detailed description of the principle of operation: [Fundamentals of the MiniWhip antenna]
-
 ## Current available implementations at EasyEDA platform:
 - [Antenna Mini-Whip (TH)]
 - [Antenna Mini-Whip (SMD)]
+
+## How it works?
+Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands]  
+Detailed description of the principle of operation: [Fundamentals of the MiniWhip antenna]
 
 ## Basic characteristics of the antenna:
 
