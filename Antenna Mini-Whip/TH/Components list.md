@@ -1,8 +1,14 @@
 # Components list for Antenna Mini-Whip (TH) module
 
 ##### Transistors:
-- JFET J310, TO-92 ([LCSC](https://lcsc.com/search?q=j310%20to-92)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.Xj310.TRS0&_nkw=j310&_sacat=0)/[Datasheet](./Datasheets/JFET/J310-Datasheet.pdf)) - **1 pcs.**
-- BJT(NPN) 2N5109, TO-39 ([LCSC](https://lcsc.com/search?q=2n5109%20to-39)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X2n5109.TRS1&_nkw=2n5109&_sacat=0)/[Datasheet](./Datasheets/BJT%20(NPN)/2N5109-Datasheet-Motorola.pdf)) - **1 pcs.**
+- JFET J310, TO-92 (
+[LCSC](https://lcsc.com/search?q=j310%20to-92)/
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.Xj310.TRS0&_nkw=j310&_sacat=0)/
+[Datasheet](./Datasheets/JFET/J310-Datasheet.pdf)) - **1 pcs.**
+- BJT(NPN) 2N5109, TO-39 (
+[LCSC](https://lcsc.com/search?q=2n5109%20to-39)/
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X2n5109.TRS1&_nkw=2n5109&_sacat=0)/
+[Datasheet](./Datasheets/BJT%20(NPN)/2N5109-Datasheet-Motorola.pdf)) - **1 pcs.**
 
 ##### Diodes:
 - 1N5819, DO-41 ([LCSC](https://lcsc.com/search?q=1n5819%20do-41)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR4.TRC1.A0.H0.X1n5819.TRS2&_nkw=1n5819&_sacat=0)/[Datasheet](./Datasheets/Diodes/1N5817-1N5819-Diode-Datasheet.pdf)) - **1 pcs.**
