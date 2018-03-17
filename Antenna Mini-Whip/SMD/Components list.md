@@ -14,7 +14,7 @@
 - SS14, DO-214AC (
 [LCSC](https://lcsc.com/search?q=ss14%20do-214ac)/
 [EBAY](https://www.ebay.com/sch/i.html?_odkw=ss14&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xss14+do-214ac.TRS1&_nkw=ss14+do-214ac&_sacat=0)/
-[Datasheet](./Datasheets/Diodes/SS14-SS16-Diode-Datasheet.pdf)) - **1 pcs.**
+[Datasheet](./Datasheets/Diodes/SS12-SS16-Diode-Datasheet.pdf)) - **1 pcs.**
 
 ##### Inductors:
 - 10uH, 0805 (
