@@ -26,9 +26,13 @@
 - 1M, 0805 ([LCSC](https://lcsc.com/search?q=1M%200805)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.X1m+0805.TRS0&_nkw=1m+0805&_sacat=0)) - **1pcs.**
 - 5M1, 0805 ([LCSC](https://lcsc.com/search?q=5M1%200805)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.X5m1+080.TRS0&_nkw=5m1+0805&_sacat=0)) - **1 pcs.**
 
-##### Connectors:
-- SMA Female ([LCSC](https://lcsc.com/search?q=sma%20female%20edge)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0)) - **3 pcs.**
-- SMA Male ([LCSC](https://lcsc.com/search?q=sma%20male)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0)) - **4 pcs.**
+##### Fuses:
+- Self repaiting fuse 100mA ([LCSC]()/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xmf-r+100mA.TRS5&_nkw=mf-r+100mA&_sacat=0)) - **1 pcs.** Not necessarily, it can be replaced by a jumper.
 
+##### Connectors:
+- SMA Female ([LCSC](https://lcsc.com/search?q=sma%20female%20edge)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0)/[Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf)) - **3 pcs.**
+- SMA Male ([LCSC](https://lcsc.com/search?q=sma%20male)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0)) - **4 pcs.**
+- DC-005 ([LCSC](https://lcsc.com/search?q=dc-005)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.Xdc-005.TRS2&_nkw=dc-005&_sacat=0)/[Datasheet](./Datasheets/Connectors/DC-005-Datasheet.pdf)) - **1 pcs.**
+ 
 ##### Coaxial cable:
 * RG-58 ([LCSC](https://lcsc.com/search?q=rg58)/[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0)) - **3 meters.** Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
