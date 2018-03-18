@@ -66,7 +66,7 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **3 pcs.**
 - SMA Male (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0) ) - **4 pcs.**
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0) ) - **2 pcs.**
 - DC-005 (
 [LCSC](https://lcsc.com/search?q=dc-005) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.Xdc-005.TRS2&_nkw=dc-005&_sacat=0) /

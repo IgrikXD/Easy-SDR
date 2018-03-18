@@ -55,16 +55,16 @@
 [Datasheet](./Datasheets/Zener%20diodes/BZV55-series-Diode-Datasheet.pdf) ) - **1 pcs.**
 
 ##### LED:
-Blue, 0805 (
+- Blue, 0805 (
 [LCSC](https://lcsc.com/search?q=blue%20led%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xblue+led+0805.TRS0&_nkw=blue+led+0805&_sacat=0) ) - **1 pcs.**
-Red, 0805 (
+- Red, 0805 (
 [LCSC](https://lcsc.com/search?q=red%20led%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xred+led+0805.TRS0&_nkw=red+led+0805&_sacat=0) ) - **1 pcs.**
-Green, 0805 (
+- Green, 0805 (
 [LCSC](https://lcsc.com/search?q=green%20led%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.Xgreen+led+080.TRS0&_nkw=green+led+0805&_sacat=0) ) - **1 pcs.**
-Yellow, 0805 (
+- Yellow, 0805 (
 [LCSC](https://lcsc.com/search?q=yellow%20led%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xyellow+led+080.TRS0&_nkw=yellow+led+0805&_sacat=0) ) - **1 pcs.**
 
@@ -196,7 +196,7 @@ Yellow, 0805 (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **2 pcs.**
 - SMA Male (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0) ) - **4 pcs.**
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0) ) - **2 pcs.**
 - USB type B (
 [LCSC](https://lcsc.com/search?q=USB%20BFemale90) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1311.R1.TR5.TRC0.A0.H0.Xusb+type+b+f.TRS0&_nkw=usb+type+b+female+connector&_sacat=0) /
@@ -208,4 +208,4 @@ Yellow, 0805 (
  
 ##### Coaxial cable:
 - RG-58 (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0) ) - **3 meters.** Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0) ) - **0.5 meter.** Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
