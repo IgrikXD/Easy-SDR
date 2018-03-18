@@ -7,14 +7,14 @@
 /SBL-1 or analog, A06 (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xade-1.TRS0&_nkw=ade-1&_sacat=0) /
 [Datasheets](./Datasheets/Mixers/SBL%20series/) ) 
-SA602AN, DIP8 (
+/SA602AN, DIP8 (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xade-1.TRS0&_nkw=ade-1&_sacat=0) /
 [Datasheets](./Datasheets/Mixers/SA602AN-Frequency-mixer-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Crystal oscillators:
 - 125 MHz, DIP4 (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H2.Xcrystal+oscillator+125mhz+dip4.TRS1&_nkw=crystal+oscillator+125mhz+dip4&_sacat=0) /
-[Datasheets](./Datasheets/Crystal%20oscillators/HO-22&25-Crystal-oscillators-Datasheet.pdf) ) - **1 pcs.**
+[Datasheets](./Datasheets/Crystal%20oscillators/HO-22-25-Crystal-oscillators-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Diodes:
 - 1N4148, DO-35 (
