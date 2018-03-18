@@ -25,10 +25,10 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X470uh.TRS0&_nkw=470uh&_sacat=0) ) - **2 pcs.**
 
 ##### Capacitors:
-- 100pF, 0805 (
+- 100pF, 16V+, 0805 (
 [LCSC](https://lcsc.com/search?q=100pf%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.X100pf+0805.TRS0&_nkw=100pf+0805&_sacat=0) ) - **1 pcs.**
-- 100nF, 0805 (
+- 100nF, 16V+, 0805 (
 [LCSC](https://lcsc.com/search?q=100nf%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR6.TRC1.A0.H0.X100nf+0805.TRS0&_nkw=100nf+0805&_sacat=0) ) - **7 pcs.**
 
