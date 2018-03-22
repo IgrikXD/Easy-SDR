@@ -3,8 +3,8 @@
 Easy and quick building of HF Upconverter at the [TH component group](./TH) or [SMD component group](./SMD/EasyEDA). Module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the upconverter is cheaper than buying a ready-made module.
 
 ## Current available implementations at EasyEDA platform:
-- [HF Upconverter (TH)]
-- [HF Upconverter (SMD)]
+- [HF Upconverter (TH)] ([Components list](./TH/Components%20list.md), [Assembly guide](./TH/Assembly%20guide.md))
+- [HF Upconverter (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
 
 ## How it works?
 HF Upconverter was based on the idea of an shifting the frequency up by a certain value (I use 125 MHz value), after this conversion your receiver will be able to correctly process frequencies below 30 MHz with less loss of useful signal.
