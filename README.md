@@ -13,7 +13,7 @@ Creating affordable, easy-to-manufacture layouts of PCBs and software to working
 - [HF Upconverter (SMD)]
 
 ## Current development progress:
-[![Progress](http://progressed.io/bar/100?title=EasyEDA%20)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/100?title=Sprint%20Layout) ![Progress](http://progressed.io/bar/50?title=Documentation%20) ![Progress](http://progressed.io/bar/0?title=Testing)
+[![Progress](http://progressed.io/bar/100?title=EasyEDA%20)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/100?title=Sprint%20Layout) ![Progress](http://progressed.io/bar/50?title=Documentation%20) ![Progress](http://progressed.io/bar/20?title=Testing)
 
 ## How to use this repository?
 In the root of the repository select a device of interest and go to the appropriate directory (for example [HF Upconverter](./HF%20Upconverter). After the transition, select the component group of interest ([SMD](./HF%20Upconverter/SMD) or [TH](./HF%20Upconverter/TH)), also in [Datasheets](./HF%20Upconverter/Datasheets) directory you can find all necessary technical documentation for the used components in chosen module. The next step is to choose the platform in which the project is implemented ([EasyEDA](./HF%20Upconverter/TH/EasyEDA) or [Sprint Layout](./HF%20Upconverter/TH/Sprint%20Layout)). After selecting the directory with the platform of interest, the list of files for implementing the device becomes available to you. After that, based on submitted files, you can make the device completely independent or order printed circuit boards for factory manufacturing.
