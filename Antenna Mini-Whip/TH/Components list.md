@@ -6,7 +6,7 @@
 [Datasheet](./Datasheets/JFET/J310-Datasheet.pdf) ) - **1 pcs.**
 - BJT(NPN) 2N5109, TO-39 (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X2n5109.TRS1&_nkw=2n5109&_sacat=0) /
-[Datasheet](./Datasheets/BJT%20(NPN)/2N5109-Datasheet-Motorola.pdf) ) - **1 pcs.**
+[Datasheet](./Datasheets/BJT%20(NPN)/2N5109-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Diodes:
 - 1N5819, DO-41 (
