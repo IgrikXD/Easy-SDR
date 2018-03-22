@@ -20,7 +20,7 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X470uh.TRS0&_nkw=470uh&_sacat=0) ) - **2 pcs.**
 
 ##### Capacitors:
-- 100nF, 16V+ (
+- 100nF, 20V+ (
 [LCSC](https://lcsc.com/search?q=100nf%20plugin) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100nf.TRS2&_nkw=100nf&_sacat=0) ) - **7 pcs.**
 
