@@ -3,7 +3,7 @@
 ## Why JLCPCB?
 When developing their projects, in the case of ordering printed circuit boards I use the services of the [JLCPCB] platform. I chose this platform on the basis of the convenience of integration with the [EasyEDA] platform, low prices for orders of PCBs up to 100x100 mm., and the relatively low price of delivery to my country (I live in Belarus).
 
-## What other companies exist to ordering PCB's?
+## What other companies exist to ordering PCBs?
 | PCB Manufacturer | Information |
 | ----- | ----- |
 | [JLCPCB] | International shipping. The minimum order is 5 pieces.|
@@ -40,7 +40,7 @@ Setting production parameters. These parameters are set automatically and are co
 "Gerber Viewer" analysis result. Do not worry about the warning. Gerber_drill.GTP and Gerber_drill.GBP files are not needed to work with the JLCPCB platform, they will simply be ignored. The minimal trace spacing warning is also ignored, because our circuit board has successfully passed a preliminary check for DRC errors.  
 ![Check result](../Resources/JLCPCB%20order/JLCPCB-7-Check-result.png)  
 
-After checking all the parameters, we press the "SAVE TO CART" button to save the current order. At this stage, you can add several more PCBs to the order. To do this, click the "+ Add new item" button, after which you will be taken to the page for adding the Gerber file, the actions for adding a new PCB are similar to those described earlier. If you added all the necessary PCB's, proceed to the next step - processing and payment of the order. To do this, click the "Checkout securely" button.  
+After checking all the parameters, we press the "SAVE TO CART" button to save the current order. At this stage, you can add several more PCBs to the order. To do this, click the "+ Add new item" button, after which you will be taken to the page for adding the Gerber file, the actions for adding a new PCB are similar to those described earlier. If you added all the necessary PCBs, proceed to the next step - processing and payment of the order. To do this, click the "Checkout securely" button.  
 ![Cart](../Resources/JLCPCB%20order/JLCPCB-8-Cart.png)  
 
 At this step, add your mailing address, choose the most convenient method of delivery (at the time of 2018, if you make the first order on the JLCPCB platform the delivery is free of charge) and the preferred method of payment. After adding all the necessary data, click the "Pay" button.  
