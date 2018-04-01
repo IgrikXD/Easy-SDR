@@ -45,7 +45,7 @@ After setting all the parameters, we press the "OK" button and get into the Gqrx
 For a more detailed guide to working with the Gqrx program, you can use the following link: [Practical tricks and tips – Gqrx SDR]  
 To find additional software for working with the received signal, you can use the following link: [Amateur radio (Software list) - ArchWiki]
 
-## How to check the efficiency of my receiver?
+## How can I make sure my SDR receiver is working?
 Insert your receiver into the USB connector of the computer and run the following command:
 ```sh
 rtl_test
