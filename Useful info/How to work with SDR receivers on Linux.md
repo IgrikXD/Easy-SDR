@@ -31,7 +31,7 @@ After the above steps, we can start working with our SDR receiver. Now, we run g
 ```sh
 gqrx
 ```
-After executing this command, we will see the basic Gqrx settings window.
+After executing this command, we will see the basic Gqrx settings window.  
 ![Upgrade](../Resources/SDR%20on%20Linux/Linux-3-Gqrx-basic-settings.png)  
 
 To work with our SDR receiver in the field "**Device**" select the value "**Realtek RTL2832UHIDIR SN: 00000001**".  
@@ -50,7 +50,7 @@ Insert your receiver into the USB connector of the computer and run the followin
 ```sh
 rtl_test
 ```
-This command will be executed indefinitely, until the user aborts execution. Stop the command about a minute after the start (Ctrl + C). If, as a result of the command, the value of "Samples per million lost (minimum)" is zero, your device is working properly.
+This command will be executed indefinitely, until the user aborts execution. Stop the command about a minute after the start (Ctrl + C). If, as a result of the command, the value of "Samples per million lost (minimum)" is zero, your device is working properly.  
 ![Upgrade](../Resources/SDR%20on%20Linux/Linux-5-Rtl-test.png)  
 
 ## How to use software selectable Bias Tee?
@@ -77,6 +77,14 @@ If you want to disable this mode, use the following command:
 ```sh
 ./rtl_biast -b 0
 ```
+
+Other articles:  
+[How to export Gerber file from EasyEDA](./How%20to%20export%20Gerber%20file%20from%20EasyEDA.md)  
+[How to order from JLCPCB](./How%20to%20order%20from%20JLCPCB.md)  
+[How to order from LCSC](./How%20to%20order%20from%20LCSC.md)  
+[How to make a PCB (LUT technology)](./How%20to%20make%20a%20PCB%20(LUT%20technology).md)  
+[How to make a PCB (Photoresist method)](./How%20to%20make%20a%20PCB%20(Photoresist%20method).md)  
+[How to use solder mask](./How%20to%20use%20solder%20mask.md)  
 
 
 [Manjaro Linux]: <https://manjaro.org/>
