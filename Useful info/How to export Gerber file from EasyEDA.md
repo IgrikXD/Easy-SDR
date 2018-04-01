@@ -19,31 +19,31 @@ The answer is simple - if you want to order production of PCBs on a platform oth
 | [Margol Electronics] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery. The minimum order is 1 pieces. |
 
 ## Exporting Gerber files
-First, go to the page of the module you are interested in on the EasyEDA website:
+First, go to the page of the module you are interested in on the EasyEDA website.  
 ![Module page](../Resources/EasyEDA%20Gerber%20export/EasyEDA-1-Module-page.png)
 
-Click the "Documents" button and drop below the "Open in Editor" button.
+Click the "Documents" button and drop below the "Open in Editor" button.  
 ![Open editor](../Resources/EasyEDA%20Gerber%20export/EasyEDA-2-Open-editor.png)
 
-Click this button, whereby you will be taken to the EasyEDA editor where you can pre-edit the layout of the PCB before exporting.
+Click this button, whereby you will be taken to the EasyEDA editor where you can pre-edit the layout of the PCB before exporting.  
 ![Editor](../Resources/EasyEDA%20Gerber%20export/EasyEDA-3-Editor.png)
 
-After all the necessary corrections we can make exporting the Gerber file. To do this, you need to on the right, in the top panel of the editor, click the "Generate Gerber" button.
+After all the necessary corrections we can make exporting the Gerber file. To do this, you need to on the right, in the top panel of the editor, click the "Generate Gerber" button.  
 ![Gerber export](../Resources/EasyEDA%20Gerber%20export/EasyEDA-4-Gerber-export.png)
 
-Next, small window appearing where you can see a small image of your PCB and some information needed for placing an order on the JLCPCB (manufacturing parameters, quantity, shipping information and price). At this step, you can either just **save the Gerber file**, preview the Gerber file with "Gerber View", or going to the JLCPCB platform to ordering the PCB. 
+Next, small window appearing where you can see a small image of your PCB and some information needed for placing an order on the JLCPCB (manufacturing parameters, quantity, shipping information and price). At this step, you can either just **save the Gerber file**, preview the Gerber file with "Gerber View", or going to the JLCPCB platform to ordering the PCB.  
 ![Gerber preview](../Resources/EasyEDA%20Gerber%20export/EasyEDA-5-Gerber-preview.png)
 
-Gerber View page
+Gerber View page  
 ![Gerber view](../Resources/EasyEDA%20Gerber%20export/EasyEDA-6-Gerber-view.png)
 
-Redirecting to JLCPCB
+Redirecting to JLCPCB  
 ![JLCPCB redirect](../Resources/EasyEDA%20Gerber%20export/EasyEDA-7-JLCPCB-redirect.png)
 
-If you choose redirection to JLCPCB, the Gerber file will be automatically downloaded to JLCPCB checked for trace errors, the price and time of production are calculated. After that you can pay for the formed order.
+If you choose redirection to JLCPCB, the Gerber file will be automatically downloaded to JLCPCB checked for trace errors, the price and time of production are calculated. After that you can pay for the formed order.  
 ![Gerber upload](../Resources/EasyEDA%20Gerber%20export/EasyEDA-8-Gerber-upload.png)
 
-Successfully uploaded
+Successfully uploaded  
 ![Upload success](../Resources/EasyEDA%20Gerber%20export/EasyEDA-9-Gerber-upload-success.png)
 
 
