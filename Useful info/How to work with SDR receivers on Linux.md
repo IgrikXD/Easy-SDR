@@ -8,7 +8,7 @@ There are several reasons why I chose [Manjaro Linux]. I used Archlinux for a lo
 ## What do we need for work?
 - SDR receiver (I will use [RTL-SDR.COM V3]);
 - Antenna for the range you are interested in (I will use [Antenna Mini-Whip (TH)]);
-- Computer with [Manjaro Linux] installed (preferably a laptop, will be less noise when receiving);
+- Computer with [Manjaro Linux] installed (preferably a laptop with battery power, will be less noise when receiving);
 - Internet connection (for downloading the required packages);
 
 ## Installing and configuring the required packages
@@ -71,7 +71,7 @@ cd src
 ![Upgrade](../Resources/SDR%20on%20Linux/Linux-8-Make.png)  
 ![Upgrade](../Resources/SDR%20on%20Linux/Linux-9-Rtl-biast.png)  
 
-**Important notice**, do not try to make sudo make install, this command will work fine, but running the package with rtl_biast -b X will not work. This error was not eliminated by the developer at the time of April 2018. 
+Important notice, **do not try to make "sudo make install"**, this command will work fine, but running the package with rtl_biast -b X will not work. This error was not eliminated by the developer at the time of April 2018. 
 
 If you want to disable this mode, use the following command:
 ```sh
