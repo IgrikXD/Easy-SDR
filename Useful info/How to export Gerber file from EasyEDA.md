@@ -31,7 +31,7 @@ Click this button, whereby you will be taken to the EasyEDA editor where you can
 After all the necessary corrections we can make exporting the Gerber file. To do this, you need to on the right, in the top panel of the editor, click the "Generate Gerber" button.  
 ![Gerber export](../Resources/EasyEDA%20Gerber%20export/EasyEDA-4-Gerber-export.png)
 
-Next, small window appearing where you can see a small image of your PCB and some information needed for placing an order on the JLCPCB (manufacturing parameters, quantity, shipping information and price). At this step, you can either just **save the Gerber file**, preview the Gerber file with "Gerber View", or going to the JLCPCB platform to ordering the PCB.  
+Next, small window appearing where you can see a small image of your PCB and some information needed for placing an order on the JLCPCB (manufacturing parameters, quantity, shipping information and price). At this step, you can either just **save the Gerber file, by pushing "Generate Gerber" button**, preview the Gerber file with "Gerber View", or going to the JLCPCB platform to ordering the PCB.  
 ![Gerber preview](../Resources/EasyEDA%20Gerber%20export/EasyEDA-5-Gerber-preview.png)
 
 Gerber View page  
