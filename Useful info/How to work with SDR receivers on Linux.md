@@ -31,10 +31,10 @@ gqrx
 After executing this command, we will see the basic Gqrx settings window.
 
 To work with our SDR receiver in the field "Device" select the value "Realtek RTL2832UHIDIR SN: 00000001".
-If we need the "Direct sampling" mode, the "Device string" field is given to the following form: "rtl = 0, direct_samp = 2" (without the quotes). If the mode "Direct sampling" is not needed, we leave the "Device string" field in the form: "rtl = 0" (without the quotes).
-The value of "Input rate" is set to a value 1800000;
-The value of "Decimation" is set to a value of 16;
-The last two parameters can be set in their own way, but the settings shown above allow you to simultaneously display a bandwidth of 100 kHz, which is more convenient for me.
+If we need the "Direct sampling" mode, the "Device string" field is given to the following form: "rtl=0,direct_samp=2" (without the quotes). If the mode "Direct sampling" is not needed, we leave the "Device string" field in the form: "rtl=0" (without the quotes);  
+The value of "Input rate" is set to a value 1800000;  
+The value of "Decimation" is set to a value of 16;  
+The last two parameters can be set in their own way, but the settings shown above allow you to simultaneously display a bandwidth of 100 kHz, which is more convenient for me.  
 After setting all the parameters, we press the "OK" button and get into the Gqrx program. To start receiving, press the "Play (Start DSP processing)" button in the upper left part of the program.
 
 ## How to check the efficiency of my receiver?
