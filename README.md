@@ -12,6 +12,11 @@ Creating affordable, easy-to-manufacture layouts of PCBs and software to working
 - [HF Upconverter (TH)]
 - [HF Upconverter (SMD)]
 
+## Current available information articles:
+- [How to export Gerber file from EasyEDA]
+- [How to order from JLCPCB]
+- [How to work with SDR receivers on Linux]
+
 ## Current development progress:
 [![Progress](http://progressed.io/bar/100?title=EasyEDA%20)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/100?title=Sprint%20Layout) ![Progress](http://progressed.io/bar/50?title=Documentation%20) ![Progress](http://progressed.io/bar/20?title=Testing)
 
@@ -60,3 +65,6 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [Antenna Mini-Whip (SMD)]: <https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754>
 [HF Upconverter (TH)]: <https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8>
 [HF Upconverter (SMD)]: <https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d>
+[How to export Gerber file from EasyEDA]: <./Useful%20info/How%20to%20export%20Gerber%20file%20from%20EasyEDA.md>
+[How to order from JLCPCB]: <./Useful%20info/How%20to%20order%20from%20JLCPCB.md>
+[How to work with SDR receivers on Linux]: <./Useful%20info/How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md>
