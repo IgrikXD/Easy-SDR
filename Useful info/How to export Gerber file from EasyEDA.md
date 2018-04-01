@@ -20,31 +20,31 @@ The answer is simple - if you want to order production of PCBs on a platform oth
 
 ## Exporting Gerber files
 First, go to the page of the module you are interested in on the EasyEDA website.  
-![Module page](../Resources/EasyEDA%20Gerber%20export/EasyEDA-1-Module-page.png)
+![Module page](../Resources/EasyEDA%20Gerber%20export/EasyEDA-1-Module-page.png)  
 
 Click the "Documents" button and drop below the "Open in Editor" button.  
-![Open editor](../Resources/EasyEDA%20Gerber%20export/EasyEDA-2-Open-editor.png)
+![Open editor](../Resources/EasyEDA%20Gerber%20export/EasyEDA-2-Open-editor.png)  
 
 Click this button, whereby you will be taken to the EasyEDA editor where you can pre-edit the layout of the PCB before exporting.  
-![Editor](../Resources/EasyEDA%20Gerber%20export/EasyEDA-3-Editor.png)
+![Editor](../Resources/EasyEDA%20Gerber%20export/EasyEDA-3-Editor.png)  
 
 After all the necessary corrections we can make exporting the Gerber file. To do this, you need to on the right, in the top panel of the editor, click the "Generate Gerber" button.  
-![Gerber export](../Resources/EasyEDA%20Gerber%20export/EasyEDA-4-Gerber-export.png)
+![Gerber export](../Resources/EasyEDA%20Gerber%20export/EasyEDA-4-Gerber-export.png)  
 
 Next, small window appearing where you can see a small image of your PCB and some information needed for placing an order on the JLCPCB (manufacturing parameters, quantity, shipping information and price). At this step, you can either just **save the Gerber file, by pushing "Generate Gerber" button**, preview the Gerber file with "Gerber View", or going to the JLCPCB platform to ordering the PCB.  
-![Gerber preview](../Resources/EasyEDA%20Gerber%20export/EasyEDA-5-Gerber-preview.png)
+![Gerber preview](../Resources/EasyEDA%20Gerber%20export/EasyEDA-5-Gerber-preview.png)  
 
 Gerber View page  
-![Gerber view](../Resources/EasyEDA%20Gerber%20export/EasyEDA-6-Gerber-view.png)
+![Gerber view](../Resources/EasyEDA%20Gerber%20export/EasyEDA-6-Gerber-view.png)  
 
 Redirecting to JLCPCB  
-![JLCPCB redirect](../Resources/EasyEDA%20Gerber%20export/EasyEDA-7-JLCPCB-redirect.png)
+![JLCPCB redirect](../Resources/EasyEDA%20Gerber%20export/EasyEDA-7-JLCPCB-redirect.png)  
 
 If you choose redirection to JLCPCB, the Gerber file will be automatically downloaded to JLCPCB checked for trace errors, the price and time of production are calculated. After that you can pay for the formed order.  
-![Gerber upload](../Resources/EasyEDA%20Gerber%20export/EasyEDA-8-Gerber-upload.png)
+![Gerber upload](../Resources/EasyEDA%20Gerber%20export/EasyEDA-8-Gerber-upload.png)  
 
 Successfully uploaded  
-![Upload success](../Resources/EasyEDA%20Gerber%20export/EasyEDA-9-Gerber-upload-success.png)
+![Upload success](../Resources/EasyEDA%20Gerber%20export/EasyEDA-9-Gerber-upload-success.png)  
 
 Other articles:  
 [How to order from JLCPCB](./How%20to%20order%20from%20JLCPCB.md)  
@@ -53,6 +53,7 @@ Other articles:
 [How to make a PCB (Photoresist method)](./How%20to%20make%20a%20PCB%20(Photoresist%20method).md)  
 [How to use solder mask](./How%20to%20use%20solder%20mask.md)  
 [How to work with SDR receivers on Linux](./How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md)
+
 
 [EasyEDA]: <https://easyeda.com/>
 [JLCPCB]: <https://jlcpcb.com/>
