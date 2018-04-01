@@ -51,7 +51,7 @@ Other articles:
 [How to order from LCSC](./How%20to%20order%20from%20LCSC.md)  
 [How to make a PCB (LUT technology)](./How%20to%20make%20a%20PCB%20(LUT%20technology).md)  
 [How to make a PCB (Photoresist method)](./How%20to%20make%20a%20PCB%20(Photoresist%20method).md)  
-[How to use solder mask](./How%20to%20use%20solder%20mask.md)
+[How to use solder mask](./How%20to%20use%20solder%20mask.md)  
 [How to work with SDR receivers on Linux](./How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md)
 
 [EasyEDA]: <https://easyeda.com/>
