@@ -2,7 +2,7 @@
 
 ## Why should I export these files?
 The answer is simple - if you want to order production of PCBs on a platform other than [EasyEDA]/[JLCPCB], you need to export the files (Gerber) necessary for the production of your printed circuit board. After exporting the files, you will need to upload the received files to the PCB manufacturing service.  
-Also, you can find ready Gerber files for a specific module in the directory: Easy-SDR repository / Module name / Component group / EasyEDA / Gerbers.
+Also, you can find ready Gerber files for a specific module in the directory: **Easy-SDR repository / Module name / Component group / EasyEDA / Gerbers**.
 
 ## Where can I order PCB manufacture?
 | PCB Manufacturer | Information |
