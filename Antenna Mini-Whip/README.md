@@ -3,7 +3,7 @@
 Easy and quick building of active PA0RDT Mini-Whip antenna ([TH component group](./TH)) or RA0SMS Mini-Whip antenna ([SMD component group](./SMD/EasyEDA)). Module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
 
 ## Current development progress:
-![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20TH-tested-green.svg) ![Progress](https://img.shields.io/badge/version-2.5.EE-blue.svg)  
+![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28TH%29-tested-green.svg) ![Progress](https://img.shields.io/badge/version-2.5.EE-blue.svg)  
 ![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20(SMD)-not%20tested-yellow.svg) ![Progress](https://img.shields.io/badge/version-1.3.EE-blue.svg)  
 
 ## Current available implementations at EasyEDA platform:
