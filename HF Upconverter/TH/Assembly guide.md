@@ -1,7 +1,8 @@
 # Assembly guide for HF Upconverter (TH) module
 
 ## Manufacture of inductors
-In the process of manufacturing this module, you will have to manufacture the inductors yourself for the used highpass / lowpass filters. Coils are made by winding an enameled copper wire of a certain diameter to a round workpiece of a certain diameter (it is convenient to use drills). Before winding the coil, clean one end of the wire from the insulation (use an aggressive solvent or insulation heating). When you start winding the coil, try to make the windings as close as possible to each other. After finishing the winding of the coil, remove the protective insulation from the other end of the coil and make tinning both ends. After doing this, your coil will be ready for installation on the PCB.
+In the process of manufacturing this module, you will have to manufacture the inductors yourself for the used highpass / lowpass filters. Coils are made by winding an enameled copper wire of a certain diameter to a round workpiece of a certain diameter (it is convenient to use drills). Before winding the coil, clean one end of the wire from the insulation (use an aggressive solvent or insulation heating, approximately
+3-5 mm.). When you start winding the coil, try to make the windings as close as possible to each other. After finishing the winding of the coil, remove the protective insulation from the other end of the coil and make tinning both ends. After doing this, your coil will be ready for installation on the PCB.
 
 A small example of manufacturing an inductor: [Making a Simple Air Core Inductor (Induction Coil): 5 Steps]
 
