@@ -33,7 +33,7 @@ At the moment, the method described above is the best way to work with the SDR r
 | [Защита устройств от неправильной подачи полярности питания] | Article in Russian, describing the principle of protecting electrical appliances from improper polarity of power. This decision was used in HF Upconverter (SMD) module. |
 | [Схемы переключения устройства на резервный источник] | Article in Russian, describing examples of various switching schemes for power supplies. |
 | [Широкополосный SDR радиосканер из DVB тюнера] | The Russian community works with SDR receivers. Any user can ask a question of interest, open discussions. |
-| [Снимки с метеоспутников + SDR] | The Russian community works with SDR receivers and is engaged in receiving images from meteorological satellites. Closed discussions, messages are moderated. |
+| [Software Defined Radio | meteo] | The Russian community works with SDR receivers and is engaged in receiving images from meteorological satellites. Closed discussions, messages are moderated. |
 
 Some theoretical information about used parts:
 
