@@ -6,11 +6,11 @@ However, it is strongly recommended that you **use an antistatic wrist strap and
 
 Recommendations for assembling components:
 
+- Soldering SMA connectors.
 - Soldering all passive components in any order.
 - Soldering the diode 1N5819.
 - Soldering of the transistor 2N5109.
 - Soldering the field effect transistor J310.
-- Soldering SMA connectors.
 
 ## Additional instructions
 **Please pay special attention to the grounding of the antenna**. In the absence of good grounding, the efficiency of the antenna can not be guaranteed.

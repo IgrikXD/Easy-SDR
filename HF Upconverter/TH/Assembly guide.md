@@ -19,10 +19,10 @@ Recommendations for assembling components:
 
 - Soldering self-made inductors.
 - Soldering other passive components in any order.
-- Soldering the diodes 1N4148 and LED.
 - Soldering the power connector and the switch.
+- Soldering SMA connectors.
+- Soldering the diodes 1N4148 and LED.
 - Soldering of the mixer.
 - Soldering the crystall oscillator.
-- Soldering SMA connectors.
 
 [Making a Simple Air Core Inductor (Induction Coil): 5 Steps]: <http://www.instructables.com/id/Making-a-Simple-Induction-Coil/>
