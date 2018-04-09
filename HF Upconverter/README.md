@@ -7,8 +7,8 @@ Easy and quick building of HF Upconverter at the [TH component group](./TH) or [
 [![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28SMD%29-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d) [![Progress](https://img.shields.io/badge/version-8.15.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
-- [HF Upconverter (TH)] ([Components list](./TH/Components%20list.md), [Assembly guide](./TH/Assembly%20guide.md))
-- [HF Upconverter (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
+- [HF Upconverter (TH)] ([Components list](./TH/Components%20list.md), [Assembly guide](./TH/Assembly%20guide.md), [Filters design files](./TH/Filters%20design%20files))
+- [HF Upconverter (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md), [Filters design files](./SMD/Filters%20design%20files))
 
 ## How it works?
 HF Upconverter was based on the idea of an shifting the frequency up by a certain value (I use 125 MHz value), after this conversion your receiver will be able to correctly process frequencies below 30 MHz with less loss of useful signal.
