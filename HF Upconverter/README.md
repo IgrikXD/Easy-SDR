@@ -56,7 +56,7 @@ Some theoretical information about used parts:
 [Защита устройств от неправильной подачи полярности питания]: <https://habrahabr.ru/post/254035/>
 [Схемы переключения устройства на резервный источник]: <http://avrproject.ru/forum/4-101-1>
 [Широкополосный SDR радиосканер из DVB тюнера]: <https://vk.com/dvb_tv>
-[Снимки с метеоспутников + SDR]: <https://vk.com/noaa_sat>
+[Software Defined Radio | meteo]: <https://vk.com/noaa_sat>
 [Low-pass filter]: <https://en.wikipedia.org/wiki/Low-pass_filter>
 [High-pass filter]: <https://en.wikipedia.org/wiki/High-pass_filter>
 [Butterworth filter]: <https://en.wikipedia.org/wiki/Butterworth_filter>
