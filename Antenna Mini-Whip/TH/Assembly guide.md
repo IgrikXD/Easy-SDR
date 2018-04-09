@@ -13,6 +13,6 @@ Recommendations for assembling components:
 - Soldering SMA connectors.
 
 ## Additional instructions
-**Please pay special attention to the grounding of the antenna**. If there is no ground, the antenna will not work properly.
+**Please pay special attention to the grounding of the antenna**. In the absence of good grounding, the efficiency of the antenna can not be guaranteed.
 
 A useful step can also be to check the output voltage level with a multimeter. To prevent damage to your receiver, connect PFU to the power supply, and perform voltage measurement on the SMA connector (PFU-to-receiver connector). The value of the output voltage must be zero. After that, you can make further connections and work with the antenna.
