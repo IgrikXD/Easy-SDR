@@ -33,7 +33,7 @@ At the moment, the method described above is the best way to work with the SDR r
 | [Защита устройств от неправильной подачи полярности питания] | Article in Russian, describing the principle of protecting electrical appliances from improper polarity of power. This decision was used in HF Upconverter (SMD) module. |
 | [Схемы переключения устройства на резервный источник] | Article in Russian, describing examples of various switching schemes for power supplies. |
 | [Широкополосный SDR радиосканер из DVB тюнера] | The Russian community works with SDR receivers. Any user can ask a question of interest, open discussions. |
-| [Software Defined Radio \| meteo] | The Russian community works with SDR receivers and is engaged in receiving images from meteorological satellites. Closed discussions, messages are moderated. |
+| [Software Defined Radio meteo] | The Russian community works with SDR receivers and is engaged in receiving images from meteorological satellites. Closed discussions, messages are moderated. |
 
 Some theoretical information about used parts:
 
@@ -56,7 +56,7 @@ Some theoretical information about used parts:
 [Защита устройств от неправильной подачи полярности питания]: <https://habrahabr.ru/post/254035/>
 [Схемы переключения устройства на резервный источник]: <http://avrproject.ru/forum/4-101-1>
 [Широкополосный SDR радиосканер из DVB тюнера]: <https://vk.com/dvb_tv>
-[Software Defined Radio \| meteo]: <https://vk.com/noaa_sat>
+[Software Defined Radio meteo]: <https://vk.com/noaa_sat>
 [Low-pass filter]: <https://en.wikipedia.org/wiki/Low-pass_filter>
 [High-pass filter]: <https://en.wikipedia.org/wiki/High-pass_filter>
 [Butterworth filter]: <https://en.wikipedia.org/wiki/Butterworth_filter>
