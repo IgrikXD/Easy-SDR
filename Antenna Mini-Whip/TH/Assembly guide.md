@@ -7,6 +7,7 @@ However, it is strongly recommended that you **use an antistatic wrist strap and
 Recommendations for assembling components:
 
 - Soldering all passive components in any order.
+- Soldering the power connector.
 - Soldering SMA connectors.
 - Soldering the diode 1N5819.
 - Soldering of the transistor 2N5109.
