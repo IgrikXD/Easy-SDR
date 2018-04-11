@@ -8,11 +8,13 @@ There are several reasons why I chose [Manjaro Linux]. I used Archlinux for a lo
 ## What do we need for work?
 - SDR receiver (I will use [RTL-SDR.COM V3]);
 - Antenna for the range you are interested in (I will use [Antenna Mini-Whip (TH)]);
-- Computer with [Manjaro Linux] installed (preferably a laptop with battery power, will be less noise when receiving);
-- Internet connection (for downloading the required packages);
+- Computer with [Manjaro Linux] installed (Preferably a laptop with battery power, will be less noise when receiving);
+- Internet connection (for downloading the required packages);  
+
+At this tutorial I will use [Manjaro Linux 17.1.7 with Deepin DE](https://osdn.net/projects/manjaro-community/storage/deepin/) with a pre-installed fish shell and a disabled sudo password. Howewer, you don't need set this shell and turning off the password, all actions are repeated on the newly installed, clean system.
 
 ## Installing and configuring the required packages
-First, we need to perform a complete [system upgrade](https://wiki.archlinux.org/index.php/pacman#Upgrading_packages) using the command:
+First open the terminal and perform a complete [system upgrade](https://wiki.archlinux.org/index.php/pacman#Upgrading_packages) using the command:
 ```sh
 sudo pacman -Syu
 ```
