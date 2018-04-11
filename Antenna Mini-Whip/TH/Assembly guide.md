@@ -28,3 +28,6 @@ To install the Mini-Whip antenna, you can choose a grounded metal or dielectric 
 ![Dielectric mast installation](../../Resources/Antenna%20Mini-Whip/Dielectric-mast-installation.png)  
 
 An additional advantage will also be the location of the antenna at the highest available point of installation.
+
+## Power supply recommendations
+When powering the antenna, **do not use power banks or other power supplies with impulse converters**. These devices create a sufficiently large amount of interference, which can adversely affect the reception quality. It is recommended to use a battery with a nominal voltage of 12 - 15 V. In addition, a good solution will be the use of ferrite filters on power cables.
