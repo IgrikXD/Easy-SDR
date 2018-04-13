@@ -28,5 +28,8 @@ If you need to perform very tight placing of components or use a low thickness o
 As an example for the production of a PCB by toner transfer method, we will use the [Antenna Mini-Whip (TH)] module.
 
 ## Template preparation
+First, go to the page of the module you are interested in on the EasyEDA website.  
+![Module page](../Resources/PCB%20Toner%20transfer/PCB-1-Module-page.png)  
+
 
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>

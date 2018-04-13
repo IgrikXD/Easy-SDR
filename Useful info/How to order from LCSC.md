@@ -9,13 +9,13 @@ However, you may not find all the necessary components for the assembly, in this
 First, go to the page of the module you are interested in on the EasyEDA website.  
 ![Module page](../Resources/LCSC%20order/LCSC-1-Module-page.png)  
 
-Press the "BOM" button and go up a little higher, click the "Open in Editor" button. At this step you can view the contents of the BOM file, but you can not do anything.  
+Select the BOM section and move to the bottom of the description block. At this step you can view the contents of the BOM file, download BOM file or redirect to LCSC service to order the necessary components.  
 ![BOM select](../Resources/LCSC%20order/LCSC-2-BOM-select.png)  
 
-Click this button, whereby you will be taken to the EasyEDA editor.  
+If you want to export the BOM file while working with the PCB you can use the tools built into the editor.  
 ![Editor](../Resources/LCSC%20order/LCSC-3-Editor.png)  
 
-Now we can make exporting the BOM file or use "One-click Purchasing at LCSC". To do this, you need to on the right, in the top panel of the editor, click the "Export BOM" button.  
+Now you can make exporting the BOM file or use "One-click Purchasing at LCSC". To do this, you need to on the right, in the top panel of the editor, click the "Export BOM" button.  
 ![BOM export](../Resources/LCSC%20order/LCSC-4-BOM-export.png)  
 
 Next, small window appearing where you can see a BOM list details for choosen module. At this step, you can either just **save the BOM file, by pushing "Export BOM" button**, or making **"One-click Purchasing at LCSC"** with push corresponding button.  
@@ -27,7 +27,7 @@ If you chose to save the BOM file, this file can be uploaded to the LCSC service
 Select the previously downloaded BOM file and drag it to the download area, or select the BOM file yourself from your file system.  
 ![BOM upload](../Resources/LCSC%20order/LCSC-7-BOM-upload.png)  
 
-In the case of automatic redirection through "One-click Purchasing at LCSC" or in case of self-loading the BOM file, you will see the generated pre-order based on the received data from the BOM file. However, at this stage, there are three possible options for the availability of the necessary components:  
+In the case of automatic redirection through "One-click Purchasing at LCSC" in editor, auto redirecting from module page or in case of self-loading the BOM file, you will see the generated pre-order based on the received data from the BOM file. However, at this stage, there are three possible options for the availability of the necessary components:  
 
 Сomponent in stock. In this case, no action is required, the necessary component is present in the warehouse and will be included in our order.  ![Component in stock](../Resources/LCSC%20order/LCSC-8-Component-in-stock.png)  
 
