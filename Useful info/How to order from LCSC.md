@@ -9,13 +9,13 @@ However, you may not find all the necessary components for the assembly, in this
 First, go to the page of the module you are interested in on the EasyEDA website.  
 ![Module page](../Resources/LCSC%20order/LCSC-1-Module-page.png)  
 
-Select the BOM section and move to the bottom of the description block. At this step you can view the contents of the BOM file, download BOM file or redirect to LCSC service to order the necessary components.  
+Select the BOM section and move to the bottom of the description block. **At this step you can view the contents of the BOM file, download BOM file or redirect to LCSC service to order the necessary components**.  
 ![BOM select](../Resources/LCSC%20order/LCSC-2-BOM-select.png)  
 
 If you want to export the BOM file while working with the PCB you can use the tools built into the editor.  
 ![Editor](../Resources/LCSC%20order/LCSC-3-Editor.png)  
 
-Now you can make exporting the BOM file or use "One-click Purchasing at LCSC". To do this, you need to on the right, in the top panel of the editor, click the "Export BOM" button.  
+At this step you can make exporting the BOM file or use "One-click Purchasing at LCSC". To do this, you need to on the right, in the top panel of the editor, click the "Export BOM" button.  
 ![BOM export](../Resources/LCSC%20order/LCSC-4-BOM-export.png)  
 
 Next, small window appearing where you can see a BOM list details for choosen module. At this step, you can either just **save the BOM file, by pushing "Export BOM" button**, or making **"One-click Purchasing at LCSC"** with push corresponding button.  
