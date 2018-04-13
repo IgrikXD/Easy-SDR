@@ -27,7 +27,7 @@ If you chose to save the BOM file, this file can be uploaded to the LCSC service
 Select the previously downloaded BOM file and drag it to the download area, or select the BOM file yourself from your file system.  
 ![BOM upload](../Resources/LCSC%20order/LCSC-7-BOM-upload.png)  
 
-In the case of automatic redirection through "One-click Purchasing at LCSC" in editor, auto redirecting from module page or in case of self-loading the BOM file, you will see the generated pre-order based on the received data from the BOM file. However, at this stage, there are three possible options for the availability of the necessary components:  
+In the case of automatic redirection through "One-click Purchasing at LCSC" in editor, automatic redirection from module page or in case of self-loading the BOM file, you will see the generated pre-order based on the received data from the BOM file. However, at this stage, there are three possible options for the availability of the necessary components:  
 
 Сomponent in stock. In this case, no action is required, the necessary component is present in the warehouse and will be included in our order.  ![Component in stock](../Resources/LCSC%20order/LCSC-8-Component-in-stock.png)  
 
