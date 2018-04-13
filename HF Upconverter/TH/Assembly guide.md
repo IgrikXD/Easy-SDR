@@ -31,6 +31,6 @@ If you use HF Upconverter, you will lose the ability to use software selectable 
 Also, because of using of a 125 MHz value crystal oscillator, the frequency will be shifted to 125 MHz up (the frequency shift of our received radio station will look like this: 4.625 MHz + 125 MHz = 129.625 MHz). For convenience, you will need to set the value of the backward bias of -125 MHz in the receiving program (Gqrx, SDRSharp, etc.), but this action is not mandatory.
 
 ## Power supply recommendations
-When powering the HF Upconverter, do not use power banks or other power supplies with impulse converters. These devices create a sufficiently large amount of interference, which can adversely affect the reception quality. When working from a laptop it is possible to use power from a free USB connector, or use a battery with a voltage of 5 V (or 7 - 20 V, LM317 version). In addition, a good solution will be the use of ferrite filters on power cables.
+When powering the HF Upconverter, **do not use power banks or other power supplies with impulse converters**. These devices create a sufficiently large amount of interference, which can adversely affect the reception quality. When working from a laptop it is possible to use power from a free USB connector, or use a battery with a voltage of 5 V (or 7 - 20 V, LM317 version). In addition, a good solution will be the use of ferrite filters on power cables.
 
 [Making a Simple Air Core Inductor (Induction Coil): 5 Steps]: <http://www.instructables.com/id/Making-a-Simple-Induction-Coil/>

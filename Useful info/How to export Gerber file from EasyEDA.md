@@ -1,7 +1,7 @@
 # How to export Gerber file from EasyEDA
 
 ## Why should I export these files?
-The answer is simple - if you want to order production of PCBs on a platform other than [EasyEDA]/[JLCPCB], you need to export the files (Gerber) necessary for the production of your printed circuit board. After exporting the files, you will need to upload the received files to the PCB manufacturing service.  
+The answer is simple - if you want to order production of PCBs on a platform other than [JLCPCB], you need to export the files (Gerber) necessary for the production of your printed circuit board. After exporting the files, you will need to upload the received files to the PCB manufacturing service.  
 Also, you can find ready Gerber files for a specific module in the directory:  
 **Easy-SDR repository / Module name / Component group / EasyEDA / Gerbers**.
 
@@ -24,10 +24,10 @@ Also, you can find ready Gerber files for a specific module in the directory:
 First, go to the page of the module you are interested in on the EasyEDA website.  
 ![Module page](../Resources/EasyEDA%20Gerber%20export/EasyEDA-1-Module-page.png)  
 
-Click the "Documents" button and drop below the "Open in Editor" button.  
+Select the Documents section and move to the block with PCBs. If you do not want to edit the PCB before exporting the Gerber file, then you can immediately press the "Download Gerber" button or "Order at JLCPCB" (in that case you will be redirected to JLCPCB service). After that the Gerber file will be automatically downloaded. In the case if you need to make an adjustment to an existing revision of the board - click the "Open in Editor" button.  
 ![Open editor](../Resources/EasyEDA%20Gerber%20export/EasyEDA-2-Open-editor.png)  
 
-Click this button, whereby you will be taken to the EasyEDA editor where you can pre-edit the layout of the PCB before exporting.  
+Click "Open in Editor" button, whereby you will be taken to the EasyEDA editor where you can pre-edit the layout of the PCB before exporting.  
 ![Editor](../Resources/EasyEDA%20Gerber%20export/EasyEDA-3-Editor.png)  
 
 After all the necessary corrections we can make exporting the Gerber file. To do this, you need to on the right, in the top panel of the editor, click the "Generate Gerber" button.  
