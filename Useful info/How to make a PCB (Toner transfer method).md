@@ -65,10 +65,10 @@ You need to **turn off the toner save function** when printing (this is necessar
 Now you can insert photo paper or thermal transfer paper into your printer and print the templates. According to some reviews, the result of using thermal transfer paper will be better than the use of photo paper. However, in my projects I use photo paper and did not notice any negative moments. After printing templates, do not touch the toner surface with your hands. This can adversely affect the quality of toner transfer to the workpiece.  
 ![Templates printing](../Resources/PCB%20Toner%20transfer/PCB-7-Template-printing.png)  
 
-After that you need to gently trim the excess photo paper on the outer contour of the printed template. Do not leave unnecessary space, since in the absence of a drilling machine small pieces of the PCB in future are difficult to remove with the help of a hand tool.  
+After that you need to gently trim the excess photo paper on the outer contour of the printed template.  
 ![Template trimming](../Resources/PCB%20Toner%20transfer/PCB-8-Template-trimming.png)  
 
-Now you have ready templates for toner transfer, prepare the copper clad board for the subsequent transfer of the toner. Cut the copper clad board according to the size of the printed template.  
+Now you have ready templates for toner transfer, prepare the copper clad board for the subsequent transfer of the toner. Cut the copper clad board according to the size of the printed template. **Do not leave unnecessary space**, since in the absence of a drilling machine small pieces of the PCB in future are difficult to remove with the help of a hand tool.  
 ![Copper clad board trimming](../Resources/PCB%20Toner%20transfer/PCB-9-Copper-clad-boadr-trimming.png)  
 
 The resulting workpiece should be gently sanded with fine sandpaper to remove any oxides formed. **Do not apply great effort and do not use coarse-grained sandpaper to avoid spoiling the workpiece**.  
@@ -90,6 +90,13 @@ The next step is to remove the top of the photo paper under which the toner rema
 ![Workpiece soaking](../Resources/PCB%20Toner%20transfer/PCB-15-Workpiece-soaking.png)  
 
 After a lapse of 40 minutes, remove the workpiece from the water and gently, rolling with your fingers, remove the top layer of photo paper.  
+**At this stage, the most fundamental problem of this method of manufacturing PCBs can arise - the toner is not transferred completely**, there are areas with fallen off toner. There may be several reasons for this:  
+- Insufficient processing of the copper clad board. Poor removal of oxides (performing more intensive cleaning of workpiece) the appearance of greasy stains after the degreasing process (do not touch the work surface of the workpiece by hand).  
+- The appearance of greasy spots on the printed template (do not touch the working surface of the template with your hands).  
+- Insufficient warming up of the template (increase the warm-up time or pay attention to the uniformity of warm-up).  
+- Uneven copper clad board, there are curvatures (use another copper clad board).  
+
+If you are faced with an problem of incomplete toner transfer, you will need to repeat the template printing and clear the workpiece from the old toner. Then repeat the transfer of toner process.  
 ![Paper removing](../Resources/PCB%20Toner%20transfer/PCB-16-Paper-removing.png)  
 
 Now your workpiece is ready for etching. **Prepare the etching solute according to the following instructions**:  
