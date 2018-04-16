@@ -1,6 +1,12 @@
 # How to make a PCB (Toner transfer method)
 
-The method of manufacturing a PCB using the toner transfer method is performs by printing a workpiece of PCB at a laser printer with using photo paper. After that, the image of the resulting blank is transferred to the copper clad board using clothes iron. The next step is etching the printed circuit board, tinning and preparing the mounting holes.
+The manufacture of a PCB by **toner transfer method is based on the preliminary preparation of the template of the PCB and subsequent printing on photographic paper using a laser printer**. Next, the resulting image of the PCB is transferred to the copper clad board by heating. After that, the top part of the photo paper is removed, and the toner remains on the copper clad board. After that, etching and subsequent processing of the finished PCB is carried out.  
+
+**This method is excellent for projects where there is no need for a low thickness of tracks, as well as for projects where there is no need to manufacture a large number of printed circuit boards (1-2 pieces)**. However, when using this method, there may be difficulties with the quality transfer of toner on the cooper clad board. In addition, this method is the cheapest if you have a laser printer at home.  
+
+If you need to perform very tight placing of components or use a low thickness of the tracks, it is better to choose the photoresist method.  
+
+As an example for the production of a PCB by toner transfer method, we will use the [Antenna Mini-Whip (TH)] module.
 
 ## Required components
 To manufacture a PCB you will need:
@@ -20,14 +26,6 @@ To manufacture a PCB you will need:
 - Liquid tin (optional)  
 - Flux  
 - Solder  
-
-The manufacture of a PCB by **toner transfer method is based on the preliminary preparation of the template of the PCB and subsequent printing on photographic paper using a laser printer**. Next, the resulting image of the PCB is transferred to the copper clad board by heating. After that, the top part of the photo paper is removed, and the toner remains on the copper clad board. After that, etching and subsequent processing of the finished PCB is carried out.  
-
-**This method is excellent for projects where there is no need for a low thickness of tracks, as well as for projects where there is no need to manufacture a large number of printed circuit boards (1-2 pieces)**. However, when using this method, there may be difficulties with the quality transfer of toner on the cooper clad board. In addition, this method is the cheapest if you have a laser printer at home.  
-
-If you need to perform very tight placing of components or use a low thickness of the tracks, it is better to choose the photoresist method.  
-
-As an example for the production of a PCB by toner transfer method, we will use the [Antenna Mini-Whip (TH)] module.
 
 ## Template preparation
 First, go to the page of the module you are interested in on the EasyEDA website.  
