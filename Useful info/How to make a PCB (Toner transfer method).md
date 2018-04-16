@@ -84,6 +84,25 @@ Now you are ready to transfer the toner to the workpiece. Turn the clothes iron 
 Cover your workpiece with a sheet of plain paper and heating it for about 20 seconds. Do circular motions with an iron without applying significant effort.  
 ![Heating](../Resources/PCB%20Toner%20transfer/PCB-13-Heating.png)  
 
+After the warm-up is over, place the warmer workpiece under the small press (I use several books) and allow the workpiece to cool completely (about 20 minutes).  
+![Workpiece pressing](../Resources/PCB%20Toner%20transfer/PCB-14-Workpiece-pressing.png)  
+
+The next step is to remove the top of the photo paper under which the toner remains. In a small basin pour water at room temperature and place the workpiece there for about 40 minutes.  
+![Workpiece soaking](../Resources/PCB%20Toner%20transfer/PCB-15-Workpiece-soaking.png)  
+
+After a lapse of 40 minutes, remove the workpiece from the water and gently, rolling with your fingers, remove the top layer of photo paper.  
+![Paper remove](../Resources/PCB%20Toner%20transfer/PCB-16-Paper-remove.png)  
+
+Now your workpiece is ready for etching. Prepare the etching solute according to the following instructions:
+- Take a plastic or glass container and pour in it 100 ml of 3% hydrogen peroxide;
+- Add 30 grams of citric acid;
+- Add 5 grams of table salt.
+Thoroughly mix the resulting solute until all components are completely dissolved.  
+
+Place your workpiece in the prepared solute.  
+![Performs etching](../Resources/PCB%20Toner%20transfer/PCB-17-Performs-etching.png)  
+
+
 
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
 
@@ -92,5 +111,4 @@ Other articles:
 [How to order from JLCPCB](./How%20to%20order%20from%20JLCPCB.md)  
 [How to order from LCSC](./How%20to%20order%20from%20LCSC.md)  
 [How to make a PCB (Photoresist method)](./How%20to%20make%20a%20PCB%20(Photoresist%20method).md)  
-[How to use solder mask](./How%20to%20use%20solder%20mask.md)  
 [How to work with SDR receivers on Linux](./How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md)
