@@ -102,7 +102,23 @@ Thoroughly mix the resulting solute until all components are completely dissolve
 Place your workpiece in the prepared solute.  
 ![Performs etching](../Resources/PCB%20Toner%20transfer/PCB-17-Performs-etching.png)  
 
+Wait until all the copper around the toner has dissolved, after which the etching process can be considered complete.  
+![Etching complete](../Resources/PCB%20Toner%20transfer/PCB-18-Etching-complete.png)  
 
+Now you need to clean the workpiece of the residual etching solute with conventional water.  
+![Workpiece washing](../Resources/PCB%20Toner%20transfer/PCB-19-Workpiece-washing.png)  
+
+Then remove the toner with a solvent (acetone).  
+![Toner removing](../Resources/PCB%20Toner%20transfer/PCB-20-Toner-removing.png)  
+
+Now your circuit board is ready for tinning. Preheat the soldering iron, process the received PCB with flux and tin all copper tracks with the help of solder. Do not use too much solder, the main purpose of this stage is just to create a small protective layer, rather than pour all the PCB with solder.
+![Soldering iron tin](../Resources/PCB%20Toner%20transfer/PCB-21-Soldering-iron-tin.png)  
+
+Alternatively, you can use liquid tin, for this, take a small container, pour out the solution of liquid tin and place the received PCB there.  
+![Liquid tin](../Resources/PCB%20Toner%20transfer/PCB-22-Liquid-tin.png)  
+
+The last step is drilling holes for the installation of the necessary components (in case of using TH components).  
+![Drilling](../Resources/PCB%20Toner%20transfer/PCB-23-Drilling.png)  
 
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
 
