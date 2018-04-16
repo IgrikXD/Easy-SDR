@@ -51,5 +51,46 @@ Other layers doesn't used.
 
 After setting the above settings, click the "Export" button, after which the required file will be automatically downloaded. If the project has several PCB files, repeat this action for each of the files. In our example, we perform export for Antenna Mini-Whip PCB (TH) files: Main module and Antenna Mini-Whip PCB (TH): Power feed unit.  
 
+The next step is to transfer the resulting images of PCBs to photo paper. Open the downloaded image files of the PCBs (I use Adobe Acrobat Reader DC) and print the received files using: File -> Print ... (Ctrl + P).  
+
+At this stage, you need to set the following parameters:  
+- Page Sizing & Handling - Push "Size" button and choice "Actual size";  
+- Orientation - Portrait (This setting will set printing from the upper left corner of the paper);  
+
+However, do not rush to print the template itself, you need additional settings.  
+![Template print](../Resources/PCB%20Toner%20transfer/PCB-5-Template-print.png)  
+
+Now you need to turn off the toner save function when printing (this is necessary in order to get more toner on the photographic paper and later on the PCB). To do this, you need to set this function in the settings of your printer before printing (for different printer models, the settings may vary).  
+![Toner settings](../Resources/PCB%20Toner%20transfer/PCB-6-Toner-settings.png)  
+
+Now you can insert photo paper into your printer and print the templates. After printing templates, do not touch the toner surface with your hands, as in this case the toner may not be transferred to the PCB.  
+![Printed templates](../Resources/PCB%20Toner%20transfer/PCB-7-Printed-template.png)  
+
+Now you need to gently trim the excess photo paper on the outer outline of the printed template.  
+![Template trimming](../Resources/PCB%20Toner%20transfer/PCB-8-Template-trimming.png)  
+
+Now you have ready templates for toner transfer, now prepare the copper clad board for the subsequent transfer of the toner. Cut the copper clad board according to the size of the printed template.  
+![Copper clad board trimming](../Resources/PCB%20Toner%20transfer/PCB-9-Copper-clad-boadr-trimming.png)  
+
+The resulting workpiece should be gently sanded with fine sandpaper to remove any oxides formed. Do not apply great effort and do not use coarse-grained sandpaper to avoid spoiling the workpiece.  
+![Copper clad board sanding](../Resources/PCB%20Toner%20transfer/PCB-10-Copper-clad-boadr-sanding.png)  
+
+Now, treat the surface of the workpiece with a solvent or degreaser. After this stage, do not touch the working copper surface with your hands.  
+![Finish preparing](../Resources/PCB%20Toner%20transfer/PCB-11-Finish-preparing.png)  
+
+Now you are ready to transfer the toner to the workpiece. Turn the clothes iron to the maximum temperature and wait for it to warm up. Place the printed pattern on top of your cut out workpiece.  
+![Template placing](../Resources/PCB%20Toner%20transfer/PCB-12-Template-placing.png)  
+
+Cover your workpiece with a sheet of plain paper and heating it for about 20 seconds. Do circular motions with an iron without applying significant effort.  
+![Heating](../Resources/PCB%20Toner%20transfer/PCB-13-Heating.png)  
+
 
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
+
+Other articles:  
+[How to export Gerber file from EasyEDA](./How%20to%20export%20Gerber%20file%20from%20EasyEDA.md)  
+[How to order from JLCPCB](./How%20to%20order%20from%20JLCPCB.md)  
+[How to order from LCSC](./How%20to%20order%20from%20LCSC.md)  
+[How to make a PCB (Photoresist method)](./How%20to%20make%20a%20PCB%20(Photoresist%20method).md)  
+[How to use solder mask](./How%20to%20use%20solder%20mask.md)  
+[How to work with SDR receivers on Linux](./How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md)
