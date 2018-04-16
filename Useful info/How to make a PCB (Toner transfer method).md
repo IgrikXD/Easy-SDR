@@ -53,23 +53,23 @@ After setting the above settings, click the "Export" button, after which the req
 
 The next step is to transfer the resulting images of PCBs to photo paper. Open the downloaded image files of the PCBs (I use Adobe Acrobat Reader DC) and print the received files using: File -> Print ... (Ctrl + P).  
 
-At this stage, you need to set the following parameters:  
+**At this stage, you need to set the following parameters**:  
 - Page Sizing & Handling - Push "Size" button and choice "Actual size";  
 - Orientation - Portrait (This setting will set printing from the upper left corner of the paper);  
 
 However, do not rush to print the template itself, you need additional settings.  
 ![Template print](../Resources/PCB%20Toner%20transfer/PCB-5-Template-print.png)  
 
-Now you need to turn off the toner save function when printing (this is necessary in order to get more toner on the photographic paper and later on the PCB). To do this, you need to set this function in the settings of your printer before printing (for different printer models, the settings may vary).  
+Now you need to **turn off the toner save function** when printing (this is necessary in order to get more toner on the photographic paper and later on the PCB). To do this, you need to set this function in the settings of your printer before printing (for different printer models, the settings may vary).  
 ![Toner settings](../Resources/PCB%20Toner%20transfer/PCB-6-Toner-settings.png)  
 
-Now you can insert photo paper into your printer and print the templates. After printing templates, do not touch the toner surface with your hands, as in this case the toner may not be transferred to the PCB.  
+Now you can insert photo paper into your printer and print the templates. After printing templates, do not touch the toner surface with your hands. This can adversely affect the quality of toner transfer to the workpiece.  
 ![Printed templates](../Resources/PCB%20Toner%20transfer/PCB-7-Printed-template.png)  
 
-Now you need to gently trim the excess photo paper on the outer outline of the printed template.  
+Now you need to gently trim the extra photo paper on the outer contour of the printed template.  
 ![Template trimming](../Resources/PCB%20Toner%20transfer/PCB-8-Template-trimming.png)  
 
-Now you have ready templates for toner transfer, now prepare the copper clad board for the subsequent transfer of the toner. Cut the copper clad board according to the size of the printed template.  
+Now you have ready templates for toner transfer, prepare the copper clad board for the subsequent transfer of the toner. Cut the copper clad board according to the size of the printed template.  
 ![Copper clad board trimming](../Resources/PCB%20Toner%20transfer/PCB-9-Copper-clad-boadr-trimming.png)  
 
 The resulting workpiece should be gently sanded with fine sandpaper to remove any oxides formed. Do not apply great effort and do not use coarse-grained sandpaper to avoid spoiling the workpiece.  
@@ -78,13 +78,13 @@ The resulting workpiece should be gently sanded with fine sandpaper to remove an
 Now, treat the surface of the workpiece with a solvent or degreaser. After this stage, do not touch the working copper surface with your hands.  
 ![Finish preparing](../Resources/PCB%20Toner%20transfer/PCB-11-Finish-preparing.png)  
 
-Now you are ready to transfer the toner to the workpiece. Turn the clothes iron to the maximum temperature and wait for it to warm up. Place the printed pattern on top of your cut out workpiece.  
+Now you are ready to transfer the toner to the workpiece. Turn on the clothes iron to the maximum temperature and wait for it to warm up. Place the printed pattern on top of your cut out workpiece.  
 ![Template placing](../Resources/PCB%20Toner%20transfer/PCB-12-Template-placing.png)  
 
-Cover your workpiece with a sheet of plain paper and heating it for about 20 seconds. Do circular motions with an iron without applying significant effort.  
+Cover the workpiece with a sheet of plain paper and heat it for about 20 seconds. Do circular motions with an iron without applying significant effort.  
 ![Heating](../Resources/PCB%20Toner%20transfer/PCB-13-Heating.png)  
 
-After the warm-up is over, place the warmer workpiece under the small press (I use several books) and allow the workpiece to cool completely (about 20 minutes).  
+After the warm-up is over, place the workpiece under the small press (I use several books) and allow the workpiece to cool completely (about 20 minutes).  
 ![Workpiece pressing](../Resources/PCB%20Toner%20transfer/PCB-14-Workpiece-pressing.png)  
 
 The next step is to remove the top of the photo paper under which the toner remains. In a small basin pour water at room temperature and place the workpiece there for about 40 minutes.  
@@ -93,10 +93,10 @@ The next step is to remove the top of the photo paper under which the toner rema
 After a lapse of 40 minutes, remove the workpiece from the water and gently, rolling with your fingers, remove the top layer of photo paper.  
 ![Paper remove](../Resources/PCB%20Toner%20transfer/PCB-16-Paper-remove.png)  
 
-Now your workpiece is ready for etching. Prepare the etching solute according to the following instructions:
-- Take a plastic or glass container and pour in it 100 ml of 3% hydrogen peroxide;
-- Add 30 grams of citric acid;
-- Add 5 grams of table salt.
+Now your workpiece is ready for etching. Prepare the etching solute according to the following instructions:  
+- Take a plastic or glass container and pour in it 100 ml of 3% hydrogen peroxide;  
+- Add 30 grams of citric acid;  
+- Add 5 grams of table salt.  
 Thoroughly mix the resulting solute until all components are completely dissolved.  
 
 Place your workpiece in the prepared solute.  
@@ -119,6 +119,9 @@ Alternatively, you can use liquid tin, for this, take a small container, pour ou
 
 The last step is drilling holes for the installation of the necessary components (in case of using TH components).  
 ![Drilling](../Resources/PCB%20Toner%20transfer/PCB-23-Drilling.png)  
+
+A printed circuit board made using a toner transfer method:  
+![Finished PCB](../Resources/PCB%20Toner%20transfer/PCB-24-Finished-PCB.png)  
 
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
 
