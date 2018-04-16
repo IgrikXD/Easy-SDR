@@ -57,16 +57,16 @@ The next step is to transfer the resulting images of PCBs to photo paper. Open t
 - Page Sizing & Handling - Push "Size" button and choice "Actual size";  
 - Orientation - Portrait (This setting will set printing from the upper left corner of the paper);  
 
-However, do not rush to print the template itself, you need additional settings.  
+However, do not rush to print the template itself, at first you need to set up additional settings.  
 ![Template print](../Resources/PCB%20Toner%20transfer/PCB-5-Template-print.png)  
 
 Now you need to **turn off the toner save function** when printing (this is necessary in order to get more toner on the photographic paper and later on the PCB). To do this, you need to set this function in the settings of your printer before printing (for different printer models, the settings may vary).  
 ![Toner settings](../Resources/PCB%20Toner%20transfer/PCB-6-Toner-settings.png)  
 
 Now you can insert photo paper into your printer and print the templates. After printing templates, do not touch the toner surface with your hands. This can adversely affect the quality of toner transfer to the workpiece.  
-![Printed templates](../Resources/PCB%20Toner%20transfer/PCB-7-Printed-template.png)  
+![Templates printing](../Resources/PCB%20Toner%20transfer/PCB-7-Template-printing.png)  
 
-Now you need to gently trim the extra photo paper on the outer contour of the printed template.  
+After that you need to gently trim the extra photo paper on the outer contour of the printed template.  
 ![Template trimming](../Resources/PCB%20Toner%20transfer/PCB-8-Template-trimming.png)  
 
 Now you have ready templates for toner transfer, prepare the copper clad board for the subsequent transfer of the toner. Cut the copper clad board according to the size of the printed template.  
@@ -75,10 +75,10 @@ Now you have ready templates for toner transfer, prepare the copper clad board f
 The resulting workpiece should be gently sanded with fine sandpaper to remove any oxides formed. Do not apply great effort and do not use coarse-grained sandpaper to avoid spoiling the workpiece.  
 ![Copper clad board sanding](../Resources/PCB%20Toner%20transfer/PCB-10-Copper-clad-boadr-sanding.png)  
 
-Now, treat the surface of the workpiece with a solvent or degreaser. After this stage, do not touch the working copper surface with your hands.  
+Treat the surface of the workpiece with a solvent or degreaser. After this stage, do not touch the working copper surface with your hands.  
 ![Finish preparing](../Resources/PCB%20Toner%20transfer/PCB-11-Finish-preparing.png)  
 
-Now you are ready to transfer the toner to the workpiece. Turn on the clothes iron to the maximum temperature and wait for it to warm up. Place the printed pattern on top of your cut out workpiece.  
+Now you are ready to transfer the toner to the workpiece. Turn on the iron, set the maximum temperature and wait for it to warm up. At this time, place the printed template on top of the cutted out workpiece.  
 ![Template placing](../Resources/PCB%20Toner%20transfer/PCB-12-Template-placing.png)  
 
 Cover the workpiece with a sheet of plain paper and heat it for about 20 seconds. Do circular motions with an iron without applying significant effort.  
@@ -93,7 +93,7 @@ The next step is to remove the top of the photo paper under which the toner rema
 After a lapse of 40 minutes, remove the workpiece from the water and gently, rolling with your fingers, remove the top layer of photo paper.  
 ![Paper remove](../Resources/PCB%20Toner%20transfer/PCB-16-Paper-remove.png)  
 
-Now your workpiece is ready for etching. Prepare the etching solute according to the following instructions:  
+Now your workpiece is ready for etching. **Prepare the etching solute according to the following instructions**:  
 - Take a plastic or glass container and pour in it 100 ml of 3% hydrogen peroxide;  
 - Add 30 grams of citric acid;  
 - Add 5 grams of table salt.  
@@ -111,10 +111,10 @@ Now you need to clean the workpiece of the residual etching solute with conventi
 Then remove the toner with a solvent (acetone).  
 ![Toner removing](../Resources/PCB%20Toner%20transfer/PCB-20-Toner-removing.png)  
 
-Now your circuit board is ready for tinning. Preheat the soldering iron, process the received PCB with flux and tin all copper tracks with the help of solder. Do not use too much solder, the main purpose of this stage is just to create a small protective layer, rather than pour all the PCB with solder.
+Now your circuit board is ready for tinning. Preheat the soldering iron, process the received PCB with flux and after that tin all copper tracks with the help of solder. Do not use too much solder, the main purpose of this stage is just to create a small protective layer, rather than pour all the PCB with solder.
 ![Soldering iron tin](../Resources/PCB%20Toner%20transfer/PCB-21-Soldering-iron-tin.png)  
 
-Alternatively, you can use liquid tin, for this, take a small container, pour out the solution of liquid tin and place the received PCB there.  
+Alternatively, you can use liquid tin, for this, take a small container, pour out the solution of liquid tin and place the received PCB there. Wait until the process of chemical tinning is completed (all the tracks will be covered with a layer of tin).    
 ![Liquid tin](../Resources/PCB%20Toner%20transfer/PCB-22-Liquid-tin.png)  
 
 The last step is drilling holes for the installation of the necessary components (in case of using TH components).  
@@ -123,11 +123,12 @@ The last step is drilling holes for the installation of the necessary components
 A printed circuit board made using a toner transfer method:  
 ![Finished PCB](../Resources/PCB%20Toner%20transfer/PCB-24-Finished-PCB.png)  
 
-[Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
-
 Other articles:  
 [How to export Gerber file from EasyEDA](./How%20to%20export%20Gerber%20file%20from%20EasyEDA.md)  
 [How to order from JLCPCB](./How%20to%20order%20from%20JLCPCB.md)  
 [How to order from LCSC](./How%20to%20order%20from%20LCSC.md)  
 [How to make a PCB (Photoresist method)](./How%20to%20make%20a%20PCB%20(Photoresist%20method).md)  
 [How to work with SDR receivers on Linux](./How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md)
+
+
+[Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
