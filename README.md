@@ -19,6 +19,7 @@ Creating affordable, easy-to-manufacture layouts of PCBs and software to working
 - [How to export Gerber file from EasyEDA]
 - [How to order from JLCPCB]
 - [How to order from LCSC]
+- [How to make a PCB (Toner transfer method)]
 - [How to work with SDR receivers on Linux]
 
 ## How to use this repository?
@@ -69,4 +70,5 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [How to export Gerber file from EasyEDA]: <./Useful%20info/How%20to%20export%20Gerber%20file%20from%20EasyEDA.md>
 [How to order from JLCPCB]: <./Useful%20info/How%20to%20order%20from%20JLCPCB.md>
 [How to order from LCSC]: <./Useful%20info/How%20to%20order%20from%20LCSC.md>
+[How to make a PCB (Toner transfer method)]: <./Useful%20info/How%20to%20make%20a%20PCB%20(Toner%20transfer%20method).md>
 [How to work with SDR receivers on Linux]: <./Useful%20info/How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md>
