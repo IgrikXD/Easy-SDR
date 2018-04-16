@@ -14,9 +14,10 @@ To manufacture a PCB you will need:
 - Single-layer copper clad board which corresponding size of the designed PCB  
 - Tool for trimming the PCB workpiece  
 - Fine grained sandpaper  
-- Glossy photo paper. Its size should be greater than or equal to the manufactured PCB  
+- Glossy photo paper or thermal transfer paper. Its size should be greater than or equal to the manufactured PCB  
 - Clothes iron  
-- Degreaser or solvent  
+- Degreaser 
+- Solvent or acetone  
 - Plastic or glass container for etching PCB  
 - Hydrogen peroxide, 3% solution, 100 ml.  
 - Citric acid, 30 g.  
@@ -56,30 +57,30 @@ The next step is to transfer the resulting images of PCBs to photo paper. Open t
 - Orientation - Portrait (This setting will set printing from the upper left corner of the paper);  
 
 However, do not rush to print the template itself, at first you need to set up additional settings.  
-![Template print](../Resources/PCB%20Toner%20transfer/PCB-5-Template-print.png)  
+![Templates printing settings](../Resources/PCB%20Toner%20transfer/PCB-5-Templates-printing-settings.png)  
 
-Now you need to **turn off the toner save function** when printing (this is necessary in order to get more toner on the photographic paper and later on the PCB). To do this, you need to set this function in the settings of your printer before printing (for different printer models, the settings may vary).  
+You need to **turn off the toner save function** when printing (this is necessary in order to get more toner on the photographic paper and later on the PCB). To do this, you need to set this function in the settings of your printer before printing (for different printer models, the settings may vary).  
 ![Toner settings](../Resources/PCB%20Toner%20transfer/PCB-6-Toner-settings.png)  
 
-Now you can insert photo paper into your printer and print the templates. After printing templates, do not touch the toner surface with your hands. This can adversely affect the quality of toner transfer to the workpiece.  
+Now you can insert photo paper or thermal transfer paper into your printer and print the templates. According to some reviews, the result of using thermal transfer paper will be better than the use of photo paper. However, in my projects I use photo paper and did not notice any negative moments. After printing templates, do not touch the toner surface with your hands. This can adversely affect the quality of toner transfer to the workpiece.  
 ![Templates printing](../Resources/PCB%20Toner%20transfer/PCB-7-Template-printing.png)  
 
-After that you need to gently trim the extra photo paper on the outer contour of the printed template.  
+After that you need to gently trim the excess photo paper on the outer contour of the printed template. Do not leave unnecessary space, since in the absence of a drilling machine small pieces of the PCB in future are difficult to remove with the help of a hand tool.  
 ![Template trimming](../Resources/PCB%20Toner%20transfer/PCB-8-Template-trimming.png)  
 
 Now you have ready templates for toner transfer, prepare the copper clad board for the subsequent transfer of the toner. Cut the copper clad board according to the size of the printed template.  
 ![Copper clad board trimming](../Resources/PCB%20Toner%20transfer/PCB-9-Copper-clad-boadr-trimming.png)  
 
-The resulting workpiece should be gently sanded with fine sandpaper to remove any oxides formed. Do not apply great effort and do not use coarse-grained sandpaper to avoid spoiling the workpiece.  
+The resulting workpiece should be gently sanded with fine sandpaper to remove any oxides formed. **Do not apply great effort and do not use coarse-grained sandpaper to avoid spoiling the workpiece**.  
 ![Copper clad board sanding](../Resources/PCB%20Toner%20transfer/PCB-10-Copper-clad-boadr-sanding.png)  
 
-Treat the surface of the workpiece with a solvent or degreaser. After this stage, do not touch the working copper surface with your hands.  
+Treat the surface of the workpiece with a solvent, degreaser or acetone. After this stage, do not touch the working copper surface with your hands.  
 ![Finish preparing](../Resources/PCB%20Toner%20transfer/PCB-11-Finish-preparing.png)  
 
-Now you are ready to transfer the toner to the workpiece. Turn on the iron, set the maximum temperature and wait for it to warm up. At this time, place the printed template on top of the cutted out workpiece.  
+Now you are ready to transfer the toner to the workpiece. Turn on the clothes iron, set the maximum temperature and wait for it to warm up. At this time, place the printed template on top of the cutted out workpiece.  
 ![Template placing](../Resources/PCB%20Toner%20transfer/PCB-12-Template-placing.png)  
 
-Cover the workpiece with a sheet of plain paper and heat it for about 20 seconds. Do circular motions with an iron without applying significant effort. It is necessary to warm the entire workpiece evenly.  
+Cover the workpiece with a sheet of plain paper and heat it for about 20 seconds. Do circular motions with an iron without applying significant effort. **It is necessary to warm the entire workpiece evenly**.  
 ![Heating](../Resources/PCB%20Toner%20transfer/PCB-13-Heating.png)  
 
 After the warm-up is over, place the workpiece under the small press (I use several books) and allow the workpiece to cool completely (about 20 minutes).  
@@ -89,7 +90,7 @@ The next step is to remove the top of the photo paper under which the toner rema
 ![Workpiece soaking](../Resources/PCB%20Toner%20transfer/PCB-15-Workpiece-soaking.png)  
 
 After a lapse of 40 minutes, remove the workpiece from the water and gently, rolling with your fingers, remove the top layer of photo paper.  
-![Paper remove](../Resources/PCB%20Toner%20transfer/PCB-16-Paper-remove.png)  
+![Paper removing](../Resources/PCB%20Toner%20transfer/PCB-16-Paper-removing.png)  
 
 Now your workpiece is ready for etching. **Prepare the etching solute according to the following instructions**:  
 - Take a plastic or glass container and pour in it 100 ml of 3% hydrogen peroxide;  
@@ -115,7 +116,7 @@ Now your circuit board is ready for tinning. Preheat the soldering iron, process
 Alternatively, you can use liquid tin, for this, take a small container, pour out the solution of liquid tin and place the received PCB there. Wait until the process of chemical tinning is completed (all the tracks will be covered with a layer of tin).    
 ![Liquid tin](../Resources/PCB%20Toner%20transfer/PCB-22-Liquid-tin.png)  
 
-The last step is drilling holes for the installation of the necessary components (in case of using TH components). In this example I use a 0.6 mm diameter drill for resistor / capacitor / inductor / transistor holes and 1 mm for diodes.  
+The last step is drilling holes for the installation of the necessary components (in case of using TH components) and sharp edges processing PCB with a sandpaper. In this example I use a 0.6 mm diameter drill for resistor / capacitor / inductor / transistor holes and 1 mm for diodes.  
 ![Drilling](../Resources/PCB%20Toner%20transfer/PCB-23-Drilling.png)  
 
 A printed circuit board made using a toner transfer method:  
