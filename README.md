@@ -7,7 +7,7 @@
 Creating affordable, easy-to-manufacture layouts of PCBs and software to working and expand the capabilities of existing low-cost SDR receivers available to ordinary users. All the created elements of the project will have a detailed description of the manufacturing process, with all the existing features and possible problems.
 
 ## Current development progress:
-[![Progress](http://progressed.io/bar/100?title=PCBs)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/72?title=Documentation%20) ![Progress](http://progressed.io/bar/20?title=Testing)
+[![Progress](http://progressed.io/bar/100?title=PCBs)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/82?title=Documentation%20) ![Progress](http://progressed.io/bar/20?title=Testing)
 
 ## Current available modules at EasyEDA platform:
 - [Antenna Mini-Whip (TH)]

@@ -102,7 +102,7 @@ Thoroughly mix the resulting solute until all components are completely dissolve
 Place your workpiece in the prepared solute.  
 ![Performs etching](../Resources/PCB%20Toner%20transfer/PCB-17-Performs-etching.png)  
 
-Wait until all the copper around the toner has dissolved, after which the etching process can be considered complete.  
+Wait until all the copper around the toner has dissolved, after which the etching process can be considered complete. Using tweezers, remove the printed circuit board.  
 ![Etching complete](../Resources/PCB%20Toner%20transfer/PCB-18-Etching-complete.png)  
 
 Now you need to clean the workpiece of the residual etching solute with conventional water.  
