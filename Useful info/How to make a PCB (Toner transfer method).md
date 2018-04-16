@@ -1,6 +1,6 @@
 # How to make a PCB (Toner transfer method)
 
-The method of manufacturing a PCB using the toner transfer method is performs by printing a workpiece of PCB at a laser printer with using photo paper. After that, the image of the resulting blank is transferred to the copper clad board using clothes iron. The next step is etching the printed circuit board and preparing the mounting holes. Further, tinning of PCB is carried out and a layer of solder mask and silkscreen are applied. Instead of a solder mask, it is possible to apply a protective varnish.
+The method of manufacturing a PCB using the toner transfer method is performs by printing a workpiece of PCB at a laser printer with using photo paper. After that, the image of the resulting blank is transferred to the copper clad board using clothes iron. The next step is etching the printed circuit board, tinning and preparing the mounting holes.
 
 ## Required components
 To manufacture a PCB you will need:
@@ -81,7 +81,7 @@ Treat the surface of the workpiece with a solvent or degreaser. After this stage
 Now you are ready to transfer the toner to the workpiece. Turn on the iron, set the maximum temperature and wait for it to warm up. At this time, place the printed template on top of the cutted out workpiece.  
 ![Template placing](../Resources/PCB%20Toner%20transfer/PCB-12-Template-placing.png)  
 
-Cover the workpiece with a sheet of plain paper and heat it for about 20 seconds. Do circular motions with an iron without applying significant effort.  
+Cover the workpiece with a sheet of plain paper and heat it for about 20 seconds. Do circular motions with an iron without applying significant effort. It is necessary to warm the entire workpiece evenly.  
 ![Heating](../Resources/PCB%20Toner%20transfer/PCB-13-Heating.png)  
 
 After the warm-up is over, place the workpiece under the small press (I use several books) and allow the workpiece to cool completely (about 20 minutes).  
@@ -111,13 +111,13 @@ Now you need to clean the workpiece of the residual etching solute with conventi
 Then remove the toner with a solvent (acetone).  
 ![Toner removing](../Resources/PCB%20Toner%20transfer/PCB-20-Toner-removing.png)  
 
-Now your circuit board is ready for tinning. Preheat the soldering iron, process the received PCB with flux and after that tin all copper tracks with the help of solder. Do not use too much solder, the main purpose of this stage is just to create a small protective layer, rather than pour all the PCB with solder.
-![Soldering iron tin](../Resources/PCB%20Toner%20transfer/PCB-21-Soldering-iron-tin.png)  
+Now your circuit board is ready for tinning. Preheat the soldering iron, process the received PCB with flux and after that tin all copper tracks with the help of solder. Do not use too much solder, the main purpose of this stage is just to create a small protective layer, rather than pour all the PCB with solder.  
+![Soldering iron tinning](../Resources/PCB%20Toner%20transfer/PCB-21-Soldering-iron-tinning.png)  
 
 Alternatively, you can use liquid tin, for this, take a small container, pour out the solution of liquid tin and place the received PCB there. Wait until the process of chemical tinning is completed (all the tracks will be covered with a layer of tin).    
 ![Liquid tin](../Resources/PCB%20Toner%20transfer/PCB-22-Liquid-tin.png)  
 
-The last step is drilling holes for the installation of the necessary components (in case of using TH components).  
+The last step is drilling holes for the installation of the necessary components (in case of using TH components). In this example I use a 0.6 mm diameter drill for resistor / capacitor / inductor / transistor holes and 1 mm for diodes.  
 ![Drilling](../Resources/PCB%20Toner%20transfer/PCB-23-Drilling.png)  
 
 A printed circuit board made using a toner transfer method:  
