@@ -1,10 +1,10 @@
-# The project implements some hardware devices and software for cheap SDR receivers based on Realtek RTL2832U controller 
+# The project implements some hardware devices for cheap SDR receivers based on Realtek RTL2832U controller 
 
 ## What is SDR?
 [Software-defined radio (SDR)] is a radio communication system where components that have been traditionally implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer or embedded system.
 
 ## What are the objectives of this project?
-Creating affordable, easy-to-manufacture layouts of PCBs and software to working and expand the capabilities of existing low-cost SDR receivers available to ordinary users. All the created elements of the project will have a detailed description of the manufacturing process, with all the existing features and possible problems.
+Creating affordable, easy-to-manufacture layouts of PCBs to working and expand the capabilities of existing low-cost SDR receivers available to ordinary users. All the created elements of the project will have a detailed description of the manufacturing process, with all the existing features and possible problems.
 
 ## Current development progress:
 [![Progress](http://progressed.io/bar/100?title=PCBs)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/82?title=Documentation%20) ![Progress](http://progressed.io/bar/20?title=Testing)
