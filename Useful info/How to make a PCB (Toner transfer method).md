@@ -80,7 +80,7 @@ Treat the surface of the workpiece with a solvent, degreaser or acetone. After t
 Now you are ready to transfer the toner to the workpiece. Turn on the clothes iron, set the maximum temperature and wait for it to warm up. At this time, place the printed template on top of the cutted out workpiece.  
 ![Template placing](../Resources/PCB%20Toner%20transfer/PCB-12-Template-placing.png)  
 
-Cover the workpiece with a sheet of plain paper and heat it for about 20 seconds. Do circular motions with an iron without applying significant effort. **It is necessary to warm the entire workpiece evenly**.  
+Cover the workpiece with a sheet of plain paper and heat it for about 40 seconds. Do circular motions with an iron with a little effort (without applying significant effort, since in some cases the toner may shift). **It is necessary to warm the entire workpiece evenly**.  
 ![Heating](../Resources/PCB%20Toner%20transfer/PCB-13-Heating.png)  
 
 After the warm-up is over, place the workpiece under the small press (I use several books) and allow the workpiece to cool completely (about 20 minutes).  
@@ -117,16 +117,16 @@ Now you need to clean the workpiece of the residual etching solute with conventi
 Then remove the toner with a solvent (acetone).  
 ![Toner removing](../Resources/PCB%20Toner%20transfer/PCB-20-Toner-removing.png)  
 
+Current step is drilling holes for the installation of the necessary components (in case of using TH components) and sharp edges processing PCB with a sandpaper. In this example I use a 0.6 mm diameter drill for resistor / capacitor / inductor / transistor holes and 1 mm for diodes. After drilling all the necessary holes, peel the PCB with fine-grained sandpaper from the burrs.  
+![Drilling](../Resources/PCB%20Toner%20transfer/PCB-21-Drilling.png)  
+
 Now your circuit board is ready for tinning. Preheat the soldering iron, process the received PCB with flux and after that tin all copper tracks with the help of solder. Do not use too much solder, the main purpose of this stage is just to create a small protective layer, rather than pour all the PCB with solder.  
-![Soldering iron tinning](../Resources/PCB%20Toner%20transfer/PCB-21-Soldering-iron-tinning.png)  
+![Soldering iron tinning](../Resources/PCB%20Toner%20transfer/PCB-22-Soldering-iron-tinning.png)  
 
 Alternatively, you can use liquid tin, for this, take a small container, pour out the solution of liquid tin and place the received PCB there. Wait until the process of chemical tinning is completed (all the tracks will be covered with a layer of tin).    
-![Liquid tin](../Resources/PCB%20Toner%20transfer/PCB-22-Liquid-tin.png)  
+![Liquid tin](../Resources/PCB%20Toner%20transfer/PCB-23-Liquid-tin.png)  
 
-The last step is drilling holes for the installation of the necessary components (in case of using TH components) and sharp edges processing PCB with a sandpaper. In this example I use a 0.6 mm diameter drill for resistor / capacitor / inductor / transistor holes and 1 mm for diodes.  
-![Drilling](../Resources/PCB%20Toner%20transfer/PCB-23-Drilling.png)  
-
-A printed circuit board made using a toner transfer method:  
+Wash the finished PCB from the flux residues, or from the remnants of the chemical etching solution. After that, your circuit board is ready for soldering the necessary components. A printed circuit board made using a toner transfer method:  
 ![Finished PCB](../Resources/PCB%20Toner%20transfer/PCB-24-Finished-PCB.png)  
 
 Other articles:  
