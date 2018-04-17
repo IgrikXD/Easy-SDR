@@ -92,7 +92,7 @@ The next step is to remove the top of the photo paper under which the toner rema
 
 After a lapse of 40 minutes, remove the workpiece from the water and gently, rolling with your fingers, remove the top layer of photo paper.  
 **At this stage, the most fundamental problem of this method of manufacturing PCBs can arise - the toner is not transferred completely**, there are areas with fallen off toner. There may be several reasons for this:  
-- Insufficient processing of the copper clad board. Poor removal of oxides (performing more intensive cleaning of workpiece) the appearance of greasy stains after the degreasing process (do not touch the work surface of the workpiece by hand).  
+- Insufficient processing of the copper clad board. Poor removal of oxides (performing more intensive cleaning of workpiece), the appearance of greasy stains after the degreasing process (do not touch the work surface of the workpiece by hand).  
 - The appearance of greasy spots on the printed template (do not touch the working surface of the template with your hands).  
 - Insufficient warming up of the template (increase the warm-up time or pay attention to the uniformity of warm-up).  
 - Uneven copper clad board, there are curvatures (use another copper clad board).  
