@@ -16,8 +16,9 @@ To manufacture a PCB you will need:
 - Fine grained sandpaper  
 - Glossy photo paper or thermal transfer paper. Its size should be greater than or equal to the manufactured PCB  
 - Clothes iron  
-- Degreaser 
-- Solvent or acetone  
+- Degreaser (optional)
+- Solvent or acetone
+- Alcohol  
 - Plastic or glass container for etching PCB  
 - Hydrogen peroxide, 3% solution, 100 ml.  
 - Citric acid, 30 g.  
@@ -126,7 +127,7 @@ Now your circuit board is ready for tinning. Preheat the soldering iron, process
 Alternatively, you can use liquid tin, for this, take a small container, pour out the solution of liquid tin and place the received PCB there. Wait until the process of chemical tinning is completed (all the tracks will be covered with a layer of tin).    
 ![Liquid tin](../Resources/PCB%20Toner%20transfer/PCB-23-Liquid-tin.png)  
 
-Wash the finished PCB from the flux residues, or from the remnants of the chemical etching solution. After that, your circuit board is ready for soldering the necessary components. A printed circuit board made using a toner transfer method:  
+Wash the printed circuit board from the flux residues with alcohol, or from the remnants of the chemical etching solute with water. After that, your circuit board is ready for soldering the necessary components. A printed circuit board made using a toner transfer method:  
 ![Finished PCB](../Resources/PCB%20Toner%20transfer/PCB-24-Finished-PCB.png)  
 
 Other articles:  
