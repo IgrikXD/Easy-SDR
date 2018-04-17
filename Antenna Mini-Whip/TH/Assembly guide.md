@@ -7,11 +7,11 @@ However, it is strongly recommended that you **use an antistatic wrist strap and
 Recommendations for assembling components:
 
 - Soldering all passive components in any order.
-- Soldering the power connector.
-- Soldering SMA connectors.
 - Soldering the diode 1N5819.
 - Soldering of the transistor 2N5109.
 - Soldering the field effect transistor J310.
+- Soldering the power connector.
+- Soldering SMA connectors.
 
 ## Additional instructions
 A useful step can also be to check the output voltage level with a multimeter. To prevent damage to your receiver, connect PFU to the power supply, and perform voltage measurement on the SMA connector (PFU-to-receiver connector). The value of the output voltage must be zero. After that, you can make further connections and work with the antenna.

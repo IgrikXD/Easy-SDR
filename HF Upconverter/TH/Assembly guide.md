@@ -19,11 +19,11 @@ Recommendations for assembling components:
 
 - Soldering self-made inductors.
 - Soldering other passive components in any order.
-- Soldering the power connector and the switch.
-- Soldering SMA connectors.
 - Soldering the diodes 1N4148 and LED.
 - Soldering of the mixer.
 - Soldering the crystall oscillator.
+- Soldering the power connector and the switch.
+- Soldering SMA connectors.
 
 ## Installation recommendations
 If you use HF Upconverter, you will lose the ability to use software selectable Bias Tee (if this is offered by your SDR receiver). Therefore, if you use an active antenna (for example, Mini-Whip), you will definitely need to use a separate Power Feed Unit that is connected between the antenna and the converter.
