@@ -1,7 +1,8 @@
 # The project implements some hardware devices for cheap SDR receivers based on Realtek RTL2832U controller 
 
 ## What is SDR?
-[Software-defined radio (SDR)] is a radio communication system where components that have been traditionally implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer or embedded system.
+[Software-defined radio (SDR)] is a radio communication system where components that have been traditionally implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer or embedded system.  
+A basic SDR system may consist of a personal computer equipped with a sound card, or other analog-to-digital converter, preceded by some form of RF front end. Significant amounts of signal processing are handed over to the general-purpose processor, rather than being done in special-purpose hardware (electronic circuits). Such a design produces a radio which can receive and transmit widely different radio protocols (sometimes referred to as waveforms) based solely on the software used.
 
 ## What are the objectives of this project?
 Creating affordable, easy-to-manufacture layouts of PCBs to working and expand the capabilities of existing low-cost SDR receivers available to ordinary users. All the created elements of the project will have a detailed description of the manufacturing process, with all the existing features and possible problems.
@@ -23,7 +24,7 @@ Creating affordable, easy-to-manufacture layouts of PCBs to working and expand t
 - [How to work with SDR receivers on Linux]
 
 ## How to use this repository?
-In the root of the repository select a device of interest and go to the appropriate directory (for example [HF Upconverter](./HF%20Upconverter). After the transition, select the component group of interest ([SMD](./HF%20Upconverter/SMD) or [TH](./HF%20Upconverter/TH)), also in [Datasheets](./HF%20Upconverter/Datasheets) directory you can find all necessary technical documentation for the used components in chosen module. The next step is to choose the platform in which the project is implemented ([EasyEDA](./HF%20Upconverter/TH/EasyEDA) or [Sprint Layout](./HF%20Upconverter/TH/Sprint%20Layout)). After selecting the directory with the platform of interest, the list of files for implementing the device becomes available to you. After that, based on submitted files, you can make the device completely independent or order printed circuit boards for factory manufacturing.
+In the root of the repository select a device of interest and go to the appropriate directory (for example [HF Upconverter](./HF%20Upconverter)). After the transition, select the component group of interest ([SMD](./HF%20Upconverter/SMD) or [TH](./HF%20Upconverter/TH)), also in [Datasheets](./HF%20Upconverter/Datasheets) directory you can find all necessary technical documentation for the used components in chosen module. The next step is to choose the platform in which the project is implemented ([EasyEDA](./HF%20Upconverter/TH/EasyEDA) or [Sprint Layout](./HF%20Upconverter/TH/Sprint%20Layout)). After selecting the directory with the platform of interest, the list of files for implementing the device becomes available to you. After that, based on submitted files, you can make the device completely independent or order printed circuit boards for factory manufacturing.
 
 ## Where can I buy a SDR receiver?
 You can order the SDR receiver on any of the currently available internet sites, such as Ebay, Aliexpress, Taobao, etc. Or you can use the following links to order some advanced versions of SDR receivers:
