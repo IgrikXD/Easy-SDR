@@ -2,7 +2,6 @@
 
 ## What is SDR?
 [Software-defined radio (SDR)] is a radio communication system where components that have been traditionally implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer or embedded system.  
-A basic SDR system may consist of a personal computer equipped with a sound card, or other analog-to-digital converter, preceded by some form of RF front end. Significant amounts of signal processing are handed over to the general-purpose processor, rather than being done in special-purpose hardware (electronic circuits). Such a design produces a radio which can receive and transmit widely different radio protocols (sometimes referred to as waveforms) based solely on the software used.
 
 ## What are the objectives of this project?
 Creating affordable, easy-to-manufacture layouts of PCBs to working and expand the capabilities of existing low-cost SDR receivers available to ordinary users. All the created elements of the project will have a detailed description of the manufacturing process, with all the existing features and possible problems.
