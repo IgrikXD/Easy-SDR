@@ -6,7 +6,7 @@ The manufacture of a PCB by **toner transfer method is based on the preliminary 
 
 If you need to perform very tight placing of components or use a low thickness of the tracks, it is better to choose the photoresist method.  
 
-As an example for the production of a PCB by toner transfer method, we will use the [Antenna Mini-Whip (TH)] module.
+As an example for the production of a PCB by toner transfer method, I will use the [Antenna Mini-Whip (TH)] module.
 
 ## Required components
 To manufacture a PCB you will need:
