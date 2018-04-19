@@ -2,7 +2,8 @@
 
 The production of a printed circuit board by the photoresist method is based on the preliminary preparation of a photomask of the future board. Next, using a photosensitive material (photoresist) by illuminating with an ultraviolet lamp, the template is transferred to the copper clad board, after which the future printed circuit board is developed in a solution of soda ash. After that, etching and subsequent processing of the finished PCB is carried out.  
 
-This method of manufacturing PCBs is more labor-intensive than the toner transfer method, but it allows to obtain a better PCB. **The use of the photoresist method is more appropriate in the following cases**:  
+This method of manufacturing PCBs is more labor-intensive than the toner transfer method, but it allows to obtain a better PCB. **The use of the photoresist method is more appropriate in the following cases**:
+  
 - Manufacturing of large PCBs. The toner transfer method can not guarantee high-quality toner transfer over large areas;  
 - Manufacturing of printed circuit boards with a low thickness of tracks;  
 - Manufacturing of printed circuit boards with a dense arrangement of components;  
