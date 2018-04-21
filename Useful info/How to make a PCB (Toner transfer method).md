@@ -45,7 +45,7 @@ In the export settings, **you need to set the following parameters**:
 - Color - Black on White;  
 
 Layers settings:  
-- TopLayer - export (true) - mirror (true);  
+- BottomLayer - export (true) - mirror (false);  
 Other layers doesn't used.  
 ![Export settings](../Resources/PCB%20Toner%20transfer/PCB-4-Export-settings.png)  
 
