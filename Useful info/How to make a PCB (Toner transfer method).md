@@ -47,6 +47,8 @@ In the export settings, **you need to set the following parameters**:
 Layers settings:  
 - BottomLayer - export (true) - mirror (false);  
 Other layers doesn't used.  
+
+**These parameters are used only for this example and are suitable only for printed circuit boards designed for TH components**, in case of PCB manufacture for SMD components you will have to use TopLayer with the parameter mirror (true).
 ![Export settings](../Resources/PCB%20Toner%20transfer/PCB-4-Export-settings.png)  
 
 After setting the above settings, click the "Export" button, after which the required file will be automatically downloaded. If the project has several PCB files, repeat this action for each of the files. In our example, we perform export for Antenna Mini-Whip PCB (TH) files: Main module and Antenna Mini-Whip PCB (TH): Power feed unit.  
