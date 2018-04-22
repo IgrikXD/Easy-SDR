@@ -16,8 +16,7 @@ To manufacture a PCB you will need:
 - Fine grained sandpaper  
 - Glossy photo paper or thermal transfer paper. Its size should be greater than or equal to the manufactured PCB  
 - Clothes iron  
-- Degreaser (optional)
-- Solvent or acetone
+- Acetone or solvent
 - Alcohol  
 - Plastic or glass container for etching PCB  
 - Hydrogen peroxide, 3% solution, 100 ml.  
@@ -57,7 +56,7 @@ The next step is to transfer the resulting images of PCBs to photo paper. Open t
 
 **At this stage, you need to set the following parameters**:  
 - Page Sizing & Handling - Push "Size" button and choice "Actual size";  
-- Orientation - Portrait (This setting will set printing from the upper left corner of the paper);  
+- Orientation - Portrait (this setting will set printing from the upper left corner of the paper);  
 
 However, do not rush to print the template itself, at first you need to set up additional settings.  
 ![Templates printing settings](../Resources/PCB%20Toner%20transfer/PCB-5-Templates-printing-settings.png)  
@@ -77,7 +76,7 @@ Now you have ready templates for toner transfer, prepare the copper clad board f
 The resulting workpiece should be gently sanded with fine sandpaper to remove any oxides formed. **Do not apply great effort and do not use coarse-grained sandpaper to avoid spoiling the workpiece**.  
 ![Copper clad board sanding](../Resources/PCB%20Toner%20transfer/PCB-10-Copper-clad-boadr-sanding.png)  
 
-Treat the surface of the workpiece with a solvent, degreaser or acetone. After this stage, do not touch the working copper surface with your hands.  
+Treat the surface of the workpiece with a acetone or solvent. After this stage, do not touch the working copper surface with your hands.  
 ![Finish preparing](../Resources/PCB%20Toner%20transfer/PCB-11-Finish-preparing.png)  
 
 Now you are ready to transfer the toner to the workpiece. Turn on the clothes iron, set the maximum temperature and wait for it to warm up. At this time, place the printed template on top of the cutted out workpiece.  
@@ -117,7 +116,7 @@ Wait until all the copper around the toner has dissolved, after which the etchin
 Now you need to clean the workpiece of the residual etching solute with conventional water.  
 ![Workpiece washing](../Resources/PCB%20Toner%20transfer/PCB-19-Workpiece-washing.png)  
 
-Then remove the toner with a solvent (acetone).  
+Then remove the toner with a acetone (solvent).  
 ![Toner removing](../Resources/PCB%20Toner%20transfer/PCB-20-Toner-removing.png)  
 
 Current step is drilling holes for the installation of the necessary components (in case of using TH components) and sharp edges processing PCB with a sandpaper. In this example I use a 0.6 mm diameter drill for resistor / capacitor / inductor / transistor holes and 1 mm for diodes. After drilling all the necessary holes, peel the PCB with fine-grained sandpaper from the burrs.  
