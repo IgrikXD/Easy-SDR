@@ -14,7 +14,7 @@ To manufacture a PCB you will need:
 - Single-layer copper clad board which corresponding size of the designed PCB  
 - Tool for trimming the PCB workpiece  
 - Fine grained sandpaper  
-- Glossy photo paper or thermal transfer paper. Its size should be greater than or equal to the manufactured PCB  
+- Glossy photo paper or thermal transfer paper (its size should be greater than or equal to the manufactured PCB)  
 - Clothes iron  
 - Acetone or solvent
 - Alcohol  

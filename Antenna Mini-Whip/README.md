@@ -4,7 +4,7 @@ Easy and quick building of active PA0RDT Mini-Whip antenna ([TH component group]
 
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28TH%29-tested-green.svg)](https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65) [![Progress](https://img.shields.io/badge/version-3.5.EE-blue.svg)](./TH/EasyEDA)  
-[![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28SMD%29-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754) [![Progress](https://img.shields.io/badge/version-1.4.EE-blue.svg)](./SMD/EasyEDA)  
+[![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754) [![Progress](https://img.shields.io/badge/version-1.4.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
 - [Antenna Mini-Whip (TH)] ([Components list](./TH/Components%20list.md), [Assembly guide](./TH/Assembly%20guide.md))
