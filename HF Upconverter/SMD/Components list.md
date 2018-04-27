@@ -156,7 +156,9 @@
 ##### Resistors:
 - 36R, 0805 (
 [LCSC](https://lcsc.com/search?q=36R%200805) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X36R+0805.TRS1&_nkw=36R+0805&_sacat=0) ) - **1 pcs.**
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X36R+0805.TRS1&_nkw=36R+0805&_sacat=0) ) - **1 pcs.**- - 100R, 0805 (
+[LCSC](https://lcsc.com/search?q=100R%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X100R+0805.TRS0&_nkw=100R+0805&_sacat=0) ) - **1 pcs.**
 - 160R, 0805 (
 [LCSC](https://lcsc.com/search?q=160R%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.X160R+0805.TRS0&_nkw=160R+0805&_sacat=0) ) - **2 pcs.**
