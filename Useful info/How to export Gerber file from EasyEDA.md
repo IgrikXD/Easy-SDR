@@ -58,6 +58,7 @@ Other articles:
 
 
 [EasyEDA]: <https://easyeda.com/>
+[PCBWay]: <https://www.pcbway.com/>
 [JLCPCB]: <https://jlcpcb.com/>
 [Seeed Studio]: <https://www.seeedstudio.com/fusion_pcb.html>
 [ITEAD]: <https://www.itead.cc/open-pcb/pcb-prototyping.html>
