@@ -6,7 +6,7 @@ When developing their projects, in the case of ordering printed circuit boards I
 ## What other companies exist to ordering PCBs?
 | PCB Manufacturer | Information |
 | ----- | ----- |
-| [PCBWay] | Sponsorship of non-commercial projects. Bonus system for issuing coupons based on reviews about manufactured PCBs and inviting friends. |
+| [PCBWay] | International shipping. The minimum order is 5 pieces. Sponsorship of non-commercial projects. Bonus system for issuing coupons based on reviews about manufactured PCBs and inviting friends. |
 | [Seeed Studio] | International shipping. The minimum order is 5 pieces. |
 | [ITEAD] | International shipping. The minimum order is 5 pieces. |
 | [OSH Park] | International shipping. |
