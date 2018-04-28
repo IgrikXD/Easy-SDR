@@ -6,9 +6,9 @@ When developing their projects, in the case of ordering printed circuit boards I
 ## What other companies exist to ordering PCBs?
 | PCB Manufacturer | Information |
 | ----- | ----- |
-| [JLCPCB] | International shipping. The minimum order is 5 pieces.|
-| [Seeed Studio] | International shipping. The minimum order is 5 pieces.|
-| [ITEAD] | International shipping. The minimum order is 5 pieces.|
+| [PCBWay] | Sponsorship of non-commercial projects. Bonus system for issuing coupons based on reviews about manufactured PCBs and inviting friends. |
+| [Seeed Studio] | International shipping. The minimum order is 5 pieces. |
+| [ITEAD] | International shipping. The minimum order is 5 pieces. |
 | [OSH Park] | International shipping. |
 | [Belplata] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery.|
 | [Nanotech] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery. |
@@ -64,7 +64,7 @@ Other articles:
 
 
 [EasyEDA]: <https://easyeda.com/>
-[JLCPCB]: <https://jlcpcb.com/>
+[PCBWay]: <https://www.pcbway.com/>
 [Seeed Studio]: <https://www.seeedstudio.com/fusion_pcb.html>
 [ITEAD]: <https://www.itead.cc/open-pcb/pcb-prototyping.html>
 [OSH Park]: <https://oshpark.com/>

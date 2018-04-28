@@ -8,9 +8,10 @@ Also, you can find ready Gerber files for a specific module in the directory:
 ## Where can I order PCB manufacture?
 | PCB Manufacturer | Information |
 | ----- | ----- |
-| [JLCPCB] | International shipping. The minimum order is 5 pieces.|
-| [Seeed Studio] | International shipping. The minimum order is 5 pieces.|
-| [ITEAD] | International shipping. The minimum order is 5 pieces.|
+| [PCBWay] | Sponsorship of non-commercial projects. Bonus system for issuing coupons based on reviews about manufactured PCBs and inviting friends. |
+| [JLCPCB] | International shipping. The minimum order is 5 pieces. |
+| [Seeed Studio] | International shipping. The minimum order is 5 pieces. |
+| [ITEAD] | International shipping. The minimum order is 5 pieces. |
 | [OSH Park] | International shipping. |
 | [Belplata] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery.|
 | [Nanotech] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery. |

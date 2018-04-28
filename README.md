@@ -35,7 +35,7 @@ You can order the SDR receiver on any of the currently available internet sites,
 | [Airspy] | You can choose a retailer according to your whereabouts. Performs support and develop new versions. There are links for downloading software and working with the server. |
 
 ## Who helped me with the development of the project?
-Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.COM V.3 and information support. [LCSC] company that provided most of the electronic components used for assembly for completely free. And also [Mini-Circuits] for the provided samples of [ADE] frequency mixer by EZ-Sample program.
+Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.COM V.3 and information support. [LCSC] company that provided most of the electronic components used for assembly for completely free. [Mini-Circuits] company for the providing samples of [ADE] frequency mixer by EZ-Sample program. And also [PCBWay] for $ 20 discount when ordering PCBs for the project.
 
 ## What was used mainly in the development?
 | Source | Description |
@@ -57,6 +57,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [Airspy]: <https://airspy.com/purchase/>
 [LCSC]: <https://lcsc.com/>
 [Mini-Circuits]: <https://ww2.minicircuits.com/homepage/homepage.html>
+[PCBWay]: <https://www.pcbway.com/>
 [ADE]: <https://www.minicircuits.com/WebStore/dashboard.html?model=ADE-1%2B>
 [PA0RDT Mini-Whip]: <http://dl1dbc.net/SAQ/miniwhip.html>
 [RA0SMS Mini-Whip]: <http://www.ra0sms.ru/p/the-active-antenna-mini-whip-10-khz-30.html>
