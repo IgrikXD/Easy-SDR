@@ -9,6 +9,7 @@ Soldering order of components:
 - TPS version: C14 -> L4 -> C16 -> L5 -> C18 -> L6 -> C13 -> C15 -> C17 -> C19 -> C21 -> L8 -> C23 -> L10 -> C25 -> L12 -> C20 -> L7 -> C22 -> L9 -> C24 -> L11 -> C26 -> L13 -> C27 -> R15 -> R16 -> C4 -> C6 -> DNI (R7) -> DNI (R6) -> C7 -> C8 -> C9 -> R12 -> R13 -> R14 -> L2 -> C11 -> L1 -> MX1 -> DNI (L3) -> DNI (C12) -> U2 -> C5 -> BLUE LED -> R5 -> RED LED -> R10 -> GREEN LED -> R11 -> D4 -> SW1 -> U3 -> C10 -> USB1 -> SMA con.
 
 For building this version, you will need a multimeter for measurements the output voltage of the LM317. If you do not have a multimeter, you can replace the trimmer resistor R3 with a TH resistor rated at 470 ohms.  
+
 - TPS + LM version: C14 -> L4 -> C16 -> L5 -> C18 -> L6 -> C13 -> C15 -> C17 -> C19 -> C21 -> L8 -> C23 -> L10 -> C25 -> L12 -> C20 -> L7 -> C22 -> L9 -> C24 -> L11 -> C26 -> L13 -> C27 -> R15 -> R1 -> R16 -> C2 -> R2 -> C1 -> YELLOW LED -> C3 -> R4 -> RED LED -> R10 -> Q3 -> R8 -> R9 -> D2 -> D3 -> C8 -> R13 -> R14 -> L2 -> C11 -> L1 -> C10 - > C4 -> C6 -> DNI (R7) -> DNI (R6) -> C7 -> MX1 -> DNI (L3) -> DNI (C12) -> U2 -> C5 -> Q2 -> Q1 -> U1 -> D1 -> BLUE LED -> R5 -> GREEN LED -> R11 -> D4 -> R3 -> SW1 -> DC1 -> USB1 -> (Connect the power to the DC connector, measure the voltage between the middle switch contact and GND. **The value obtained should be between 3.25-3.35 V**) -> U3 -> C9 -> R12 ->  SMA con.  
 
 ## Installation recommendations
