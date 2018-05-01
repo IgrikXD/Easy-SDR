@@ -29,10 +29,6 @@
 [LCSC](https://lcsc.com/search?q=irlml6402) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xirlml6402.TRS0&_nkw=irlml6402&_sacat=0) /
 [Datasheet](./Datasheets/MOSFET/IRLML6402-Datasheet.pdf) ) - **1 pcs.**
-- BJT(NPN) MMBT2222A, SOT-23 (
-[LCSC](https://lcsc.com/search?q=MMBT2222A) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.XMMBT2222A.TRS0&_nkw=MMBT2222A&_sacat=0) /
-[Datasheet](./Datasheets/BJT%20(NPN)/MMBT2222A-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Diodes:
 - SS12, DO-214AC (
@@ -174,12 +170,6 @@
 - 1k ADJ, 3296W (
 [LCSC](https://lcsc.com/search?q=1k%203296) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X1k+3296.TRS1&_nkw=1k+3296&_sacat=0) ) - **1 pcs.**
-- 10k, 0805 (
-[LCSC](https://lcsc.com/search?q=10k%200805) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.X10k+0805.TRS0&_nkw=10k+0805&_sacat=0) ) - **1 pcs.**
-- 12k, 0805 (
-[LCSC](https://lcsc.com/search?q=12k%200805) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X12k+080.TRS1&_nkw=12k+0805&_sacat=0) ) - **1 pcs.**
 - 30k, 0805 (
 [LCSC](https://lcsc.com/search?q=30k%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X30k+080.TRS1&_nkw=30k+0805&_sacat=0) ) - **1 pcs.**
