@@ -32,6 +32,8 @@ At the moment, the method described above is the best way to work with the SDR r
 | [Еще раз о приеме КВ на RTL-SDR] | Article in Russian, describing how the converter works. The schematic of the Upconverter is given. |
 | [Защита устройств от неправильной подачи полярности питания] | Article in Russian, describing the principle of protecting electrical appliances from improper polarity of power. This decision was used in HF Upconverter (SMD) module. |
 | [Схемы переключения устройства на резервный источник] | Article in Russian, describing examples of various switching schemes for power supplies. |
+| [USB-кабели и кабели питания] | Article in Russian, describing the types of USB cables encountered and the role of cable shield in USB devices. |
+| [Типы зарядных портов] | Article in Russian, describing the power supply schemes for USB devices. |
 | [Широкополосный SDR радиосканер из DVB тюнера] | The Russian community works with SDR receivers. Any user can ask a question of interest, open discussions. |
 | [Software Defined Radio meteo] | The Russian community works with SDR receivers and is engaged in receiving images from meteorological satellites. Closed discussions, messages are moderated. |
 
@@ -55,6 +57,8 @@ Some theoretical information about used parts:
 [Еще раз о приеме КВ на RTL-SDR]: <https://m.geektimes.ru/post/289241/>
 [Защита устройств от неправильной подачи полярности питания]: <https://habrahabr.ru/post/254035/>
 [Схемы переключения устройства на резервный источник]: <http://avrproject.ru/forum/4-101-1>
+[USB-кабели и кабели питания]: <http://rones.su/techno/usb-dc-cables.html>
+[Типы зарядных портов]: <http://rones.su/techno/charging_ports_types.html>
 [Широкополосный SDR радиосканер из DVB тюнера]: <https://vk.com/dvb_tv>
 [Software Defined Radio meteo]: <https://vk.com/noaa_sat>
 [Low-pass filter]: <https://en.wikipedia.org/wiki/Low-pass_filter>
