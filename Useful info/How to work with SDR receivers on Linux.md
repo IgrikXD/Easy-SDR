@@ -19,7 +19,7 @@ First open the terminal and perform a complete [system upgrade](https://wiki.arc
 sudo pacman -Syu
 ```
 This command synchronizes the repository databases and updates the system's packages.  
-![Upgrade](../Resources/SDR-on-Linux/Linux-1-Upgrade.png)  
+![Upgrade](../Resources/SDR%20on%20Linux/Linux-1-Upgrade.png)  
 
 The next step is to [install](https://wiki.archlinux.org/index.php/pacman#Installing_packages) the Gqrx package, which is used to work with SDR receivers.
 ```sh
