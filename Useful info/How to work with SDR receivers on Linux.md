@@ -39,7 +39,7 @@ The value of "**Input rate**" is set to a value **1800000**;
 The value of "**Decimation**" is set to a value of **16**;  
 The last two parameters can be set in their own way, but the settings shown above allow you to simultaneously display a bandwidth of 100 kHz, which is more convenient for me.  
 
-Example of settings for working in the normal mode: 
+Example of settings for working in the normal mode:  
 ![Gqrx normal mode](../Resources/SDR%20on%20Linux/Linux-3-Gqrx-normal-mode.png)
 
 Example of settings for working in "Direct sampling" mode:  
