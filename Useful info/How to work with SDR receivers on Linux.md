@@ -40,10 +40,10 @@ The value of "**Decimation**" is set to a value of **16**;
 The last two parameters can be set in their own way, but the settings shown above allow you to simultaneously display a bandwidth of 100 kHz, which is more convenient for me.  
 
 Example of settings for working in the normal mode:  
-![Gqrx normal mode](Resources/SDR%20on%20Linux/Linux-3-Gqrx-normal-mode.png)
+![Gqrx normal mode](../Resources/SDR%20on%20Linux/Linux-3-Gqrx-normal-mode.png)
 
 Example of settings for working in "Direct sampling" mode:  
-![Gqrx direct sampling](../Resources/SDR%20on%20Linux/Linux-4-Gqrx-direct-sampling.png)  
+![Gqrx direct sampling](Resources/SDR%20on%20Linux/Linux-4-Gqrx-direct-sampling.png)  
 
 **In the case of using the upconverter, you need to set the LNB LO parameter to the frequency of the converter oscillator with a minus sign**. For example, if you use a converter module from this repository, LNB LO value will be -125.00 MHz. In addition, you will need to disable the "Direct sampling" mode (Device string: rtl=0).  
 
