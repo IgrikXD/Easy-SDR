@@ -25,7 +25,7 @@ The next step is to [install](https://wiki.archlinux.org/index.php/pacman#Instal
 ```sh
 sudo pacman -S gqrx
 ```
-![Upgrade](../Resources/SDR%20on%20Linux/Linux-2-Gqrx-install.png)  
+![Gqrx install](../Resources/SDR%20on%20Linux/Linux-2-Gqrx-install.png)  
 
 At the completion of this step, all the necessary dependencies will automatically load. Also, automatic unloading of the kernel modules interfering with the operation of the receiver in the SDR mode will be performed.
 
@@ -34,7 +34,7 @@ After the above steps, you can start working with your SDR receiver. Now, run gq
 gqrx
 ```
 After executing this command, you will see the basic Gqrx settings window.  
-![Upgrade](../Resources/SDR%20on%20Linux/Linux-3-Gqrx-basic-settings.png)  
+![Gqrx basic settings](../Resources/SDR%20on%20Linux/Linux-3-Gqrx-basic-settings.png)  
 
 To work with our SDR receiver in the field "**Device**" select the value "**Realtek RTL2832UHIDIR SN: 00000001**".  
 If you need the "Direct sampling" mode, the "**Device string**" field is given to the following form: "**rtl=0,direct_samp=2**" (without the quotes). If the mode "Direct sampling" is not needed, leave the "**Device string**" field in the form: "**rtl=0**" (without the quotes);  
@@ -43,7 +43,7 @@ The value of "**Decimation**" is set to a value of **16**;
 
 The last two parameters can be set in their own way, but the settings shown above allow you to simultaneously display a bandwidth of 100 kHz, which is more convenient for me.  
 After setting all the parameters press the "OK" button and get into the Gqrx program. To start receiving, press the "**Play (Start DSP processing)**" button in the upper left part of the program.
-![Upgrade](../Resources/SDR%20on%20Linux/Linux-4-Start-Gqrx.png)  
+![Start Gqrx](../Resources/SDR%20on%20Linux/Linux-4-Start-Gqrx.png)  
 
 For a more detailed guide to working with the Gqrx program, you can use the following link: [Practical tricks and tips – Gqrx SDR]  
 To find additional software for working with the received signal, you can use the following link: [Amateur radio (Software list) - ArchWiki]
@@ -54,7 +54,7 @@ Insert your receiver into the USB connector of the computer and run the followin
 rtl_test
 ```
 This command will be executed indefinitely, until the user aborts execution. Stop the command about a minute after the start (Ctrl + C). If, as a result of the command, the value of "Samples per million lost (minimum)" is zero, your device is working properly.  
-![Upgrade](../Resources/SDR%20on%20Linux/Linux-5-Rtl-test.png)  
+![RTL test](../Resources/SDR%20on%20Linux/Linux-5-RTL-test.png)  
 
 ## How to use software selectable Bias Tee?
 For using software selectable Bias Tee you should make following steps (manual from [RTL-SDR Blog V.3. Dongles User Guide]):
@@ -69,10 +69,10 @@ make
 cd src
 ./rtl_biast -b 1
 ```
-![Upgrade](../Resources/SDR%20on%20Linux/Linux-6-Install-cmake.png)  
-![Upgrade](../Resources/SDR%20on%20Linux/Linux-7-Git-clone.png)  
-![Upgrade](../Resources/SDR%20on%20Linux/Linux-8-Make.png)  
-![Upgrade](../Resources/SDR%20on%20Linux/Linux-9-Rtl-biast.png)  
+![Install cmake](../Resources/SDR%20on%20Linux/Linux-6-Install-cmake.png)  
+![Git clone](../Resources/SDR%20on%20Linux/Linux-7-Git-clone.png)  
+![Make](../Resources/SDR%20on%20Linux/Linux-8-Make.png)  
+![RTL biast](../Resources/SDR%20on%20Linux/Linux-9-RTL-biast.png)  
 
 Important notice, **do not try to make "sudo make install"**, this command will work fine, but running the package with rtl_biast -b X will not work. This error was not eliminated by the developer at the time of April 2018. 
 
