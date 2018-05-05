@@ -35,10 +35,6 @@
 [LCSC](https://lcsc.com/search?q=ss12%20do-214ac) /
 [EBAY](https://www.ebay.com/sch/i.html?_odkw=ss12&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xss12+do-214ac.TRS1&_nkw=ss12+do-214ac&_sacat=0) /
 [Datasheet](./Datasheets/Diodes/SS12-SS16-Diode-Datasheet.pdf) ) - **1 pcs.**
-- M2, DO-214AC (
-[LCSC](https://lcsc.com/search?q=m2%20do-214ac) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xm2+do-214ac.TRS0&_nkw=m2+do-214ac&_sacat=0) /
-[Datasheet](./Datasheets/Diodes/M1-M7-Diode-Datasheet.pdf) ) - **1 pcs.**
 - BAV99, SOT-23 (
 [LCSC](https://lcsc.com/search?q=bav99%20sot-23) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.Xbav99.TRS0&_nkw=bav99&_sacat=0) /
