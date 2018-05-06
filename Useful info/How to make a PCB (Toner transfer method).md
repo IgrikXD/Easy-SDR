@@ -50,7 +50,7 @@ Other layers doesn't used.
 **These parameters are used only for this example and are suitable only for printed circuit boards designed for TH components**, in case of PCB manufacture for SMD components you will have to use TopLayer with the parameter "mirror (true)".  
 ![Export settings](../Resources/PCB%20Toner%20transfer/PCB-4-Export-settings.png)  
 
-After setting the above settings, click the "Export" button, after which the required file will be automatically downloaded. If the project has several PCB files, repeat this action for each of the files. In our example, we perform export for Antenna Mini-Whip PCB (TH) files: Main module and Antenna Mini-Whip PCB (TH): Power feed unit.  
+After setting the above settings, click the "Export" button, after which the required file will be automatically downloaded. If the project has several PCB files, repeat this action for each of the files. In this example, I perform export for Antenna Mini-Whip PCB (TH) files: Main module and Antenna Mini-Whip PCB (TH): Power feed unit.  
 
 The next step is to transfer the resulting images of PCBs to photo paper. Open the downloaded image files of the PCBs (I use Adobe Acrobat Reader DC) and print the received files using: File -> Print ... (Ctrl + P).  
 
@@ -113,13 +113,13 @@ Place your workpiece in the prepared solution.
 Wait until all the copper around the toner has dissolved, after which the etching process can be considered complete. Using tweezers, remove the printed circuit board.  
 ![Etching complete](../Resources/PCB%20Toner%20transfer/PCB-18-Etching-complete.png)  
 
-Now you need to clean the workpiece of the residual etching solution with conventional water.  
+Now you need to clean the workpiece from the residual etching solution with conventional water.  
 ![Workpiece washing](../Resources/PCB%20Toner%20transfer/PCB-19-Workpiece-washing.png)  
 
 Then remove the toner with a acetone (solvent).  
 ![Toner removing](../Resources/PCB%20Toner%20transfer/PCB-20-Toner-removing.png)  
 
-Current step is drilling holes for the installation of the necessary components (in case of using TH components) and sharp edges processing PCB with a sandpaper. In this example I use a 0.6 mm diameter drill for resistor / capacitor / inductor / transistor holes and 1 mm for diodes. After drilling all the necessary holes, peel the PCB with fine-grained sandpaper from the burrs.  
+Current step is drilling holes for the installation of the necessary components (in case of using TH components). In this example I use a 0.6 mm diameter drill for resistor / capacitor / inductor / transistor holes and 1 mm for diodes. After drilling all the necessary holes, peel the PCB with fine-grained sandpaper from the burrs.  
 ![Drilling](../Resources/PCB%20Toner%20transfer/PCB-21-Drilling.png)  
 
 Now your circuit board is ready for tinning. Preheat the soldering iron, process the received PCB with flux and after that tin all copper tracks with the help of solder. Do not use too much solder, the main purpose of this stage is just to create a small protective layer, rather than pour all the PCB with solder.  
