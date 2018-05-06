@@ -19,7 +19,7 @@ When developing their projects, in the case of ordering printed circuit boards I
 | [Margol Electronics] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery. The minimum order is 1 pieces. |
 
 ## Ordering from JLCPCB
-First, you need to go to the [JLCPCB] site itself.
+First, you need to go to the [JLCPCB] site itself.  
 ![Mainpage](../Resources/JLCPCB%20order/JLCPCB-1-Mainpage.png)  
 
 Then log in to your existing account or create a new one.  
@@ -46,7 +46,7 @@ After checking all the parameters, we press the "SAVE TO CART" button to save th
 At this step, add your mailing address, choose the most convenient method of delivery (at the time of 2018, if you make the first order on the JLCPCB platform the delivery is free of charge) and the preferred method of payment. After adding all the necessary data, click the "Pay" button.  
 ![Place order](../Resources/JLCPCB%20order/JLCPCB-9-Place-order.png)  
 
-After payment of the order, we can look at the information on the placed order. For each PCB there will be a separate number in the order, according to which we can view the current production status. 
+After payment of the order, we can look at the information on the placed order. For each PCB there will be a separate number in the order, according to which we can view the current production status.  
 ![Order history](../Resources/JLCPCB%20order/JLCPCB-10-Order-history.png)  
 
 To view the production status, click the "Order Details" button for the specific PCB. For my order (HF Upconverter (SMD) + Antenna Mini-Whip (SMD)) the manufacture of PCBs was done in about 30 hours.  
@@ -63,6 +63,7 @@ Other articles:
 [How to work with SDR receivers on Linux](./How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md)
 
 
+[JLCPCB]: <https://jlcpcb.com/>
 [EasyEDA]: <https://easyeda.com/>
 [PCBWay]: <https://www.pcbway.com/>
 [Seeed Studio]: <https://www.seeedstudio.com/fusion_pcb.html>
