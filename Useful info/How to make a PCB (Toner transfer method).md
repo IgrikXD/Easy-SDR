@@ -101,19 +101,19 @@ After a lapse of 40 minutes, remove the workpiece from the water and gently, rol
 If you are faced with an problem of incomplete toner transfer, you will need to repeat the template printing and clear the workpiece from the old toner. Then repeat the transfer of toner process.  
 ![Paper removing](../Resources/PCB%20Toner%20transfer/PCB-16-Paper-removing.png)  
 
-Now your workpiece is ready for etching. **Prepare the etching solute according to the following instructions**:  
+Now your workpiece is ready for etching. **Prepare the etching solution according to the following instructions**:  
 - Take a plastic or glass container and pour in it 100 ml of 3% hydrogen peroxide;  
 - Add 30 grams of citric acid;  
 - Add 5 grams of table salt.  
-Thoroughly mix the resulting solute until all components are completely dissolved.  
+Thoroughly mix the resulting solution until all components are completely dissolved.  
 
-Place your workpiece in the prepared solute.  
+Place your workpiece in the prepared solution.  
 ![Performs etching](../Resources/PCB%20Toner%20transfer/PCB-17-Performs-etching.png)  
 
 Wait until all the copper around the toner has dissolved, after which the etching process can be considered complete. Using tweezers, remove the printed circuit board.  
 ![Etching complete](../Resources/PCB%20Toner%20transfer/PCB-18-Etching-complete.png)  
 
-Now you need to clean the workpiece of the residual etching solute with conventional water.  
+Now you need to clean the workpiece of the residual etching solution with conventional water.  
 ![Workpiece washing](../Resources/PCB%20Toner%20transfer/PCB-19-Workpiece-washing.png)  
 
 Then remove the toner with a acetone (solvent).  
@@ -128,7 +128,7 @@ Now your circuit board is ready for tinning. Preheat the soldering iron, process
 Alternatively, you can use liquid tin, for this, take a small container, pour out the solution of liquid tin and place the received PCB there. Wait until the process of chemical tinning is completed (all the tracks will be covered with a layer of tin).    
 ![Liquid tin](../Resources/PCB%20Toner%20transfer/PCB-23-Liquid-tin.png)  
 
-Wash the printed circuit board from the flux residues with alcohol, or from the remnants of the chemical etching solute with water. After that, your circuit board is ready for soldering the necessary components. A printed circuit board made using a toner transfer method:  
+Wash the printed circuit board from the flux residues with alcohol, or from the remnants of the chemical etching solution with water. After that, your circuit board is ready for soldering the necessary components. A printed circuit board made using a toner transfer method:  
 ![Finished PCB](../Resources/PCB%20Toner%20transfer/PCB-24-Finished-PCB.png)  
 
 Other articles:  
