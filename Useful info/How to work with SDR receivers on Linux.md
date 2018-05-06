@@ -1,6 +1,6 @@
 # How to work with SDR receivers on Linux
 
-In this tutorial, I'll show you how to work with SDR receivers in Linux. [Manjaro Linux] distribution will be used for the work, however, any Arch-based distribution will work for this manual.
+In this tutorial, I'll show you how to work with SDR receivers in Linux. [Manjaro Linux] distribution will be used for the work, however, any Arch-based distribution will worked with this manual.
 
 ## Why did I choose Manjaro Linux?
 There are several reasons why I chose [Manjaro Linux]. I used Archlinux for a long time and I'm just used to working with this distribution, however, this distribution can be difficult to configure for beginners. Therefore, it was decided to find something simple to configure, "working out of the box", so that a user who had not previously encountered Linux could easily figure out what's what. For this reason, [Manjaro Linux] was chosen. As for the popular Ubuntu Linux distribution, in my opinion, the instructions presented below will be slightly simpler than the existing instructions for a similar configuration for the Ubuntu Linux distribution.
@@ -34,7 +34,7 @@ After the above steps, you can start working with your SDR receiver. Now, run gq
 gqrx
 ```
 After executing this command, you will see the basic Gqrx settings window. To work with your SDR receiver in the field "**Device**" select the value "**Realtek RTL2832UHIDIR SN: 00000001**" (may be different, depends on the receiver used).  
-If you need the "Direct sampling" mode, the "**Device string**" field is given to the following form: "**rtl=0,direct_samp=2**" (without the quotes). If the mode "Direct sampling" is not needed, leave the "**Device string**" field in the form: "**rtl=0**" (without the quotes);  
+If you need the "Direct sampling" mode, the "**Device string**" field is given to the following form: "**rtl=0,direct_samp=2**" (without the quotes). If the mode "Direct sampling" is not needed, leave the "**Device string**" field in the form: "**rtl=0**" (without the quotes). The parameter "rtl" shows the id of the used SDR receiver, if you use several receivers, this parameter can have a value different from the one specified in the example.  
 The value of "**Input rate**" is set to a value **1800000**;  
 The value of "**Decimation**" is set to a value of **16**;  
 The last two parameters can be set in their own way, but the settings shown above allow you to simultaneously display a bandwidth of 100 kHz, which is more convenient for me.  
@@ -57,7 +57,7 @@ For a more detailed guide to working with the Gqrx program, you can use the foll
 To find additional software for working with the received signal, you can use the following link: [Amateur radio (Software list) - ArchWiki]
 
 ## How can I make sure my SDR receiver is working?
-Insert your receiver into the USB connector of the computer and run the following command:
+Insert your receiver into the USB connector of the computer and run the following command (Gqrx and any other programs using the receiver should be closed):
 ```sh
 rtl_test
 ```
