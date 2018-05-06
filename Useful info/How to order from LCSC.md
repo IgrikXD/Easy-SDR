@@ -1,7 +1,7 @@
 # How to order from LCSC
 
 ## Why LCSC?
-The main reason for choosing [LCSC] was that this distributor is connected with the service of PCBs developing [EasyEDA]. This allows us, when correctly describing the BOM file, to place the order of all necessary components in just a few simple steps. Supporting worldwide shipping. All components come in individual anti-static packaging with a protection against damage (cardboard box + bubble wrap).  
+The main reason for choosing [LCSC] was that this distributor is connected with the service of PCBs developing - [EasyEDA]. This allows us, when correctly describing the BOM file, to place the order of all necessary components in just a few simple steps. Supporting worldwide shipping. All components come in individual anti-static packaging with a protection against damage (cardboard box + bubble wrap).  
 However, you may not find all the necessary components for the assembly, in this case I'm using [Ebay]. To make it easier to find the necessary components for the assembly of the module, you can find the corresponding file with a list of all the necessary components with links to [LCSC] and [Ebay], and also, with references to datasheets on the following path:  
 **Easy-SDR repository / Module name / Component group / Components list**.
 
@@ -29,7 +29,8 @@ Select the previously downloaded BOM file and drag it to the download area, or s
 
 In the case of automatic redirection through "One-click Purchasing at LCSC" in editor, automatic redirection from module page or in case of self-loading the BOM file, you will see the generated pre-order based on the received data from the BOM file. However, at this stage, there are three possible options for the availability of the necessary components:  
 
-Сomponent in stock. In this case, no action is required, the necessary component is present in the warehouse and will be included in our order.  ![Component in stock](../Resources/LCSC%20order/LCSC-8-Component-in-stock.png)  
+Сomponent in stock. In this case, no action is required, the necessary component is present in the warehouse and will be included in our order.  
+![Component in stock](../Resources/LCSC%20order/LCSC-8-Component-in-stock.png)  
 
 Component not found. In this case, the required component was not found, you can try to search for the necessary component yourself using a different search query. However, most likely you will not find anything, in this case, you can try to order this component for example at [Ebay].  
 ![Component not found](../Resources/LCSC%20order/LCSC-9-Component-not-found.png)  
