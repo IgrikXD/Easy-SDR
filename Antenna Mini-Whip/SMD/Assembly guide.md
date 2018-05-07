@@ -1,7 +1,7 @@
 # Assembly guide for Antenna Mini-Whip (SMD) module
 
 ## Components installing 
-Due to the use of SMD components and relatively tight mounting, this module has some recommendations on the order of soldering components, this is necessary to facilitate soldering (no hard-to-reach areas for the soldering iron will be formed).
+Due to the use of SMD components and relatively tight mounting, this module has some recommendations on the soldering order of components, this is necessary to facilitate soldering (no hard-to-reach areas for the soldering iron will be formed).
 Also, it is strongly recommended that you **use an antistatic wrist strap and do not use soldering irons that are powered directly from the 220V / 110V network**, which can damage the MOSFET BF998 when soldering.
 
 Soldering order of components:
