@@ -16,7 +16,7 @@ To manufacture a PCB you will need:
 - Fine grained sandpaper  
 - Glossy photo paper or thermal transfer paper (its size should be greater than or equal to the manufactured PCB)  
 - Clothes iron  
-- Acetone or solvent
+- Acetone or solvent (also, any liquid dishwashing detergent can be used for degreasing)  
 - Alcohol  
 - Plastic or glass container for etching PCB  
 - Hydrogen peroxide, 3% solution, 100 ml.  
@@ -70,19 +70,19 @@ Now you can insert photo paper or thermal transfer paper into your printer and p
 After that you need to gently trim the excess photo paper on the outer contour of the printed template.  
 ![Template trimming](../Resources/PCB%20Toner%20transfer/PCB-8-Template-trimming.png)  
 
-Now you have ready templates for toner transfer, prepare the copper clad board for the subsequent transfer of the toner. Cut the copper clad board according to the size of the printed template. **Do not leave unnecessary space**, since in the absence of a drilling machine small pieces of the PCB in future are difficult to remove with the help of a hand tool.  
+Now you have ready templates for toner transfer, prepare the copper clad board for the transfer of the toner. Cut the copper clad board according to the size of the printed template. **Do not leave unnecessary space**, since in the absence of a drilling machine small pieces of the PCB in future are difficult to remove with the help of a hand tool.  
 ![Copper clad board trimming](../Resources/PCB%20Toner%20transfer/PCB-9-Copper-clad-boadr-trimming.png)  
 
 The resulting workpiece should be gently sanded with fine sandpaper to remove any oxides formed. **Do not apply great effort and do not use coarse-grained sandpaper to avoid spoiling the workpiece**.  
 ![Copper clad board sanding](../Resources/PCB%20Toner%20transfer/PCB-10-Copper-clad-boadr-sanding.png)  
 
-Treat the surface of the workpiece with a acetone or solvent. After this stage, do not touch the working copper surface with your hands.  
+Treat the surface of the workpiece with a acetone or solvent. An alternative solution may be to wash the workpiece using a liquid dishwashing detergent. After this stage, do not touch the working copper surface with your hands.  
 ![Finish preparing](../Resources/PCB%20Toner%20transfer/PCB-11-Finish-preparing.png)  
 
 Now you are ready to transfer the toner to the workpiece. Turn on the clothes iron, set the maximum temperature and wait for it to warm up. At this time, place the printed template on top of the cutted out workpiece.  
 ![Template placing](../Resources/PCB%20Toner%20transfer/PCB-12-Template-placing.png)  
 
-Cover the workpiece with a sheet of plain paper and heat it for about 40 seconds. Do circular motions with an iron with a little effort (without applying significant effort, since in some cases the toner may shift). **It is necessary to warm the entire workpiece evenly**.  
+Cover the workpiece with a sheet of plain paper and heat it for about 40 seconds. Do circular motions with a little effort (without applying significant effort, since in some cases the toner may shift). **It is necessary to warm the entire workpiece evenly**.  
 ![Heating](../Resources/PCB%20Toner%20transfer/PCB-13-Heating.png)  
 
 After the warm-up is over, place the workpiece under the small press (I use several books) and allow the workpiece to cool completely (about 20 minutes).  
@@ -92,7 +92,7 @@ The next step is to remove the top of the photo paper under which the toner rema
 ![Workpiece soaking](../Resources/PCB%20Toner%20transfer/PCB-15-Workpiece-soaking.png)  
 
 After a lapse of 40 minutes, remove the workpiece from the water and gently, rolling with your fingers, remove the top layer of photo paper.  
-**At this stage, the most fundamental problem of this method of manufacturing PCBs can arise - the toner is not transferred completely**, there are areas with fallen off toner. There may be several reasons for this:  
+**At this stage, the most fundamental problem of this method of manufacturing PCBs can arise - the toner is not transferred completely**, there are areas in which toner is not transferred completely. There may be several reasons for this:  
 - Insufficient processing of the copper clad board. Poor removal of oxides (performing more intensive cleaning of workpiece), the appearance of greasy stains after the degreasing process (do not touch the work surface of the workpiece by hand).  
 - The appearance of greasy spots on the printed template (do not touch the working surface of the template with your hands).  
 - Insufficient warming up of the template (increase the warm-up time or pay attention to the uniformity of warm-up).  
