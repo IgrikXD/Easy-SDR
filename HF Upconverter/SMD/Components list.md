@@ -159,13 +159,15 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X240R+080.TRS0&_nkw=240R+0805&_sacat=0) ) - **1 pcs.**
 - 680R, 0805 (
 [LCSC](https://lcsc.com/search?q=680R%200805) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC0.A0.H0.X680R+0805.TRS0&_nkw=680R+0805&_sacat=0) ) - **3 pcs.**
-- 1k, 0805 (
-[LCSC](https://lcsc.com/search?q=1k%200805) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X1k+0805.TRS2&_nkw=1k+0805&_sacat=0) ) - **1 pcs.**
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC0.A0.H0.X680R+0805.TRS0&_nkw=680R+0805&_sacat=0) ) - **2 pcs.**
 - 1k ADJ, 3296W (
 [LCSC](https://lcsc.com/search?q=1k%203296) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X1k+3296.TRS1&_nkw=1k+3296&_sacat=0) ) - **1 pcs.**
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X1k+3296.TRS1&_nkw=1k+3296&_sacat=0) ) / 480R, 0805 (
+[LCSC](https://lcsc.com/search?q=480R%203296) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC1.A0.H0.X480R+0805.TRS1&_nkw=480R+0805&_sacat=0) )- **1 pcs.**
+- 3k, 0805 (
+[LCSC](https://lcsc.com/search?q=3k%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X3k+0805.TRS0&_nkw=3k+0805&_sacat=0) ) - **2 pcs.**
 - 30k, 0805 (
 [LCSC](https://lcsc.com/search?q=30k%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.X30k+080.TRS1&_nkw=30k+0805&_sacat=0) ) - **1 pcs.**
