@@ -19,12 +19,17 @@ To manufacture a PCB you will need:
 - Single-layer copper clad board which corresponding size of the designed PCB  
 - Tool for trimming the PCB workpiece  
 - Fine grained sandpaper  
-- Film photoresist
-- Transparent film for printing on inkjet/laser printer (it is not required if you order a seal in a printing house)
-- UV lamp
-- Calcined soda
-- Degreaser (optional)
-- Solvent or acetone
+- Film photoresist  
+- Scalpel or a sharp knife  
+- Scotch tape  
+- Transparent film for printing on inkjet/laser printer (it is not required if you order a seal in a printing house)  
+- UV lamp  
+- Plexiglas for covering workpiece  
+- Calcined soda  
+- Small brush  
+- Container for applying photoresist by wet method and developing photoresist  
+- Clothes iron  
+- Acetone or solvent (also, any liquid dishwashing detergent can be used for degreasing)  
 - Alcohol  
 - Plastic or glass container for etching PCB  
 - Hydrogen peroxide, 3% solution, 100 ml.  
@@ -35,6 +40,16 @@ To manufacture a PCB you will need:
 - Liquid tin (optional)  
 - Flux  
 - Solder  
+
+## Template preparation
+First, go to the page of the module you are interested in on the EasyEDA website.  
+![Module page](../Resources/PCB%20Photoresist/PCB-1-Module-page.png) 
+
+Select the Documents section, move down and click the "Open in Editor" button.  
+![Open button](../Resources/PCB%20Photoresist/PCB-2-Open-button.png)  
+
+To prepare a future template, in the EasyEDA editor, choice PCB file and make: "Document -> Export -> PDF".  
+![Template prepare](../Resources/PCB%20Photoresist/PCB-3-Template-prepare.png)  
 
 Other articles:  
 [How to export Gerber file from EasyEDA](./How%20to%20export%20Gerber%20file%20from%20EasyEDA.md)  
