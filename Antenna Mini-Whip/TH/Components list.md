@@ -71,9 +71,3 @@
 ##### Coaxial cable:
 - RG-58 (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0) ) - **3 meters.** Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
-
-##### Single-layer copper clad boards (it is not necessary if you order finished PCB):
-- **100x32 mm.** Main module (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) )
-- **47x32 mm.** Power Feed Unit (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) )

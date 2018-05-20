@@ -70,7 +70,7 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.X47ohm.TRS0&_nkw=47ohm&_sacat=0) ) - **2 pcs.**
 - 100R, 0.125W (
 [LCSC](https://lcsc.com/search?q=100r%20dip) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100.TRS2&_nkw=100r&_sacat=0) ) - **2 pcs.**
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100.TRS2&_nkw=100r&_sacat=0) ) - **3 pcs.**
 - 1k5, 0.125W (
 [LCSC](https://lcsc.com/search?q=1k5%20dip) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X1k5.TRS2&_nkw=1k5&_sacat=0) ) - **2 pcs.**
@@ -109,7 +109,3 @@
 ##### Coaxial cable:
 - RG-58 (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0) ) - **0.5 meter.** Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
-
-##### Single-layer copper clad boards (it is not necessary if you order finished PCB):
-- **78x48 mm.** ADE version / **83x48 mm.** SBL version / **70x48 mm.** SA602 version (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XCopper+Clad.TRS0&_nkw=Copper+Clad&_sacat=0) )

@@ -62,7 +62,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [PA0RDT Mini-Whip]: <http://dl1dbc.net/SAQ/miniwhip.html>
 [RA0SMS Mini-Whip]: <http://www.ra0sms.ru/p/the-active-antenna-mini-whip-10-khz-30.html>
 [Opendous Inc.'s OpenHardware]: <https://github.com/ha7ilm/opendous/wiki>
-[Basic SDR Upconverter v1.0]: <http://home.scarlet.be/on1bes/sdr_up_conv_v1.0_ade1_125_en.html>
+[Basic SDR Upconverter v1.0]: <http://www.on1bes.be/sdr_up_conv_v1.0_ade1_125_en.html>
 [Upconverter1v3]: <https://github.com/opendous/Upconverter1v3>
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
 [Antenna Mini-Whip (SMD)]: <https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754>

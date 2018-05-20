@@ -33,6 +33,6 @@ Also, because of using of a 125 MHz value crystal oscillator, the frequency will
 In the event of a large number of interference at reception, you can independently manufacture a metal case for the upconverter. To do this, you can use any metal box of suitable size. The box is connected to the shield of a coaxial cable (connects to the external part of the SMA connector) or wire can be used, one end of which is soldered to the box and the other to a special "SHIELD" contact on the converter board.
 
 ## Power supply recommendations
-When powering the HF Upconverter, **do not use power banks or other power supplies with impulse converters**. These devices create a sufficiently large amount of interference, which can adversely affect the reception quality. When working from a laptop it is possible to use power from a free USB connector, or use a battery with a voltage of 5 V (or 7 - 20 V, LM317 version). In addition, a good solution will be the use of ferrite filters on power cables.
+When powering the HF Upconverter, **do not use power banks or other power supplies with impulse converters**. These devices create a sufficiently large amount of interference, which can adversely affect the reception quality. When working from a laptop it is possible to use power from a free USB connector, or use a battery with a voltage of 5 V. In addition, a good solution will be the use of ferrite filters on power cables.
 
 [Making a Simple Air Core Inductor (Induction Coil): 5 Steps]: <http://www.instructables.com/id/Making-a-Simple-Induction-Coil/>
