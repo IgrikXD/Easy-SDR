@@ -31,8 +31,8 @@ At the moment, the method described above is the best way to work with the SDR r
 | [Opendous Inc.'s OpenHardware] | Some useful information about HF Upconverter. |
 | [Understanding Mixers and Their Parameters] | Article describing the operation principle of radio-frequency mixers and their parameters. |
 | [PI Attenuator Calculator] | Online calculator for calculating the attenuator if you knowing the values of the resistors used. |
-| [Еще раз о приеме КВ на RTL-SDR] | Article in Russian, describing how the converter works. The schematic of the Upconverter is given. |
 | [How to protect circuits from reversed voltage polarity!] | Video describing the principle of protecting electrical appliances from improper polarity of power. This decision was used in HF Upconverter (SMD) module. |
+| [Еще раз о приеме КВ на RTL-SDR] | Article in Russian, describing how the converter works. The schematic of the Upconverter is given. |
 | [Защита устройств от неправильной подачи полярности питания] | Article in Russian, describing the principle of protecting electrical appliances from improper polarity of power. This decision was used in HF Upconverter (SMD) module. |
 | [Схемы переключения устройства на резервный источник] | Article in Russian, describing examples of various switching schemes for power supplies. |
 | [USB-кабели и кабели питания] | Article in Russian, describing the types of USB cables encountered and the role of cable shield in USB devices. |
