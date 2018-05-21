@@ -94,7 +94,6 @@ Other articles:
 [How to order from JLCPCB](./How%20to%20order%20from%20JLCPCB.md)  
 [How to order from LCSC](./How%20to%20order%20from%20LCSC.md)  
 [How to make a PCB (Toner transfer method)](./How%20to%20make%20a%20PCB%20(Toner%20transfer%20method).md)   
-[How to make a PCB (Photoresist method)](./How%20to%20make%20a%20PCB%20(Photoresist%20method).md)  
 
 
 [Manjaro Linux]: <https://manjaro.org/>
