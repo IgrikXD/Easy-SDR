@@ -28,7 +28,7 @@
 - 47R, 0.125W (
 [LCSC](https://lcsc.com/search?q=47r%20dip) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.X47ohm.TRS0&_nkw=47ohm&_sacat=0) ) - **1 pcs.**
-- 220R, 0.125W (
+- 220R, 0.5W (
 [LCSC](https://lcsc.com/search?q=220r%20dip) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR3.TRC1.A0.H0.X220ohm.TRS0&_nkw=220ohm&_sacat=0) ) - **1 pcs.**
 - 680R, 0.125W (
