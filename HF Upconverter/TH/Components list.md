@@ -68,6 +68,9 @@
 - 47R, 0.125W (
 [LCSC](https://lcsc.com/search?q=47r%20dip) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.X47ohm.TRS0&_nkw=47ohm&_sacat=0) ) - **2 pcs.**
+- 47R, 0.25W (
+[LCSC](https://lcsc.com/search?q=47r%20dip) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.X47ohm.TRS0&_nkw=47ohm&_sacat=0) ) - **2 pcs.**
 - 100R, 0.125W (
 [LCSC](https://lcsc.com/search?q=100r%20dip) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100.TRS2&_nkw=100r&_sacat=0) ) - **3 pcs.**
