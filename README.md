@@ -7,7 +7,7 @@
 Creating affordable, easy-to-manufacture layouts of PCBs to working and expand the capabilities of existing low-cost SDR receivers available to ordinary users. All the created elements of the project will have a detailed description of the manufacturing process, with all the existing features and possible problems.
 
 ## Current development progress:
-[![Progress](http://progressed.io/bar/100?title=PCBs)](https://easyeda.com/IgrikXD) ![Progress](http://progressed.io/bar/100?title=Documentation%20) ![Progress](http://progressed.io/bar/80?title=Testing)
+[![Development status](https://img.shields.io/badge/Trello-Development%20status-blue.svg?longCache=true&style=for-the-badge)](https://trello.com/b/7NEPnfiD/easysdr) [![Create bug report](https://img.shields.io/badge/Google%20Form-Create%20bug%20report-red.svg?longCache=true&style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSeUFM1p15N_vk8X_blSnZp6jPlZe_qRhiRlmntscx6jF2yRqw/viewform?usp=sf_link)
 
 ## Current available modules at EasyEDA platform:
 - [Antenna Mini-Whip (TH)]
