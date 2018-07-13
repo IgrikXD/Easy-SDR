@@ -4,6 +4,7 @@ Easy and quick building of HF Upconverter at the [TH component group](./TH) or [
 
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28TH%29-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8) [![Progress](https://img.shields.io/badge/version-7.10.EE-blue.svg)](./TH/EasyEDA)  
+[![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28TH%29-not%20tested-yellow.svg)](./TH/Sprint%20Layout) [![Progress](https://img.shields.io/badge/version-*.*.SL-blue.svg)](./TH/Sprint%20Layout)  
 [![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d) [![Progress](https://img.shields.io/badge/version-12.21.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
