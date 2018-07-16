@@ -37,9 +37,9 @@ After executing this command, you will see the basic Gqrx settings window. To wo
 
 If you need the "Direct sampling" mode, the "**Device string**" field is given to the following form: "**rtl=0,direct_samp=2**" (without the quotes). If the mode "Direct sampling" is not needed, leave the "**Device string**" field in the form: "**rtl=0**" (without the quotes). The parameter "rtl" shows the id of the used SDR receiver, if you use several receivers, this parameter can have a value different from the one specified in the example.  
 
-The value of **"Input rate"** is set to a value **1800000, 1920000 or 2400000** (it's better to choose a larger value - 2400000, however, if you have problems in work or performance troubles, set a lower value - 1800000);  
+The value of **"Input rate"** is set to a value of **2400000**;  
 The value of **"Decimation"** is set to a value of **16**;  
-The last two parameters can be set in their own way, but the settings shown above allow you to simultaneously display a bandwidth of 100 kHz - 150 kHz, which is more convenient for me.  
+The last two parameters can be set in their own way, but the settings shown above allow you to simultaneously display a bandwidth of 150 kHz, which is more convenient for me.  
 
 If using SDR receiver [RTL-SDR.COM V3], **do not try to set the value of the "Input rate" parameter more than 2400000**, if this parameter is exceeded, stable operation of the SDR receiver is not guaranteed.  
 
@@ -57,7 +57,7 @@ Example of settings for working in conjunction with the converter:
 After setting all the parameters press the "OK" button and get into the Gqrx program. To start receiving, press the "**Play (Start DSP processing)**" button in the upper left part of the program.  
 ![Start Gqrx](../Resources/SDR%20on%20Linux/Linux-6-Start-Gqrx.png)  
 
-For a more detailed guide to working with the Gqrx program, you can use the following link: [Practical tricks and tips â€“ Gqrx SDR]  
+For a more detailed guide to working with the Gqrx program, you can use the following link: [Practical tricks and tips – Gqrx SDR]  
 To find additional software for working with the received signal, you can use the following link: [Amateur radio (Software list) - ArchWiki]
 
 ## How can I make sure my SDR receiver is working?
@@ -103,6 +103,6 @@ Other articles:
 [Manjaro Linux]: <https://manjaro.org/>
 [RTL-SDR.COM V3]: <https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/>
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
-[Practical tricks and tips â€“ Gqrx SDR]: <http://gqrx.dk/doc/practical-tricks-and-tips>
+[Practical tricks and tips – Gqrx SDR]: <http://gqrx.dk/doc/practical-tricks-and-tips>
 [Amateur radio (Software list) - ArchWiki]: <https://wiki.archlinux.org/index.php/Amateur_radio#Software_list>
 [RTL-SDR Blog V.3. Dongles User Guide]: <https://www.rtl-sdr.com/rtl-sdr-blog-v-3-dongles-user-guide/>
