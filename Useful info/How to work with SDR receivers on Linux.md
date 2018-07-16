@@ -57,7 +57,7 @@ Example of settings for working in conjunction with the converter:
 After setting all the parameters press the "OK" button and get into the Gqrx program. To start receiving, press the "**Play (Start DSP processing)**" button in the upper left part of the program.  
 ![Start Gqrx](../Resources/SDR%20on%20Linux/Linux-6-Start-Gqrx.png)  
 
-For a more detailed guide to working with the Gqrx program, you can use the following link: [Practical tricks and tips – Gqrx SDR]  
+For a more detailed guide to working with the Gqrx program, you can use the following link: [Practical tricks and tips - Gqrx SDR]  
 To find additional software for working with the received signal, you can use the following link: [Amateur radio (Software list) - ArchWiki]
 
 ## How can I make sure my SDR receiver is working?
@@ -103,6 +103,6 @@ Other articles:
 [Manjaro Linux]: <https://manjaro.org/>
 [RTL-SDR.COM V3]: <https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/>
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
-[Practical tricks and tips – Gqrx SDR]: <http://gqrx.dk/doc/practical-tricks-and-tips>
+[Practical tricks and tips - Gqrx SDR]: <http://gqrx.dk/doc/practical-tricks-and-tips>
 [Amateur radio (Software list) - ArchWiki]: <https://wiki.archlinux.org/index.php/Amateur_radio#Software_list>
 [RTL-SDR Blog V.3. Dongles User Guide]: <https://www.rtl-sdr.com/rtl-sdr-blog-v-3-dongles-user-guide/>
