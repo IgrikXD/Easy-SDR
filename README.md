@@ -10,10 +10,10 @@ Creating affordable, easy-to-manufacture prototypes of PCBs to working and expan
 [![Development status](https://img.shields.io/badge/Trello-Development%20status-blue.svg?longCache=true&style=for-the-badge)](https://trello.com/b/7NEPnfiD/easysdr) [![Create bug report](https://img.shields.io/badge/Google%20Form-Create%20bug%20report-red.svg?longCache=true&style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSeUFM1p15N_vk8X_blSnZp6jPlZe_qRhiRlmntscx6jF2yRqw/viewform?usp=sf_link)
 
 ## Current available modules at EasyEDA platform:
-- [Antenna Mini-Whip (TH)]
-- [Antenna Mini-Whip (SMD)]
-- [HF Upconverter (TH)]
-- [HF Upconverter (SMD)]
+- [Antenna Mini-Whip (TH)] ([Components list](./Antenna%20Mini-Whip/TH/Components%20list.md), [Assembly guide](./Antenna%20Mini-Whip/TH/Assembly%20guide.md))
+- [Antenna Mini-Whip (SMD)] ([Components list](./Antenna%20Mini-Whip/SMD/Components%20list.md), [Assembly guide](./Antenna%20Mini-Whip/SMD/Assembly%20guide.md))
+- [HF Upconverter (TH)] ([Components list](./HF%20Upconverter/TH/Components%20list.md), [Assembly guide](./HF%20Upconverter/TH/Assembly%20guide.md), [Filters design files](./HF%20Upconverter/TH/Filters%20design%20files))
+- [HF Upconverter (SMD)] ([Components list](./HF%20Upconverter/SMD/Components%20list.md), [Assembly guide](./HF%20Upconverter/SMD/Assembly%20guide.md), [Filters design files](./HF%20Upconverter/SMD/Filters%20design%20files))
 
 ## Current available information articles:
 - [How to export Gerber file from EasyEDA]
