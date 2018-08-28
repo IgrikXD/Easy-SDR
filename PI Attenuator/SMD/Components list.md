@@ -1,8 +1,8 @@
 # Components list for PI Attenuator (SMD) module
 
 ##### Resistors:
-The resistor values are selected from the table based on the desired attenuation value in dB. 
-The number of each of the resistors (Rx, Ry, Rz) - **1 pcs.**
+The resistor values are selected from the table based on the desired attenuation value in dB.  
+The number of each of the resistors (Rx, Ry, Rz) - **1 pcs.**  
 [Data on the resistor values were taken from the LCSC website.](https://lcsc.com/products/Chip-Resistor-Surface-Mount_439.html)
 
 | Attenuation value | Rx value | Ry value | Rz value | Actual attenuation value |
