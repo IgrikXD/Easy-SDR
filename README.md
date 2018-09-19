@@ -1,6 +1,11 @@
 # The project implements some hardware devices for cheap SDR receivers based on Realtek RTL2832U controller 
 
-<img src="https://github.com/IgrikXD/Easy-SDR/blob/master/Resources/Common%20files/Main-cover.png" width="686px" height="192px"/>  
+<style>
+    .fig {
+        text-align: center;
+    }
+</style>
+<p class="fig"><img src="https://github.com/IgrikXD/Easy-SDR/blob/master/Resources/Common%20files/Main-cover.png" width="686px" height="192px"/></p>  
 
 ## What is SDR?
 [Software-defined radio (SDR)] is a radio communication system where components that have been traditionally implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer or embedded system.  
