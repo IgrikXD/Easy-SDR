@@ -17,7 +17,7 @@ Immediately before installation, you can place the antenna in a plastic housing,
 
 To install the Mini-Whip antenna, you can choose a grounded metal or dielectric mast.
 
-**In the case of selecting a metal mast, it is necessary to place the antenna above the top of the mast, and the mast itself must have a good grounding (the cable shield is also grounded)**. Qualitative grounding is necessary for the correct operation of the antenna, since its principle is based on the principle of measuring the potential between the metal plate of the antenna itself and the ground (earthed mast), after which the transmitted signal is transmitted to the receiver.  
+**In the case of selecting a metal mast, it is necessary to place the antenna above the top of the mast, and the mast itself must have a good grounding (the cable shield is also grounded)**. Qualitative grounding is necessary for the correct operation of the antenna since its principle is based on the principle of measuring the potential between the metal plate of the antenna itself and the ground (earthed mast), after which the transmitted signal is transmitted to the receiver.  
 ![Metal mast installation](../../Resources/Antenna%20Mini-Whip/Metal-mast-installation.png)  
 
 **In case of using a mast made of dielectric material, you also need to perform high-quality grounding of the shield of the coaxial cable used.** Since in this case the potential difference is measured between the antenna plate and the shield of the coaxial cable.  
@@ -26,4 +26,4 @@ To install the Mini-Whip antenna, you can choose a grounded metal or dielectric 
 An additional advantage will also be the location of the antenna at the highest available point of installation.
 
 ## Power supply recommendations
-When powering the antenna, **do not use power banks or other power supplies with impulse converters**. These devices create a sufficiently large amount of interference, which can adversely affect the reception quality. It is recommended to use a battery with a nominal voltage of 5 - 13 V. In addition, a good solution will be the use of ferrite filters on power cables.
+When powering the antenna, **do not use power banks or other power supplies with impulse converters**. These devices create a sufficiently large amount of interference, which can adversely affect reception quality. It is recommended to use a battery with a nominal voltage of 5 - 13 V. In addition, a good solution will be the use of ferrite filters on power cables.
