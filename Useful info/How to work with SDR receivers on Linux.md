@@ -3,7 +3,7 @@
 In this tutorial, I'll show you how to work with SDR receivers in Linux. [Manjaro Linux] distribution will be used for the work, however, any Arch-based distribution will worked with this manual.
 
 ## Why did I choose Manjaro Linux?
-There are several reasons why I chose [Manjaro Linux]. I used Archlinux for a long time and I'm just used to working with this distribution, however, this distribution can be difficult to configure for beginners. Therefore, it was decided to find something simple to configure, "working out of the box", so that a user who had not previously encountered Linux could easily figure out what's what. For this reason, [Manjaro Linux] was chosen. As for the popular Ubuntu Linux distribution, in my opinion, the instructions presented below will be slightly simpler than the existing instructions for a similar configuration for the Ubuntu Linux distribution.
+There are several reasons why I chose [Manjaro Linux]. I used Arch Linux for a long time and I'm just used to working with this distribution, however, this distribution can be difficult to configure for beginners. Therefore, it was decided to find something simple to configure, "working out of the box", so that a user who had not previously encountered Linux could easily figure out what's what. For this reason, [Manjaro Linux] was chosen. As for the popular Ubuntu Linux distribution, in my opinion, the instructions presented below will be slightly simpler than the existing instructions for a similar configuration for the Ubuntu Linux distribution.
 
 ## What do you need for work?
 - SDR receiver (I will use [RTL-SDR.COM V3]);
@@ -11,10 +11,10 @@ There are several reasons why I chose [Manjaro Linux]. I used Archlinux for a lo
 - Computer with [Manjaro Linux] installed (Preferably a laptop with battery power, will be less noise when receiving);
 - Internet connection (for downloading the required packages);  
 
-At this tutorial I will use [Manjaro Linux 17.1.7 with Deepin DE](https://osdn.net/projects/manjaro-community/storage/deepin/) with a pre-installed fish shell and a disabled sudo password. However, you don't need set this shell and turning off the password, all actions are repeated on the newly installed, clean system.
+At this tutorial, I will use [Manjaro Linux 17.1.7 with Deepin DE](https://osdn.net/projects/manjaro-community/storage/deepin/) with a pre-installed fish shell and a disabled sudo password. However, you don't need set this shell and turning off the password, all actions are repeated on the newly installed, clean system.
 
 ## Installing and configuring the required packages
-First open the terminal and perform a complete [system upgrade](https://wiki.archlinux.org/index.php/pacman#Upgrading_packages) using the command:
+First, open the terminal and perform a complete [system upgrade](https://wiki.archlinux.org/index.php/pacman#Upgrading_packages) using the command:
 ```sh
 sudo pacman -Syu
 ```
@@ -51,7 +51,7 @@ Example of settings for working in "Direct sampling" mode:
 
 **In the case of using the upconverter, you need to set the LNB LO parameter to the frequency of the converter oscillator with a minus sign**. For example, if you use a converter module from this repository, LNB LO value will be -125.00 MHz. In addition, you will need to disable the "Direct sampling" mode (Device string: rtl=0).  
 
-Example of settings for working in conjunction with the converter:  
+Example of settings for working in conjunction with the HF Upconverter:  
 ![Gqrx upconverter](../Resources/SDR%20on%20Linux/Linux-5-Gqrx-upconverter.png)  
 
 After setting all the parameters press the "OK" button and get into the Gqrx program. To start receiving, press the "**Play (Start DSP processing)**" button in the upper left part of the program.  
