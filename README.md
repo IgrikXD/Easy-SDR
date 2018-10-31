@@ -11,7 +11,7 @@ Creating affordable, easy-to-manufacture prototypes of PCBs to working and expan
 ## Current development progress:
 [![Development status](https://img.shields.io/badge/Trello-Development%20status-blue.svg?longCache=true&style=for-the-badge)](https://trello.com/b/7NEPnfiD/easysdr) [![Create bug report](https://img.shields.io/badge/Google%20Form-Create%20bug%20report-red.svg?longCache=true&style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSeUFM1p15N_vk8X_blSnZp6jPlZe_qRhiRlmntscx6jF2yRqw/viewform?usp=sf_link)
 
-## Current available modules at EasyEDA platform:
+## Currently available modules at EasyEDA platform:
 - [Antenna Mini-Whip (TH)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([Components list](./Antenna%20Mini-Whip/TH/Components%20list.md), [Assembly guide](./Antenna%20Mini-Whip/TH/Assembly%20guide.md))
 - [Antenna Mini-Whip (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;([Components list](./Antenna%20Mini-Whip/SMD/Components%20list.md), [Assembly guide](./Antenna%20Mini-Whip/SMD/Assembly%20guide.md))
 - [HF Upconverter (TH)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([Components list](./HF%20Upconverter/TH/Components%20list.md), [Assembly guide](./HF%20Upconverter/TH/Assembly%20guide.md), [Filters design files](./HF%20Upconverter/TH/Filters%20design%20files))
@@ -26,16 +26,16 @@ Creating affordable, easy-to-manufacture prototypes of PCBs to working and expan
 - [How to work with SDR receivers on Linux]
 
 ## How to use this repository?
-In the root of the repository select a device of interest and go to the appropriate directory (for example [HF Upconverter](./HF%20Upconverter)). After the transition, select the component group of interest ([SMD](./HF%20Upconverter/SMD) or [TH](./HF%20Upconverter/TH)). Also in [Datasheets](./HF%20Upconverter/SMD/Datasheets) and [Schematics](./HF%20Upconverter/SMD/Schematics) directories you can find all necessary technical documentation for the used components in chosen module and schematic files in PDF format. If you only need GERBER files, you can find them in the appropriate [Gerbers](./HF%20Upconverter/SMD/Gerbers) directory for the selected components group. The next step is to choose the platform in which the project is implemented ([EasyEDA](./HF%20Upconverter/SMD/EasyEDA) or [Sprint Layout](./HF%20Upconverter/TH/Sprint%20Layout) (only for TH components)). After selecting the directory with the platform of interest, the list of files for implementing the device becomes available to you. After that, based on submitted files, you can make the device independently or order printed circuit boards for factory manufacturing.
+In the root of the repository select a device of interest and go to the appropriate directory (for example [HF Upconverter](./HF%20Upconverter)). After the transition, select the component group of interest ([SMD](./HF%20Upconverter/SMD) or [TH](./HF%20Upconverter/TH)). Also in [Datasheets](./HF%20Upconverter/SMD/Datasheets) and [Schematics](./HF%20Upconverter/SMD/Schematics) directories, you can find all necessary technical documentation for the used components in the chosen module and schematic files in PDF format. If you only need GERBER files, you can find them in the appropriate [Gerbers](./HF%20Upconverter/SMD/Gerbers) directory for the selected components group. The next step is to choose the platform in which the project is implemented ([EasyEDA](./HF%20Upconverter/SMD/EasyEDA) or [Sprint Layout](./HF%20Upconverter/TH/Sprint%20Layout) (only for TH components)). After selecting the directory with the platform of interest, the list of files for implementing the device becomes available to you. After that, based on submitted files, you can make the device independently or order printed circuit boards for factory manufacturing.
 
-## Where can I buy a SDR receiver?
-You can order the SDR receiver on any of the currently available internet sites, such as Ebay, Aliexpress, Taobao, etc. Or you can use the following links to order some advanced versions of SDR receivers:
+## Where can I buy an SDR receiver?
+You can order the SDR receiver on any of the currently available internet sites, such as eBay, Aliexpress, Taobao, etc. Or you can use the following links to order some advanced versions of SDR receivers:
 
 | SDR Store | Information |
 | --------- | ----------- |
 | [RTL-SDR.COM] | International shipping. Performed selling modified versions of receivers. Performs support and develop new versions. There is a large set of various useful information (software, articles, manuals, news). |
 | [NooElec] | International shipping. Large selection of receivers and accessories. |
-| [Airspy] | You can choose a retailer according to your whereabouts. Performs support and develop new versions. There are links for downloading software and working with the server. |
+| [Airspy] | You can choose a retailer according to your whereabouts. Performs support and develop new versions. There are links for downloading SDRSharp and software for working with the server. |
 
 ## Who helped me with the development of the project?
 Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.COM V.3 and information support. [LCSC] company that provided most of the electronic components used for assembly for completely free. [Mini-Circuits] company for the providing samples of [ADE] frequency mixer by [EZ-Sample] program. And also [PCBWay] for $ 20 discount when ordering PCBs for the project.
@@ -47,7 +47,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 | [RA0SMS Mini-Whip] | The original circuit of the active receiving antenna was used. The PCBs for SMD components on platform EasyEDA was implemented. |
 | [Opendous Inc.'s OpenHardware] | Some useful information about HF Upconverter. |
 | [Basic SDR Upconverter v1.0] | The original circuit of the HF Upconverter was used. The PCB for TH components on platforms EasyEDA and Sprint Layout was implemented. |
-| [Upconverter1v3] | Some parts from original schematic were used. The PCBs for SMD components on platform EasyEDA was implemented. |
+| [Upconverter1v3] | Some parts from the original schematic were used. The PCBs for SMD components on platform EasyEDA was implemented. |
 
 ## How to contact me?
 - E-mail: igor.nikolaevich.96@gmail.com
