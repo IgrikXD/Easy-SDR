@@ -6,17 +6,17 @@ When developing their projects, in the case of ordering printed circuit boards I
 ## What other companies exist to ordering PCBs?
 | PCB Manufacturer | Information |
 | ----- | ----- |
-| [PCBWay] | International shipping. The minimum order is 5 pieces. Sponsorship of non-commercial projects. Bonus system for issuing coupons based on reviews about manufactured PCBs and inviting friends. |
+| [PCBWay] | International shipping. The minimum order is 5 pieces. Sponsorship of non-commercial projects. A bonus system for issuing coupons based on reviews about manufactured PCBs and inviting friends. |
 | [Seeed Studio] | International shipping. The minimum order is 5 pieces. |
 | [ITEAD] | International shipping. The minimum order is 5 pieces. |
 | [OSH Park] | International shipping. |
 | [Belplata] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery.|
 | [Nanotech] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery. |
-| [PS Electro] | The manufacturer of PCB from Russia. Delivery by mail in Russia, self-delivery. The minimum order is 1 pieces.|
-| [Rezonit] |  The manufacturer of PCB from Russia. Delivery by mail in Russia, self-delivery. The minimum order is 1 pieces. |
-| [MERKAR] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery, courier. The minimum order is 1 pieces. |
+| [PS Electro] | The manufacturer of PCB from Russia. Delivery by mail in Russia, self-delivery. The minimum order is 1 piece.|
+| [Rezonit] |  The manufacturer of PCB from Russia. Delivery by mail in Russia, self-delivery. The minimum order is 1 piece. |
+| [MERKAR] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery, courier. The minimum order is 1 piece. |
 | [SATLAND PROTOTYPE] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery. |
-| [Margol Electronics] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery. The minimum order is 1 pieces. |
+| [Margol Electronics] | The manufacturer of PCB from Poland. Delivery method: mail, self-delivery. The minimum order is 1 piece. |
 
 ## Ordering from JLCPCB
 First, you need to go to the [JLCPCB] site itself.  
@@ -28,19 +28,19 @@ Then log in to your existing account or create a new one.
 Click the "[Calculate](https://jlcpcb.com/quote)" button to go to the PCB manufacturing order form.  
 ![Add gerber](../Resources/JLCPCB%20order/JLCPCB-3-Add-gerber.png)  
 
-Click "Add you gerber file" and select the previously generated and downloaded Gerber file ([How to export Gerber file from EasyEDA](./How%20to%20export%20Gerber%20file%20from%20EasyEDA.md)). After that, the Gerber file will automatically upload. After the automatic upload of the Gerber file, you will be able to preview your PCB using the "Gerber Viewer" (on the right from the bottom of the PCB preview), change the production parameters (amount, mask color, thickness, etc.).  
+Click "Add you Gerber file" and select the previously generated and downloaded Gerber file ([How to export Gerber file from EasyEDA](./How%20to%20export%20Gerber%20file%20from%20EasyEDA.md)). After that, the Gerber file will automatically upload. After the automatic upload of the Gerber file, you will be able to preview your PCB using the "Gerber Viewer" (on the right from the bottom of the PCB preview), change the production parameters (amount, mask color, thickness, etc.).  
 ![Add result](../Resources/JLCPCB%20order/JLCPCB-4-Add-result.png)  
 
 Setting production parameters. These parameters are set automatically and are considered optimal. If the size of the printed circuit board is up to 100x100 mm., amount of layers is not more than 2 and the green solder mask used (the other parameters are automatically generated), then the order price for up to 10 PCBs will not exceed $ 5 (excluding delivery).  
 ![PCB property](../Resources/JLCPCB%20order/JLCPCB-5-PCB-Property.png)  
 
-"Gerber Viewer" top side preview  
+"Gerber Viewer" topside preview  
 ![Gerber view top](../Resources/JLCPCB%20order/JLCPCB-6-Gerber-view-top.png)  
 
-"Gerber Viewer" analysis result. Do not worry about the warning. Gerber_drill.GTP and Gerber_drill.GBP files are not needed to work with the JLCPCB platform, they will simply be ignored. The minimal trace spacing warning is also ignored, because our circuit board has successfully passed a preliminary check for DRC errors.  
+"Gerber Viewer" analysis result. Do not worry about the warning. Gerber_drill.GTP and Gerber_drill.GBP files are not needed to work with the JLCPCB platform, they will simply be ignored. The minimal trace spacing warning is also ignored because our circuit board has successfully passed a preliminary check for DRC errors.  
 ![Check result](../Resources/JLCPCB%20order/JLCPCB-7-Check-result.png)  
 
-After checking all the parameters, we press the "SAVE TO CART" button to save the current order. At this stage, you can add several more PCBs to the order. To do this, click the "+ Add new item" button, after which you will be taken to the page for adding the Gerber file, the actions for adding a new PCB are similar to those described earlier. If you added all the necessary PCBs, proceed to the next step - processing and payment of the order. To do this, click the "Checkout securely" button.  
+After checking all the parameters, we press the "SAVE TO CART" button to save the current order. At this stage, you can add several more PCBs to the order. To do this, click the "+ Add new item" button after which you will be taken to the page for adding the Gerber file, the actions for adding a new PCB are similar to those described earlier. If you added all the necessary PCBs, proceed to the next step - processing, and payment of the order. To do this, click the "Checkout securely" button.  
 ![Cart](../Resources/JLCPCB%20order/JLCPCB-8-Cart.png)  
 
 At this step, add your mailing address, choose the most convenient method of delivery (at the time of 2018, if you make the first order on the JLCPCB platform the delivery is free of charge) and the preferred method of payment. After adding all the necessary data, click the "Pay" button.  
