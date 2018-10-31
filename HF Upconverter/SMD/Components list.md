@@ -86,7 +86,7 @@
 [LCSC](https://lcsc.com/search?q=220nH%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.X220nh+0805.TRS0&_nkw=220nh+0805&_sacat=0) ) - **1 pcs.**
 - 560nH, 0805 (
-[LCSC](https://lcsc.com/search?q=560    nH%200805) /
+[LCSC](https://lcsc.com/search?q=560nH%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X560nh+0805.TRS0&_nkw=560nh+0805&_sacat=0) ) - **1 pcs.**
 
 ##### Capacitors:
