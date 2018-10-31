@@ -1,8 +1,8 @@
 # How to make a PCB (Toner transfer method)
 
-The manufacture of a PCB by **toner transfer method is based on the preliminary preparation of the template of the PCB and subsequent printing on photographic paper using a laser printer**. Next, the resulting image of the PCB is transferred to the copper clad board by heating. After that, the top part of the photo paper is removed, and the toner remains on the copper clad board. After that, etching and subsequent processing of the finished PCB is carried out.  
+The manufacture of a PCB by **toner transfer method is based on the preliminary preparation of the template of the PCB and subsequent printing on photographic paper using a laser printer**. Next, the resulting image of the PCB is transferred to the copper clad board by heating. After that, the top part of the photo paper is removed, and the toner remains on the copper clad board. After that, etching and subsequent processing of the finished PCB are carried out.  
 
-**This method is excellent for projects where there is no need for a low thickness of tracks, as well as for projects where there is no need to manufacture a large number of printed circuit boards (1-2 pieces)**. However, when using this method, there may be difficulties with the quality transfer of toner on the cooper clad board. In addition, this method is the cheapest if you have a laser printer at home.  
+**This method is excellent for projects where there is no need for a low thickness of tracks, as well as for projects where there is no need to manufacture a large number of printed circuit boards (1-2 pieces)**. However, when using this method, there may be difficulties with the quality transfer of toner on the copper clad board. In addition, this method is the cheapest if you have a laser printer at home.  
 
 If you need to perform very tight placing of components or use a low thickness of the tracks, it is better to choose the photoresist method.  
 
@@ -11,12 +11,12 @@ As an example for the production of a PCB by toner transfer method, I will use t
 ## Required components
 To manufacture a PCB you will need:
 
-- Single-layer copper clad board which corresponding size of the designed PCB  
+- A single-layer copper clad board which the corresponding size of the designed PCB  
 - Tool for trimming the PCB workpiece  
-- Fine grained sandpaper  
+- Fine-grained sandpaper  
 - Glossy photo paper or thermal transfer paper (its size should be greater than or equal to the manufactured PCB)  
 - Clothes iron  
-- Acetone or solvent (also, any liquid dishwashing detergent can be used for degreasing)  
+- Acetone or solvent (also, any liquid dishwashing detergent can be used for decreasing)  
 - Alcohol  
 - Plastic or glass container for etching PCB  
 - Hydrogen peroxide, 3% solution, 100 ml.  
@@ -45,9 +45,9 @@ In the export settings, **you need to set the following parameters**:
 
 Layers settings:  
 - BottomLayer - export (true) - mirror (false);  
-Other layers doesn't used.  
+Other layers don't use.  
 
-**These parameters are used only for this example and are suitable only for printed circuit boards designed for TH components**, in case of PCB manufacture for SMD components you will have to use TopLayer with the parameter "mirror (true)".  
+**These parameters are used only for this example and are suitable only for printed circuit boards designed for TH components**, in case of PCB manufacturer for SMD components you will have to use TopLayer with the parameter "mirror (true)".  
 ![Export settings](../Resources/PCB%20Toner%20transfer/PCB-4-Export-settings.png)  
 
 After setting the above settings, click the "Export" button, after which the required file will be automatically downloaded. If the project has several PCB files, repeat this action for each of the files. In this example, I perform export for Antenna Mini-Whip PCB (TH) files: Main module and Antenna Mini-Whip PCB (TH): Power feed unit.  
@@ -64,10 +64,10 @@ However, do not rush to print the template itself, at first you need to set up a
 You need to **turn off the toner save function** when printing (this is necessary in order to get more toner on the photographic paper and later on the PCB). To do this, you need to set this function in the settings of your printer before printing (for different printer models, the settings may vary).  
 ![Toner settings](../Resources/PCB%20Toner%20transfer/PCB-6-Toner-settings.png)  
 
-Now you can insert photo paper or thermal transfer paper into your printer and print the templates. According to some reviews, the result of using thermal transfer paper will be better than the use of photo paper. However, in my projects I use photo paper and did not notice any negative moments. After printing templates, do not touch the toner surface with your hands. This can adversely affect the quality of toner transfer to the workpiece.  
+Now you can insert photo paper or thermal transfer paper into your printer and print the templates. According to some reviews, the result of using thermal transfer paper will be better than the use of photo paper. However, in my projects, I use photo paper and did not notice any negative moments. After printing templates, do not touch the toner surface with your hands. This can adversely affect the quality of toner transfer to the workpiece.  
 ![Templates printing](../Resources/PCB%20Toner%20transfer/PCB-7-Template-printing.png)  
 
-After that you need to gently trim the excess photo paper on the outer contour of the printed template.  
+After that, you need to gently trim the excess photo paper on the outer contour of the printed template.  
 ![Template trimming](../Resources/PCB%20Toner%20transfer/PCB-8-Template-trimming.png)  
 
 ## Copper clad board preparation
@@ -95,12 +95,12 @@ The next step is to remove the top of the photo paper under which the toner rema
 
 After a lapse of 40 minutes, remove the workpiece from the water and gently, rolling with your fingers, remove the top layer of photo paper.  
 **At this stage, the most fundamental problem of this method of manufacturing PCBs can arise - the toner is not transferred completely**, there are areas in which toner is not transferred completely. There may be several reasons for this:  
-- Insufficient processing of the copper clad board. Poor removal of oxides (performing more intensive cleaning of workpiece), the appearance of greasy stains after the degreasing process (do not touch the work surface of the workpiece by hand).  
+- Insufficient processing of the copper clad board. Poor removal of oxides (performing more intensive cleaning of the workpiece), the appearance of greasy stains after the degreasing process (do not touch the work surface of the workpiece by hand).  
 - The appearance of greasy spots on the printed template (do not touch the working surface of the template with your hands).  
 - Insufficient warming up of the template (increase the warm-up time or pay attention to the uniformity of warm-up).  
 - Uneven copper clad board, there are curvatures (use another copper clad board).  
 
-If you are faced with an problem of incomplete toner transfer, you will need to repeat the template printing and clear the workpiece from the old toner. Then repeat the transfer of toner process.  
+If you are faced with a problem of incomplete toner transfer, you will need to repeat the template printing and clear the workpiece from the old toner. Then repeat the transfer of toner process.  
 ![Paper removing](../Resources/PCB%20Toner%20transfer/PCB-16-Paper-removing.png)  
 
 ## Etching process
@@ -123,7 +123,7 @@ Then remove the toner with a acetone (solvent).
 ![Toner removing](../Resources/PCB%20Toner%20transfer/PCB-20-Toner-removing.png)  
 
 ## Drilling
-Current step is drilling holes for the installation of the necessary components (in case of using TH components). In this example I use a 0.6 mm diameter drill for resistor / capacitor / inductor / transistor holes and 1 mm for diodes. After drilling all the necessary holes, peel the PCB with fine-grained sandpaper from the burrs.  
+The current step is drilling holes for the installation of the necessary components (in case of using TH components). In this example, I use a 0.6 mm diameter drill for resistor / capacitor / inductor / transistor holes and 1 mm for diodes. After drilling all the necessary holes, peel the PCB with fine-grained sandpaper from the burrs.  
 ![Drilling](../Resources/PCB%20Toner%20transfer/PCB-21-Drilling.png)  
 
 ## Tinning
