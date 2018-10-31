@@ -1,6 +1,6 @@
 # Antenna Mini-Whip
 
-Easy and quick building of active PA0RDT Mini-Whip antenna ([TH component group](./TH)) or RA0SMS Mini-Whip antenna ([SMD component group](./SMD/EasyEDA)). Module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
+An easy and quick building of active PA0RDT Mini-Whip antenna ([TH component group](./TH)) or RA0SMS Mini-Whip antenna ([SMD component group](./SMD/EasyEDA)). The module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
 
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28TH%29-tested-green.svg)](https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65) [![Progress](https://img.shields.io/badge/version-5.8.EE-blue.svg)](./TH/EasyEDA)  
@@ -11,9 +11,9 @@ Easy and quick building of active PA0RDT Mini-Whip antenna ([TH component group]
 - [Antenna Mini-Whip (TH)] ([Components list](./TH/Components%20list.md), [Assembly guide](./TH/Assembly%20guide.md))
 - [Antenna Mini-Whip (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
 
-## How it works?
+## How does it work?
 Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands]  
-Detailed description of the principle of operation: [Fundamentals of the MiniWhip antenna]
+The detailed description of the principle of operation: [Fundamentals of the MiniWhip antenna]
 
 ## Basic characteristics of the antenna:
 
