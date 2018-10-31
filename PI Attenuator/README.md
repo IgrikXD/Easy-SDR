@@ -1,6 +1,6 @@
 # PI Attenuator
 
-Easy and quick building of PI Attenuator at the [SMD component group](./SMD/EasyEDA). Module includes schematic and PCB file (EasyEDA). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the upconverter is cheaper than buying a ready-made module.
+An easy and quick building of PI Attenuator at the [SMD component group](./SMD/EasyEDA). The module includes a schematic and PCB file (EasyEDA). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the upconverter is cheaper than buying a ready-made module.
 
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/PI%20Attenuator%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/PI-Attenuator-SMD) [![Progress](https://img.shields.io/badge/version-1.0.EE-blue.svg)](./SMD/EasyEDA)  
@@ -8,7 +8,7 @@ Easy and quick building of PI Attenuator at the [SMD component group](./SMD/Easy
 ## Current available implementations at EasyEDA platform:
 - [PI Attenuator (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
 
-## How it works?
+## How does it work?
 An attenuator is an electronic device that reduces the power of a signal without appreciably distorting its waveform.
 
 **What is an attenuator for?**
