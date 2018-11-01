@@ -22,7 +22,7 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR4.TRC1.A0.H0.X1n4148.TRS0&_nkw=1n4148&_sacat=0) /
 [Datasheet](./Datasheets/Diodes/1N4148-Diode-Datasheet.pdf) ) - **2 pcs.**
 
-##### LED:
+##### LEDs:
 - Green, 3 mm. (
 [LCSC](https://lcsc.com/search?q=led%20green%203mm) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H1.Xled+green+3mm.TRS0&_nkw=led+green+3mm&_sacat=0) ) - **1 pcs.**
