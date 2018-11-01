@@ -1,6 +1,6 @@
 # PI Attenuator
 
-An easy and quick building of PI Attenuator at the [SMD component group](./SMD/EasyEDA). The module includes a schematic and PCB file (EasyEDA). Based on the submitted files, you can independently manufacture a PCB or order its production at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the upconverter is cheaper than buying a ready-made module.
+An easy and quick building of PI Attenuator at the [SMD component group](./SMD/EasyEDA). The module includes a schematic and PCB file (EasyEDA). Based on the submitted files, you can independently manufacture a PCB or order its manufacturing at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the upconverter is cheaper than buying a ready-made module.
 
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/PI%20Attenuator%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/PI-Attenuator-SMD) [![Progress](https://img.shields.io/badge/version-1.0.EE-blue.svg)](./SMD/EasyEDA)  
