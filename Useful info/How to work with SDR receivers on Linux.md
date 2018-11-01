@@ -1,6 +1,6 @@
 # How to work with SDR receivers on Linux
 
-In this tutorial, I'll show you how to work with SDR receivers in Linux. [Manjaro Linux] distribution will be used for the work, however, any Arch-based distribution will worked with this manual.
+In this tutorial, I'll show you how to work with SDR receivers in Linux. [Manjaro Linux] will be used for the work, however, any Arch-based distribution will worked with this manual.
 
 ## Why did I choose Manjaro Linux?
 There are several reasons why I chose [Manjaro Linux]. I used Arch Linux for a long time and I'm just used to working with this distribution, however, this distribution can be difficult to configure for beginners. Therefore, it was decided to find something simple to configure, "working out of the box", so that a user who had not previously encountered Linux could easily figure out what's what. For this reason, [Manjaro Linux] was chosen. As for the popular Ubuntu Linux distribution, in my opinion, the instructions presented below will be slightly simpler than the existing instructions for a similar configuration for the Ubuntu Linux distribution.
@@ -27,9 +27,9 @@ sudo pacman -S gqrx
 ```
 ![Gqrx install](../Resources/SDR%20on%20Linux/Linux-2-Gqrx-install.png)  
 
-At the completion of this step, all the necessary dependencies will automatically load. Also, automatic unloading of the kernel modules interfering with the operation of the receiver in the SDR mode will be performed.
+After completing this step, all necessary dependencies will be automatically downloaded and installed. Also, automatic unloading of the kernel modules interfering with the operation of the receiver in the SDR mode will be performed.
 
-After the above steps, you can start working with your SDR receiver. Now, run gqrx and setting up its initial configuration.
+After the above steps, you can start working with your SDR receiver. Now, run Gqrx and setting up its initial configuration.
 ```sh
 gqrx
 ```
