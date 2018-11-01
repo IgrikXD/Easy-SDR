@@ -46,7 +46,7 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR9.TRC1.A0.H0.X3v3+zener+smd.TRS2&_nkw=3v3+zener+smd&_sacat=0) /
 [Datasheet](./Datasheets/Zener%20diodes/BZV55-series-Diode-Datasheet.pdf) ) - **1 pcs.**
 
-##### LED:
+##### LEDs:
 - Blue, 0805 (
 [LCSC](https://lcsc.com/search?q=blue%20led%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xblue+led+0805.TRS0&_nkw=blue+led+0805&_sacat=0) ) - **1 pcs.**
