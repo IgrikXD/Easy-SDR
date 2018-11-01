@@ -16,7 +16,7 @@ To manufacture a PCB you will need:
 - Fine-grained sandpaper  
 - Glossy photo paper or thermal transfer paper (its size should be greater than or equal to the manufactured PCB)  
 - Clothes iron  
-- Acetone or solvent (also, any liquid dishwashing detergent can be used for decreasing)  
+- Acetone or solvent (also, any liquid dishwashing detergent can be used)  
 - Alcohol  
 - Plastic or glass container for etching PCB  
 - Hydrogen peroxide, 3% solution, 100 ml.  
