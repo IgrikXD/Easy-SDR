@@ -2,17 +2,18 @@
 
 ## Why should I export these files?
 The answer is simple - if you want to order production of PCBs on a platform other than [JLCPCB], you need to export the files (Gerber) necessary for the production of your printed circuit board. After exporting the files, you will need to upload the received files to the PCB manufacturing service.  
-Also, you can find ready Gerber files for a specific module in the directory:  
+
+You can find ready Gerber files for a specific module in the directory:  
 **Easy-SDR repository / Module name / Component group / Gerbers**.
 
 ## Where can I order PCB manufacture?
 | PCB Manufacturer | Information |
 | ----- | ----- |
-| [PCBWay] | International shipping. The minimum order is 5 pieces. Sponsorship of non-commercial projects. A bonus system for issuing coupons based on reviews about manufactured PCBs and inviting friends. |
-| [JLCPCB] | International shipping. The minimum order is 5 pieces. |
+| [PCBWay] | International delivery. The minimum order is 5 pieces. Sponsorship of non-commercial projects. A bonus system for issuing coupons based on reviews about manufactured PCBs and inviting friends. |
+| [JLCPCB] | International delivery. The minimum order is 5 pieces. |
 | [Seeed Studio] | International shipping. The minimum order is 5 pieces. |
-| [ITEAD] | International shipping. The minimum order is 5 pieces. |
-| [OSH Park] | International shipping. |
+| [ITEAD] | International delivery. The minimum order is 5 pieces. |
+| [OSH Park] | International delivery. |
 | [Belplata] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery.|
 | [Nanotech] | Manufacturer of PCB from Belarus. Delivery by mail in Belarus, self-delivery. |
 | [PS Electro] | The manufacturer of PCB from Russia. Delivery by mail in Russia, self-delivery. The minimum order is 1 piece.|
@@ -37,16 +38,16 @@ After all the necessary corrections we can make exporting the Gerber file. To do
 Next, small window appearing where you can see a small image of your PCB and some information needed for placing an order on the JLCPCB (manufacturing parameters, quantity, shipping information, and price). At this step, you can either just **save the Gerber file, by pushing "Generate Gerber" button**, preview the Gerber file with "Gerber View", or going to the JLCPCB platform to ordering the PCB.  
 ![Gerber preview](../Resources/EasyEDA%20Gerber%20export/EasyEDA-5-Gerber-preview.png)  
 
-Gerber View page  
+Gerber View page:  
 ![Gerber view](../Resources/EasyEDA%20Gerber%20export/EasyEDA-6-Gerber-view.png)  
 
-Redirecting to JLCPCB  
+Redirecting to JLCPCB:  
 ![JLCPCB redirect](../Resources/EasyEDA%20Gerber%20export/EasyEDA-7-JLCPCB-redirect.png)  
 
 If you choose redirection to JLCPCB, the Gerber file will be automatically downloaded to JLCPCB checked for trace errors, the price and time of production are calculated. After that, you can pay for the formed order.  
 ![Gerber upload](../Resources/EasyEDA%20Gerber%20export/EasyEDA-8-Gerber-upload.png)  
 
-Successfully uploaded  
+Successfully uploaded:  
 ![Upload success](../Resources/EasyEDA%20Gerber%20export/EasyEDA-9-Gerber-upload-success.png)  
 
 Other articles:  
