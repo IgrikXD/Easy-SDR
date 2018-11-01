@@ -40,15 +40,6 @@ You can order the SDR receiver on any of the currently available internet sites,
 ## Who helped me with the development of the project?
 Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.COM V.3 and information support. [LCSC] company that provided most of the electronic components used for assembly for completely free. [Mini-Circuits] company for the providing samples of [ADE] frequency mixer by [EZ-Sample] program. And also [PCBWay] for $ 20 discount when ordering PCBs for the project.
 
-## What was used mainly in the development?
-| Source | Description |
-| ------ | ------ |
-| [PA0RDT Mini-Whip] | The original circuit of the active receiving antenna was used. The PCBs for TH components on platforms EasyEDA and Sprint Layout was implemented. |
-| [RA0SMS Mini-Whip] | The original circuit of the active receiving antenna was used. The PCBs for SMD components on platform EasyEDA was implemented. |
-| [Opendous Inc.'s OpenHardware] | Some useful information about HF Upconverter. |
-| [Basic SDR Upconverter v1.0] | The original circuit of the HF Upconverter was used. The PCB for TH components on platforms EasyEDA and Sprint Layout was implemented. |
-| [Upconverter1v3] | Some parts from the original schematic were used. The PCBs for SMD components on platform EasyEDA was implemented. |
-
 ## How to contact me?
 - E-mail: igor.nikolaevich.96@gmail.com
 - Telegram: https://t.me/igrikxd
