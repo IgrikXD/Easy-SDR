@@ -1,8 +1,9 @@
 # How to order from LCSC
 
 ## Why LCSC?
-The main reason for choosing [LCSC] was that this distributor is connected with the service of PCBs developing - [EasyEDA]. This allows us when correctly describing the BOM file, to place the order of all necessary components in just a few simple steps. Supporting worldwide shipping. All components come in individual anti-static packaging with a protection against damage (cardboard box + bubble wrap).  
-However, you may not find all the necessary components for the assembly, in this case, I'm using [eBay]. To make it easier to find the necessary components for the assembly of the module, you can find the corresponding file with a list of all the necessary components with links to [LCSC] and [eBay], and also, with references to datasheets on the following path:  
+The main reason for choosing [LCSC] was that this distributor is connected with the service of PCBs developing - [EasyEDA]. This allows us when correctly describing the BOM file, to place the order of all necessary components in just a few simple steps. Supporting worldwide shipping. All components come in individual anti-static packaging with a protection against damage (cardboard box + bubble wrap). However, you may not find all the necessary components for the assembly, in this case, I'm using [eBay].  
+
+To make it easier to find the necessary components for the assembly of the module, you can find the corresponding file with a list of all the necessary components with links to [LCSC] and [eBay], and also, with references to datasheets on the following path:  
 **Easy-SDR repository / Module name / Component group / Components list**.
 
 ## Ordering from LCSC
