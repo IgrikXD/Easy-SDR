@@ -25,10 +25,10 @@
 [LCSC](https://lcsc.com/search?q=irlml6401) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.Xirlml6401.TRS0&_nkw=irlml6401&_sacat=0) /
 [Datasheet](./Datasheets/MOSFET/IRLML6401-Datasheet.pdf) ) - **1 pcs.**
-- MOSFET IRLML6402, SOT-23 (
-[LCSC](https://lcsc.com/search?q=irlml6402) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xirlml6402.TRS0&_nkw=irlml6402&_sacat=0) /
-[Datasheet](./Datasheets/MOSFET/IRLML6402-Datasheet.pdf) ) - **1 pcs.**
+- MOSFET DMP4065S-7, SOT-23 (
+[LCSC](https://lcsc.com/search?q=DMP4065S-7) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=DMP4065S-7&_sacat=0) /
+[Datasheet](./Datasheets/MOSFET/DMP4065S-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Diodes:
 - SS12, DO-214AC (
