@@ -41,9 +41,9 @@
 [Datasheet](./Datasheets/Diodes/BAV99-Diode-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Zener diodes:
-- BZV55-B3V3.115, SOD80C (
-[LCSC](https://lcsc.com/search?q=BZV55-B3V3) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR9.TRC1.A0.H0.X3v3+zener+smd.TRS2&_nkw=3v3+zener+smd&_sacat=0) /
+- BZV55-C10, SOD80C (
+[LCSC](https://lcsc.com/search?q=BZV55-C10) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=BZV55-C10&_sacat=0) /
 [Datasheet](./Datasheets/Zener%20diodes/BZV55-series-Diode-Datasheet.pdf) ) - **1 pcs.**
 
 ##### LEDs:
