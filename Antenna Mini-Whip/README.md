@@ -15,6 +15,9 @@ An easy and quick building of active PA0RDT Mini-Whip antenna ([TH component gro
 Example of working an SDR receiver on antenna Mini-Whip: [Wide-band WebSDR in Enschede, the Netherlands]  
 The detailed description of the principle of operation: [Fundamentals of the MiniWhip antenna]
 
+## Reminder
+Note that the **Mini-Whip broadband active receiving antenna may not provide sufficient reception quality. If you are interested in working at a narrow frequency band or at specific values, the best solution would be to use a narrow-band antenna** (for example, a half-wave vibrator, provided that you have enough space to install it)
+
 ## Basic characteristics of the antenna:
 
 - **Frequency range:** 10 kHz - 30 MHz
