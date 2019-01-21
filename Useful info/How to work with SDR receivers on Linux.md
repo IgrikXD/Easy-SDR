@@ -86,9 +86,12 @@ cd src
 ![Make](../Resources/SDR%20on%20Linux/Linux-10-Make.png)  
 ![RTL biast](../Resources/SDR%20on%20Linux/Linux-11-RTL-biast.png)  
 
-Important notice, **do not try to make "sudo make install"**, this command will work fine, but running the package with rtl_biast -b X will not work. This error was not eliminated by the developer at the time of April 2018. 
-
-If you want to disable this mode, use the following command:
+Important notice, **do not try to make "sudo make install"**, this command will work fine, but running the package with rtl_biast -b X will not work. This error was not eliminated by the developer at the time of April 2018. However, this can be corrected by the following actions:
+```sh
+sudo make install
+sudo cp rtl_biast /usr/local/bin/rtl_biast 
+```
+If you want to disable Bias Tee mode, use the following command:
 ```sh
 ./rtl_biast -b 0
 ```
