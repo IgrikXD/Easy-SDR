@@ -17,7 +17,7 @@ To prevent damage to your receiver perform voltage measurement on the SMA Receiv
 **Remember that when using the version without protection against polarity reversal, you must take care of the correct polarity of the power supply**. In the case of supplying voltage with incorrect polarity, you can destroy the LM317 voltage regulator.
 
 ## Installation recommendations
-In the event of a large amount of interference at reception, you can independently manufacture a metal case for the Antenna power supply module To do this, you can use any metal box of suitable size. The box is connected to the shield of a coaxial cable (connects to the external part of the SMA connector) or wire can be used, one end of which is soldered to the box and the other to a special "SHIELD" contact on the PCB.
+In the event of a large amount of interference at reception, you can independently manufacture a metal case for the Antenna power supply module. To do this, you can use any metal box of suitable size. The box is connected to the shield of a coaxial cable (connects to the external part of the SMA connector) or wire can be used, one end of which is soldered to the box and the other to a special "SHIELD" contact on the PCB.
 
 ## Power supply recommendations
 **It is recommended to use directly connected batteries** (for example, a 18650 battery pack) to power this module and not to use any intermediate transducers, either pulsed or linear (there is simply no need, voltage stabilization is performed using an LM317 chip).
