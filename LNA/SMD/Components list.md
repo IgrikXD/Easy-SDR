@@ -3,12 +3,12 @@
 ##### Amplifiers:
 - PSA4-5043+, MMM1362 (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=PSA4-5043%2B&_sacat=0) /
-[Datasheets](./Datasheets/Amplifiers/PSA4-5043+-Amplifier-Datasheet.pdf) ) - **1 pcs.**
+[Datasheet](./Datasheets/Amplifiers/PSA4-5043+-Amplifier-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Bias Tees:
 - TCBT-14+, GU1414 (
 [EBAY](https://www.ebay.com/sch/i.html?_odkw=TCBT-14&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=TCBT-14%2B&_sacat=0) /
-[Datasheets](./Datasheets/Bias%20Tees/TCBT-14+-Bias-Tee-Datasheet.pdf) ) - **1 pcs. (сan be replaced with a capacitor and inductor)**
+[Datasheet](./Datasheets/Bias%20Tees/TCBT-14+-Bias-Tee-Datasheet.pdf) ) - **1 pcs. (сan be replaced with a capacitor and inductor)**
 
 ##### Voltage regulators:
 - LM1117IMPX-5.0, SOT223 (
