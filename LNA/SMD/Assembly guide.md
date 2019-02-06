@@ -16,7 +16,7 @@ Soldering order of components:
 - Version simplified, DC connector: C(BT) -> L(BT) -> L1 -> **R0(BT)/R0(EXT)** -> C5 -> C4 -> C1 -> C2 -> C3 -> C6 -> D2 -> U1 -> U3 -> DC1 -> SMA con.
 
 When soldering a simplified LNA, a resistor **R0(BT/EXT)** is used, select:  
-**R0(BT)** - when powering LNA through Bias Tee;
+**R0(BT)** - when powering LNA through Bias Tee;  
 **R0(EXT)** - when using an external power source with conversion via LM1117;
 
 **Simultaneous soldering of both resistors is not allowed!**
