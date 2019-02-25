@@ -55,7 +55,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [Mini-Circuits]: <https://ww2.minicircuits.com/homepage/homepage.html>
 [PCBWay]: <https://www.pcbway.com/>
 [ADE]: <https://www.minicircuits.com/WebStore/dashboard.html?model=ADE-1%2B>
-[EZ-Sample]: <https://ww2.minicircuits.com/support/ez_sample.html>
+[EZ-Sample]: <https://www.minicircuits.com/WebStore/ez_sample.html>
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
 [Antenna Mini-Whip (SMD)]: <https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754>
 [Antenna power supply (SMD)]: <https://easyeda.com/IgrikXD/Antenna-power-supply-SMD>
