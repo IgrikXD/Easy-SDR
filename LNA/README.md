@@ -3,7 +3,7 @@
 An easy and quick building of LNA module at the [SMD component group](./SMD/EasyEDA). The module includes a schematic and PCB files (EasyEDA) with differences in power circuit (PCB with/without reverse polarity protection circuit, PCB with/without TCBT-14+ Bias Tee module). Based on the submitted files, you can independently manufacture a PCB or order its manufacturing at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
 
 ## Current development progress:
-[![Progress](https://img.shields.io/badge/LNA%28SMD%29-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/LNA-SMD) [![Progress](https://img.shields.io/badge/version-1.1.EE-blue.svg)](./SMD/EasyEDA)  
+[![Progress](https://img.shields.io/badge/LNA%20%28SMD%29-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/LNA-SMD) [![Progress](https://img.shields.io/badge/version-1.1.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
 - [LNA (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
