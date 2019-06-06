@@ -47,6 +47,10 @@ And also some videos about Mini-Whip (Russian language, original names saved):
 - [Антенна Mini-Whip - активная приёмная КВ/СВ/ДВ/СДВ антенна.](https://www.youtube.com/watch?v=mPkObZw7KLg)
 - [MiniWhip vs Dipol. Сравнение работы антенны MiniWhip и диполь на диапазон 40м. Радиосвязь.](https://www.youtube.com/watch?v=QXBOGIJIDug&t)
 
+## Who helped improve this project?
+
+- [Jerome](limakan@gmail.com) - Changes to the antenna power supply are proposed, the changes consist of adding versions of PCBs with the possibility of using an RF isolation transformer.
+
 [PA0RDT Mini-Whip]: <http://dl1dbc.net/SAQ/miniwhip.html>
 [RA0SMS Mini-Whip]: <http://www.ra0sms.ru/p/the-active-antenna-mini-whip-10-khz-30.html>
 [Fundamentals of the MiniWhip antenna]: <http://www.pa3fwm.nl/technotes/tn07.html>
