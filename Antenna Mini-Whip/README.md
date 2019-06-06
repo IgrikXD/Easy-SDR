@@ -49,7 +49,7 @@ And also some videos about Mini-Whip (Russian language, original names saved):
 
 ## Who helped improve this project?
 
-- [Jerome](limakan@gmail.com) - Changes to the antenna power supply are proposed, the changes consist of adding versions of PCBs with the possibility of using an RF isolation transformer.
+- [Jerome](mailto:limakan@gmail.com) - Changes to the antenna power supply are proposed, the changes consist of adding versions of PCBs with the possibility of using an RF isolation transformer.
 
 [PA0RDT Mini-Whip]: <http://dl1dbc.net/SAQ/miniwhip.html>
 [RA0SMS Mini-Whip]: <http://www.ra0sms.ru/p/the-active-antenna-mini-whip-10-khz-30.html>
