@@ -20,9 +20,12 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X470uh.TRS0&_nkw=470uh&_sacat=0) ) - **2 pcs.**
 
 ##### Capacitors:
+- 220uF, 20V+, 6.3x12mm (
+[LCSC](https://lcsc.com/search?q=220uf%206.3x12mm) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=220uf+6.3x12mm&_sacat=0) ) - **1 pcs. (for version with RF-isolation transformer)**
 - 100nF, 20V+ (
 [LCSC](https://lcsc.com/search?q=100nf%20plugin) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100nf.TRS2&_nkw=100nf&_sacat=0) ) - **7 pcs.**
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100nf.TRS2&_nkw=100nf&_sacat=0) ) - **7 pcs. / 6 pcs. (for version with RF-isolation transformer)**
 
 ##### Resistors:
 - 47R, 0.125W (
@@ -49,7 +52,13 @@
 [LCSC](https://lcsc.com/search?q=mf-r%20100ma) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xmf-r+100mA.TRS5&_nkw=mf-r+100mA&_sacat=0) ) - **1 pcs.** Not necessarily, it can be replaced by a jumper.
 
+##### Transformers:
+- Handmade, toroidal core, 4 turns of the primary winding, 4 turns of the secondary winding - **1 pcs. (for version with RF-isolation transformer)**
+
 ##### Connectors:
+- Female Header 2.54x2 (
+[LCSC](https://lcsc.com/search?q=Female%20Header) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR11.TRC1.A0.H0.Xfemale+header.TRS0&_nkw=female+header&_sacat=0) ) - **1 pcs. (for version with RF-isolation transformer)**
 - SMA Female (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **3 pcs.**
