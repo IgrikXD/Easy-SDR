@@ -70,7 +70,7 @@
 ##### Transformers:
 - Handmade, toroidal core, 4 turns of the primary winding, 4 turns of the secondary winding / TC1-1T+, AT224-1A (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=TC1-1T%2B&_sacat=0) /
-[Datasheets](./Datasheets/Transformers/TC1-1T+-Transformer-Datasheet.pdf) ) - **1 pcs. (for version with RF-isolation transformer)**
+[Datasheet](./Datasheets/Transformers/TC1-1T+-Transformer-Datasheet.pdf) ) - **1 pcs. (for version with RF-isolation transformer)**
 
 ##### Connectors:
 - Female Header 2.54x2 (
