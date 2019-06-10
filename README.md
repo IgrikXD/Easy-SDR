@@ -33,8 +33,8 @@ In the root of the repository select a device of interest and go to the appropri
 ## Where can I buy an SDR receiver?
 You can order the SDR receiver on any of the currently available internet sites, such as eBay, Aliexpress, Taobao, etc. Or you can use the following links to order some advanced versions of SDR receivers:
 
-| SDR Store | Information |
-| --------- | ----------- |
+| Store | Information |
+| ----- | ----------- |
 | [RTL-SDR.COM] | International delivery. Performed selling modified versions of receivers. Performs support and develop new versions. There is a large set of various useful information (software, articles, manuals, news). |
 | [NooElec] | International delivery. Large selection of receivers and accessories. |
 | [Airspy] | You can choose a retailer according to your whereabouts. Performs support and develop new versions. There are links for [downloading SDRSharp](https://airspy.com/download/) and software for working with the server part. |
