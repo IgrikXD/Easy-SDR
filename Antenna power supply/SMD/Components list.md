@@ -41,12 +41,12 @@
 - 240R, 0805 (
 [LCSC](https://lcsc.com/search?q=240R%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X240R+080.TRS0&_nkw=240R+0805&_sacat=0) ) - **1 pcs.**
-- 732R, 0805 (
-[LCSC](https://lcsc.com/search?q=732R%200805) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR11.TRC1.A0.H0.X732r+0805.TRS0&_nkw=732r+0805&_sacat=0) ) - **1 pcs.**
+- 680R, 0805 (
+[LCSC](https://lcsc.com/search?q=680R%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=680r+0805&_sacat=0) ) - **1 pcs.**
 - 5k ADJ, 3296W (
-[LCSC](https://lcsc.com/search?q=5k%203296) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=5k+3296&_sacat=0) ) - **1 pcs.**
+[LCSC](https://lcsc.com/search?q=2k%203296) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=2k+3296&_sacat=0) ) - **1 pcs.**
 - 100k, 0805 (
 [LCSC](https://lcsc.com/search?q=100k%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100k+080.TRS2&_nkw=100k+0805&_sacat=0) ) - **1 pcs.**
