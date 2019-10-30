@@ -44,7 +44,7 @@
 - 680R, 0805 (
 [LCSC](https://lcsc.com/search?q=680R%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=680r+0805&_sacat=0) ) - **1 pcs.**
-- 5k ADJ, 3296W (
+- 2k ADJ, 3296W (
 [LCSC](https://lcsc.com/search?q=2k%203296) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=2k+3296&_sacat=0) ) - **1 pcs.**
 - 100k, 0805 (
