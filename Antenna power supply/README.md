@@ -3,7 +3,7 @@
 An easy and quick building of Antenna power supply module at the [SMD component group](./SMD/EasyEDA). The module includes a schematic and PCB files (EasyEDA) with differences in power circuit (PCB with/without reverse polarity protection circuit). Based on the submitted files, you can independently manufacture a PCB or order its manufacturing at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the Antenna power supply module is cheaper than buying a ready-made module.
 
 ## Current development progress:
-[![Progress](https://img.shields.io/badge/Antenna%20power%20supply%20%28SMD%29-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/Antenna-power-supply-SMD) [![Progress](https://img.shields.io/badge/version-1.4.EE-blue.svg)](./SMD/EasyEDA)  
+[![Progress](https://img.shields.io/badge/Antenna%20power%20supply%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/Antenna-power-supply-SMD) [![Progress](https://img.shields.io/badge/version-1.5.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
 - [Antenna power supply (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
@@ -18,7 +18,7 @@ A feature of this module is the stabilization of the antenna supply voltage, whi
 ## Basic characteristics of the Antenna power supply module:
 
 - **Input voltage:** DC 7.5 - 36 V  
-- **Output voltage (adjustable):** DC 5 - 31 V  
+- **Output voltage (adjustable):** DC 4.79 - 15.21 V  
 - **Maximum output current:** 300 mA  
 - **RF connector:** SMA  
 - **Feed line:** 50 Ohm coaxial cable  
