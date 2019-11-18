@@ -3,7 +3,7 @@
 An easy and quick building of PI Attenuator at the [SMD component group](./SMD/EasyEDA). The module includes a schematic and PCB file (EasyEDA). Based on the submitted files, you can independently manufacture a PCB or order its manufacturing at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the PI Attenuator is cheaper than buying a ready-made module.
 
 ## Current development progress:
-[![Progress](https://img.shields.io/badge/PI%20Attenuator%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/PI-Attenuator-SMD) [![Progress](https://img.shields.io/badge/version-1.0.EE-blue.svg)](./SMD/EasyEDA)  
+[![Progress](https://img.shields.io/badge/PI%20Attenuator%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/PI-Attenuator-SMD) [![Progress](https://img.shields.io/badge/version-2.0.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
 - [PI Attenuator (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
@@ -23,6 +23,9 @@ An example of using an attenuator can be the situation when in the immediate vic
 - **Attenuation range:** 1 - 50 dB (see list of parameters in schematic file or [Components list](./SMD/Components%20list.md))  
 - **RF connector:** SMA  
 - **Feed line:** 50 Ohm coaxial cable  
+
+## List of changes:
+Version **2.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
 
 ## What was used in the development?
 | Source | Description |
