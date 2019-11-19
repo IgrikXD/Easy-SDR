@@ -14,7 +14,7 @@ Creating affordable, easy-to-manufacture prototypes of PCBs to working and expan
 ## Currently available modules at EasyEDA platform:
 - [Antenna Mini-Whip (TH)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./Antenna%20Mini-Whip/README.md), [Components list](./Antenna%20Mini-Whip/TH/Components%20list.md), [Assembly guide](./Antenna%20Mini-Whip/TH/Assembly%20guide.md))
 - [Antenna Mini-Whip (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./Antenna%20Mini-Whip/README.md), [Components list](./Antenna%20Mini-Whip/SMD/Components%20list.md), [Assembly guide](./Antenna%20Mini-Whip/SMD/Assembly%20guide.md))
-- [Antenna power supply (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./Antenna%20power%20supply/README.md), [Components list](./Antenna%20power%20supply/SMD/Components%20list.md), [Assembly guide](./Antenna%20power%20supply/SMD/Assembly%20guide.md))
+- [HF Antenna power supply (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./HF%20Antenna%20power%20supply/README.md), [Components list](./HF%20Antenna%20power%20supply/SMD/Components%20list.md), [Assembly guide](./HF%20Antenna%20power%20supply/SMD/Assembly%20guide.md))
 - [HF Upconverter (TH)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./HF%20Upconverter/README.md), [Components list](./HF%20Upconverter/TH/Components%20list.md), [Assembly guide](./HF%20Upconverter/TH/Assembly%20guide.md), [Filters design files](./HF%20Upconverter/TH/Filters%20design%20files))
 - [HF Upconverter (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./HF%20Upconverter/README.md), [Components list](./HF%20Upconverter/SMD/Components%20list.md), [Assembly guide](./HF%20Upconverter/SMD/Assembly%20guide.md), [Filters design files](./HF%20Upconverter/SMD/Filters%20design%20files))
 - [LNA (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./LNA/README.md), [Components list](./LNA/SMD/Components%20list.md), [Assembly guide](./LNA/SMD/Assembly%20guide.md))
@@ -58,7 +58,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [EZ-Sample]: <https://www.minicircuits.com/WebStore/ez_sample.html>
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
 [Antenna Mini-Whip (SMD)]: <https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754>
-[Antenna power supply (SMD)]: <https://easyeda.com/IgrikXD/Antenna-power-supply-SMD>
+[HF Antenna power supply (SMD)]: <https://easyeda.com/IgrikXD/Antenna-power-supply-SMD>
 [HF Upconverter (TH)]: <https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8>
 [HF Upconverter (SMD)]: <https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d>
 [LNA (SMD)]: <https://easyeda.com/IgrikXD/LNA-SMD>
