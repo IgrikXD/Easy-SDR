@@ -23,8 +23,8 @@ At the moment, the method described above is the best way to work with the SDR r
 ## HF Upconverter diagram
 ![HF Upconverter diagram](../Resources/HF%20Upconverter/Upconverter-diagram.png)
 
-## List of changes:
-Version **8.0.EE ([HF Upconverter (TH)])**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
+## List of changes [HF Upconverter (TH)]:
+Version **8.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
 
 ## What was used in the development?
 | Source | Description |
