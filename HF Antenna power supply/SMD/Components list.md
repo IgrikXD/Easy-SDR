@@ -1,4 +1,4 @@
-# Components list for Antenna power supply (SMD) module
+# Components list for HF Antenna power supply (SMD) module
 
 ##### Voltage regulators:
 - LM317, TO252 (
