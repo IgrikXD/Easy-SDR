@@ -3,7 +3,7 @@
 An easy and quick building of active PA0RDT Mini-Whip antenna ([TH component group](./TH)) or RA0SMS Mini-Whip antenna ([SMD component group](./SMD/EasyEDA)). The module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its manufacturing at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
 
 ## Current development progress:
-[![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28TH%29-tested-green.svg)](https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65) [![Progress](https://img.shields.io/badge/version-6.9.EE-blue.svg)](./TH/EasyEDA)  
+[![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28TH%29-tested-green.svg)](https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65) [![Progress](https://img.shields.io/badge/version-7.0.EE-blue.svg)](./TH/EasyEDA)  
 [![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28TH%29-tested-green.svg)](./TH/Sprint%20Layout) [![Progress](https://img.shields.io/badge/version-7.5.SL-blue.svg)](./TH/Sprint%20Layout)  
 [![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754) [![Progress](https://img.shields.io/badge/version-5.0.EE-blue.svg)](./SMD/EasyEDA)  
 
@@ -29,6 +29,9 @@ Note that the **Mini-Whip broadband active receiving antenna may not provide suf
 - **Feed line:** 50 Ohm coaxial cable
 
 An important point is the **good grounding of the antenna**.
+
+## List of changes [Antenna Mini-Whip (TH)]:
+Version **5.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
 
 ## List of changes [Antenna Mini-Whip (SMD)]:
 Version **5.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
