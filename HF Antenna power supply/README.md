@@ -3,7 +3,7 @@
 An easy and quick building of HF Antenna power supply module at the [SMD component group](./SMD/EasyEDA). The module includes a schematic and PCB files (EasyEDA) with differences in power circuit (PCB with/without reverse polarity protection circuit). Based on the submitted files, you can independently manufacture a PCB or order its manufacturing at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the HF Antenna power supply module is cheaper than buying a ready-made module.
 
 ## Current development progress:
-[![Progress](https://img.shields.io/badge/HF%20Antenna%20power%20supply%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/Antenna-power-supply-SMD) [![Progress](https://img.shields.io/badge/version-2.0.EE-blue.svg)](./SMD/EasyEDA)  
+[![Progress](https://img.shields.io/badge/HF%20Antenna%20power%20supply%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/Antenna-power-supply-SMD) [![Progress](https://img.shields.io/badge/version-2.1.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
 - [HF Antenna power supply (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
@@ -23,8 +23,11 @@ A feature of this module is the stabilization of the antenna supply voltage, whi
 - **Maximum output current:** 300 mA  
 - **RF connector:** SMA  
 - **Feed line:** 50 Ohm coaxial cable  
+**Used PCB Material:** FR-4  
+**PCB thickness:** 1.6 mm  
 
 ## List of changes:
+Version **2.1.EE**: changes of the toggle switch (SW1) on the printed circuit board, now the contacts of the case are soldered to the GND area.  
 Version **2.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
 
 ## What was used in the development?
