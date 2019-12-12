@@ -23,8 +23,8 @@ A feature of this module is the stabilization of the antenna supply voltage, whi
 - **Maximum output current:** 300 mA  
 - **RF connector:** SMA  
 - **Feed line:** 50 Ohm coaxial cable  
-**Used PCB Material:** FR-4  
-**PCB thickness:** 1.6 mm  
+- **Used PCB Material:** FR-4  
+- **PCB thickness:** 1.6 mm  
 
 ## List of changes:
 Version **2.1.EE**: changes of the toggle switch (SW1) on the printed circuit board, now the contacts of the case are soldered to the GND area.  
