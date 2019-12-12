@@ -23,6 +23,8 @@ An example of using an attenuator can be the situation when in the immediate vic
 - **Attenuation range:** 1 - 50 dB (see list of parameters in schematic file or [Components list](./SMD/Components%20list.md))  
 - **RF connector:** SMA  
 - **Feed line:** 50 Ohm coaxial cable  
+- **Used PCB Material:** FR-4  
+- **PCB thickness:** 1.6 mm  
 
 ## List of changes:
 Version **2.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
