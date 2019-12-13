@@ -3,7 +3,7 @@
 An easy and quick building of HF Upconverter at the [TH component group](./TH) or [SMD component group](./SMD/EasyEDA). The module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its manufacturing at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the upconverter is cheaper than buying a ready-made module.
 
 ## Current development progress:
-[![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28TH%29-tested-green.svg)](https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8) [![Progress](https://img.shields.io/badge/version-8.0.EE-blue.svg)](./TH/EasyEDA)  
+[![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28TH%29-tested-green.svg)](https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8) [![Progress](https://img.shields.io/badge/version-8.1.EE-blue.svg)](./TH/EasyEDA)  
 [![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28TH%29-tested-green.svg)](./TH/Sprint%20Layout) [![Progress](https://img.shields.io/badge/version%20(ADE)-2.9.SL-blue.svg)](./TH/Sprint%20Layout) [![Progress](https://img.shields.io/badge/version%20(SA602)-2.2.SL-blue.svg)](./TH/Sprint%20Layout) [![Progress](https://img.shields.io/badge/version%20(SBL)-2.5.SL-blue.svg)](./TH/Sprint%20Layout)  
 [![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d) [![Progress](https://img.shields.io/badge/version-12.22.EE-blue.svg)](./SMD/EasyEDA)  
 
