@@ -24,6 +24,7 @@ At the moment, the method described above is the best way to work with the SDR r
 ![HF Upconverter diagram](../Resources/HF%20Upconverter/Upconverter-diagram.png)
 
 ## List of changes [HF Upconverter (TH)]:
+Version **8.1.EE**: changes of the toggle switch (SW1) on the printed circuit board, now the contacts of the case are soldered to the GND area.  
 Version **8.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
 
 ## What was used in the development?
