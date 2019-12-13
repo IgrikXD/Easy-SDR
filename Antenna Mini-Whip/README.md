@@ -27,6 +27,8 @@ Note that the **Mini-Whip broadband active receiving antenna may not provide suf
 - **Maximum output power:** in excess of – 15 dBm
 - **RF connector:** SMA
 - **Feed line:** 50 Ohm coaxial cable
+- **Used PCB Material:** FR-4  
+- **PCB thickness:** 1.6 mm  
 
 An important point is the **good grounding of the antenna**.
 
