@@ -1,5 +1,8 @@
 # Assembly guide for HF Upconverter (TH) module
 
+## PCB requirements
+In the manufacture of the device, use the material of the FR-4 printed circuit board with a thickness of 1.6 mm (this is not the best material for RF equipment, but it is the most popular and affordable). This is necessary to comply with the wave impedance of the RF line equal to 50 Ohms. If this requirement is not observed, the wave impedance of the RF line will be different from 50 Ohms, which may lead to incorrect operation of the device. Wave resistance calculations were performed for a material with Er = 4.6 (FR-4) using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/).
+
 ## Manufacture of inductors
 In the process of manufacturing this module, you will have to manufacture the inductors yourself for the used highpass / lowpass filters. Coils are made by winding an enameled copper wire of a certain diameter to a round workpiece of a certain diameter (it is convenient to use drills). Before winding the coil, clean one end of the wire from the insulation (use an aggressive solvent or insulation heating, approximately
 3-5 mm.). When you start winding the coil, try to make the windings as close as possible to each other. After finishing the winding of the coil, remove the protective insulation from the other end of the coil and make tinning both ends. After doing this, your coil will be ready for installation on the PCB.
