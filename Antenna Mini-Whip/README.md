@@ -33,7 +33,7 @@ Note that the **Mini-Whip broadband active receiving antenna may not provide suf
 An important point is the **good grounding of the antenna**.
 
 ## List of changes [Antenna Mini-Whip (TH)]:
-Version **5.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
+Version **7.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
 
 ## List of changes [Antenna Mini-Whip (SMD)]:
 Version **5.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
