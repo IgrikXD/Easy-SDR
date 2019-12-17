@@ -5,7 +5,7 @@ An easy and quick building of HF Upconverter at the [TH component group](./TH) o
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28TH%29-tested-green.svg)](https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8) [![Progress](https://img.shields.io/badge/version-8.1.EE-blue.svg)](./TH/EasyEDA)  
 [![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28TH%29-tested-green.svg)](./TH/Sprint%20Layout) [![Progress](https://img.shields.io/badge/version%20(ADE)-2.9.SL-blue.svg)](./TH/Sprint%20Layout) [![Progress](https://img.shields.io/badge/version%20(SA602)-2.2.SL-blue.svg)](./TH/Sprint%20Layout) [![Progress](https://img.shields.io/badge/version%20(SBL)-2.5.SL-blue.svg)](./TH/Sprint%20Layout)  
-[![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d) [![Progress](https://img.shields.io/badge/version-12.22.EE-blue.svg)](./SMD/EasyEDA)  
+[![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d) [![Progress](https://img.shields.io/badge/version-13.0.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
 - [HF Upconverter (TH)] ([Components list](./TH/Components%20list.md), [Assembly guide](./TH/Assembly%20guide.md), [Filters design files](./TH/Filters%20design%20files))
@@ -26,6 +26,9 @@ At the moment, the method described above is the best way to work with the SDR r
 ## List of changes [HF Upconverter (TH)]:
 Version **8.1.EE**: changes of the toggle switch (SW1) on the printed circuit board, now the contacts of the case are soldered to the GND area.  
 Version **8.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
+
+## List of changes [HF Upconverter (SMD)]:
+Version **13.0.EE**: changes of the toggle switch (SW1) on the printed circuit board, now the contacts of the case are soldered to the GND area. The RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms. Changed the shape of the RF line (added smoothing tracks).
 
 ## What was used in the development?
 | Source | Description |
