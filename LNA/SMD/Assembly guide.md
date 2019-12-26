@@ -1,5 +1,8 @@
 # Assembly guide for LNA (SMD) module
 
+## PCB requirements
+In the manufacture of the device, use the material of the FR-4 printed circuit board with a thickness of 1.6 mm (this is not the best material for RF equipment, but it is the most popular and affordable). This is necessary to comply with the wave impedance of the RF line equal to 50 Ohms. If this requirement is not observed, the wave impedance of the RF line will be different from 50 Ohms, which may lead to incorrect operation of the device. Wave resistance calculations were performed for a material with Er = 4.6 (FR-4) using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/).
+
 ## Components installing 
 Due to the use of SMD components and relatively tight mounting, this module has some recommendations on the soldering order of components, this is necessary to facilitate soldering (no hard-to-reach areas for the soldering iron will be formed).
 Also, it is strongly recommended that you **use an antistatic wrist strap and do not use soldering irons that are powered directly from the 220V / 110V network**, which can damage some sensitive components when soldering.
@@ -10,8 +13,7 @@ Soldering order of components:
 - Version with RPP: C(BT) -> L(BT) -> L1 -> C5 -> C4 -> C1 -> C2 -> C3 -> C6 -> LED1 -> R2 -> Q1 -> D1 -> R1 -> D2 -> U1 -> U3 -> DC1 -> SW1 -> SMA con. (Resistor **R0(DNI)** can be soldered to disable the function of protection against polarity reversal)
 - Version without RPP, TCBT-14+: U2 -> L1 -> C4 -> C5 -> C1 -> C2 -> C3 -> C6 -> R2 -> LED1 -> D2 -> U1 -> U3 -> DC1 -> SW1 -> SMA con.
 - Version without RPP: C(BT) -> L(BT) -> L1 -> C4 -> C5 -> C1 -> C2 -> C3 -> C6 -> R2 -> LED1 -> D2 -> U1 -> U3 -> DC1 -> SW1 -> SMA con.
-- Version BT only, TCBT-14+: L1 -> C4 -> C5 -> U2 -> C6 -> D2 -> U3 -> SMA con.
-- Version BT only: C5 -> C4 -> C(BT) -> L(BT) -> L1 -> C6 -> D2 -> U3 -> SMA con.
+- Version BT only: C6 -> D2 -> U3 -> SMA con.
 - Version simplified: C(BT) -> L(BT) -> L1 -> **R0(BT)/R0(EXT)** -> C5 -> C4 -> C1 -> C2 -> C3 -> C6 -> D2 -> U1 -> U3 -> SMA con.
 - Version simplified, DC connector: C(BT) -> L(BT) -> L1 -> **R0(BT)/R0(EXT)** -> C5 -> C4 -> C1 -> C2 -> C3 -> C6 -> D2 -> U1 -> U3 -> DC1 -> SMA con.
 
