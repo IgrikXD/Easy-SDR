@@ -3,7 +3,7 @@
 An easy and quick building of LNA module at the [SMD component group](./SMD/EasyEDA). The module includes a schematic and PCB files (EasyEDA) with differences in power circuit (PCB with/without reverse polarity protection circuit, PCB with/without TCBT-14+ Bias Tee module). Based on the submitted files, you can independently manufacture a PCB or order its manufacturing at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
 
 ## Current development progress:
-[![Progress](https://img.shields.io/badge/LNA%20%28SMD%29-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/LNA-SMD) [![Progress](https://img.shields.io/badge/version-1.1.EE-blue.svg)](./SMD/EasyEDA)  
+[![Progress](https://img.shields.io/badge/LNA%20%28SMD%29-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/LNA-SMD) [![Progress](https://img.shields.io/badge/version-2.0.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
 - [LNA (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
@@ -21,9 +21,14 @@ When working with SDR equipment, due to low power or large transmitter removal, 
 - **Gain:** 25.4 dB, 50 MHz / 22.1 dB, 500 MHz / 18.4 dB, 1 GHz / 13.3 dB, 2 GHz / 10.2 dB, 3 GHz / 8.0 dB, 4 GHz
 - **Noise Figure:** 0.73 dB, 50 MHz / 0.65 dB, 500 MHz / 0.75 dB, 1 GHz / 0.98 dB, 2 GHz / 1.1 dB, 3 GHz / 1.44 dB, 4 GHz
 - **RF connector:** SMA
-- **Feed line:** 50 Ohm coaxial cable
+- **Feed line:** 50 Ohm coaxial cable  
+- **Used PCB Material:** FR-4  
+- **PCB thickness:** 1.6 mm  
 
 Detailed data on the characteristics of PSA4-5043+ at different frequencies: [Typical Performance Data](./SMD/Datasheets/Amplifiers/PSA4-5043+-Typical-Performance-Data.pdf), [Typical Performance Graph](./SMD/Datasheets/Amplifiers/PSA4-5043+-Typical-Performance-Graph.pdf)
+
+## List of changes:
+Version **2.0.EE**: changes of the toggle switch (SW1) on the printed circuit board, now the contacts of the case are soldered to the GND area. The RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the wave resistance of the RF line is close to 50 Ohms. Correcting a power-up error due to PCB trace in module LNA (SMD): Main module (simplified DC connector). PCB Implementation Fix for LNA (SMD): Main module (BT only).
 
 ## What was used in the development?
 | Source | Description |
