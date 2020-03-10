@@ -40,7 +40,7 @@ You can order the SDR receiver on any of the currently available internet sites,
 | [Airspy] | You can choose a retailer according to your whereabouts. Performs support and develop new versions. There are links for [downloading SDRSharp](https://airspy.com/download/) and software for working with the server part. |
 
 ## Who helped me with the development of the project?
-Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.COM V.3 and information support. [LCSC] company that provided most of the electronic components used for assembly for completely free. [Mini-Circuits] company for the providing samples of [ADE] frequency mixer by [EZ-Sample] program. And also [PCBWay] for $ 20 discount when ordering PCBs for the project.
+Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.COM V.3 and information support. [LCSC] company that provided most of the electronic components used for assembly for completely free. [Mini-Circuits] company for the providing samples of [ADE] frequency mixers, [PSA4-5043+] amplifiers, and Bias Tees [TCBT-14+] by [EZ-Sample] program. And also [PCBWay] for $ 20 discount when ordering PCBs for the project.
 
 ## How to contact me?
 - E-mail: igor.nikolaevich.96@gmail.com
@@ -55,6 +55,8 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [Mini-Circuits]: <https://ww2.minicircuits.com/homepage/homepage.html>
 [PCBWay]: <https://www.pcbway.com/>
 [ADE]: <https://www.minicircuits.com/WebStore/dashboard.html?model=ADE-1%2B>
+[PSA4-5043+]: <https://www.minicircuits.com/WebStore/dashboard.html?model=PSA4-5043%2B>
+[TCBT-14+]: <https://www.minicircuits.com/WebStore/dashboard.html?model=TCBT-14%2B>
 [EZ-Sample]: <https://www.minicircuits.com/WebStore/ez_sample.html>
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
 [Antenna Mini-Whip (SMD)]: <https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754>
