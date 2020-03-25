@@ -54,7 +54,7 @@
 [LCSC](https://lcsc.com/search?q=4.7uf%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.X4.7uf+080.TRS0&_nkw=4.7uf+0805&_sacat=0) ) - **2 pcs.**
 - 10uF, 6.3V+, 0805 (
-[LCSC](https://lcsc.com/search?q=10puf%200805) /
+[LCSC](https://lcsc.com/search?q=10uf%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.X10uf+0805.TRS0&_nkw=10uf+0805&_sacat=0) ) - **1 pcs.**
 
 ##### Resistors:
