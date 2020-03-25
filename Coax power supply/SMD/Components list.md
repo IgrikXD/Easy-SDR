@@ -60,7 +60,7 @@
 ##### Resistors:
 - 0R, 0805 (
 [LCSC](https://lcsc.com/search?q=0R%200805) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=0r+0805&_sacat=0) ) - **1 pcs.**
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=0r+0805&_sacat=0) ) - **1 pcs. Required for operation if the battery charging circuit is not soldered.**
 - 0R4, 2010 (
 [LCSC](https://lcsc.com/search?q=0R4%202010) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR1.TRC0.A0.H0.X0r4+2010.TRS0&_nkw=0r4+2010&_sacat=0) ) - **1 pcs.**
