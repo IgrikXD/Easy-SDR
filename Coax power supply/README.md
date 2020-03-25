@@ -20,7 +20,7 @@ The main difference between this module and "[HF Antenna power supply (SMD)] mod
 
 ## Basic characteristics of the HF Antenna power supply module:
 
-- **Frequency range:** 10 MHz - 10 GHz (according to the [datasheet on TCBT-14+](./Datasheets/Bias%20Tees/TCBT-14+-Datasheet.pdf), may not be possible with FR-4 PCB material)  
+- **Frequency range:** 10 MHz - 10 GHz (according to the [datasheet on TCBT-14+](./Datasheets/Bias%20Tees/TCBT-14+-Bias-Tee-Datasheet), may not be possible with FR-4 PCB material)  
 - **Power:** USB type B, DC 5 V / built-in Li-pol battery  
 - **Output voltage:** DC +3.3 V  
 - **Maximum output current:** 200 mA  
