@@ -85,8 +85,6 @@
 - SMA Female (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **2 pcs.**
-- SMA Male (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0) ) - **2 pcs.**
 - USB type B (
 [LCSC](https://lcsc.com/search?q=USB%20BFemale90) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1311.R1.TR5.TRC0.A0.H0.Xusb+type+b+f.TRS0&_nkw=usb+type+b+female+connector&_sacat=0) /
@@ -108,7 +106,3 @@
 - MTS-102-C3 (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.Xmts-102-c.TRS0&_nkw=mts-102-c3&_sacat=0) /
 [Datasheet](./Datasheets/Switchs/MTS-Series-Switchs-Datasheet.pdf) ) - **1 pcs.**
-
-##### Coaxial cable:
-- RG-58 (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0) ) - **0.5 meter.** Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.

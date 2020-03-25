@@ -62,8 +62,6 @@
 - SMA Female (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **3 pcs.**
-- SMA Male (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0) ) - **4 pcs.**
 - DC-005 (
 [LCSC](https://lcsc.com/search?q=dc-005) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.Xdc-005.TRS2&_nkw=dc-005&_sacat=0) /
@@ -76,7 +74,3 @@
 [LCSC](https://lcsc.com/search?q=5.00-3P) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.XKF301-3P.TRS0&_nkw=KF301-3P&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/KF301-5.0-3P-(GS009S-5.0-XXP)-Datasheet.pdf) ) - **1 pcs.**
-
-##### Coaxial cable:
-- RG-58 (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0) ) - **3 meters.** Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.
