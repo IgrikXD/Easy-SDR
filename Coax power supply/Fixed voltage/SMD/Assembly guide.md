@@ -16,14 +16,37 @@ Take a small piece of shrink tubing, with a diameter that allows you to put it o
 
 **The sequence of soldering:** USB1 -> SMA con.  
 
-The next step is to prepare an aluminum enclosure, with dimensions of 80 x 50 x 20mm, for mounting the PCB. Cut holes in the side covers of the case so that the USB-B and SMA connectors pass through them freely. Install the PCB in one of the parts of the case by placing it on the appropriate chassis. Screw the side covers of the case to the part of the case where the PCB is installed, **so you will fix the PCB and can mark the place for the hole cutting for the toogle switch SW1**. Take the SW1 toggle switch and place it in the mounting place on the PCB. **The place where the toggle switch touches the side face of the enclosure is the point where milling is necessary in order for the toggle switch to be placed and soldered to the PCB.**  
-Mark the same point on the top of the aluminum housing cover. Unscrew the side covers of the case, remove the PCB and use a file or drill to mill the hole to the desired depth. After milling, re-insert the PCB into the appropriate chassis and check how freely the toggle switch fits into the milled hole. If you can't set the toggle switch, repeat the above steps to achieve optimal results.  
+![USB-B heat shrink](../../Resources/Coax%20power%20supply/Enclosure-USB-B-heat-shrink.png)  
+
+The next step is to prepare an aluminum enclosure, with dimensions of 80 x 50 x 20mm, for mounting the PCB. Cut holes in the side covers of the case so that the USB-B and SMA connectors pass through them freely.  
+
+![Cutting holes in side covers](../../Resources/Coax%20power%20supply/Enclosure-Cutting-holes-in-side-covers.png)  
+
+Install the PCB in one of the parts of the case by placing it on the appropriate chassis. Screw the side covers of the case to the part of the case where the PCB is installed, **so you will fix the PCB and can mark the place for the hole cutting for the toogle switch SW1**. Take the SW1 toggle switch and place it in the mounting place on the PCB. **The place where the toggle switch touches the side face of the enclosure is the point where milling is necessary in order for the toggle switch to be placed and soldered to the PCB.**  
+
+![Toggle switch installation](../../Resources/Coax%20power%20supply/Enclosure-Toggle-switch-installation.png)  
+
+Mark the same point on the top of the aluminum housing cover. 
+
+![Toggle switch installation upper part](../../Resources/Coax%20power%20supply/Enclosure-Toggle-switch-installation-upper-part.png)  
+
+Unscrew the side covers of the case, remove the PCB and use a file or drill to mill the hole to the desired depth. After milling, re-insert the PCB into the appropriate chassis and check how freely the toggle switch fits into the milled hole. If you can't set the toggle switch, repeat the above steps to achieve optimal results.  
+
+![Milled hole for toggle switch](../../Resources/Coax%20power%20supply/Enclosure-Milled-hole-for-toggle-switch.png) 
+
 The next step, again take a small piece of shrink tube, the diameter of which allows you to put it on the outer, round part of the toggle switch SW1. Heat the shrink tube to compress it to the outer, round part of the switch SW1 and **allow it to be isolated from the aluminum enclosure of the device**.  
+
+![Toggle switch heat shrink](../../Resources/Coax%20power%20supply/Enclosure-Toggle-switch-heat-shrink.png)  
+
 Insert the PCB back into the chassis, screw the side covers aluminum enclosure, tighten the nuts on the SMA connector, this will allow you to align and fix the PCB inside the case. After the above operations, solder the SW1 toggle switch after installing it in mounting place.  
 
 **The sequence of soldering:** SW1.  
 
+![Soldering the toggle switch](../../Resources/Coax%20power%20supply/Enclosure-Soldering-the-toggle-switch.png)  
+
 Screw the top cover of the aluminum enclosure. Now the device is ready to work.
+
+![Ready-made device](../../Resources/Coax%20power%20supply/Enclosure-Ready-made-device.png)  
 
 ## Additional instructions
 If you want to use an output voltage other than +3.3 V, you can replace the LP5907MFX-3.3 linear voltage regulator with any other linear regulators in the SOT-23-5 case, with the same pinout and capable of operating at +5 V (standard USB port voltage). **But you will not be able to get an output voltage of more than approximately + 4.5 V.**
