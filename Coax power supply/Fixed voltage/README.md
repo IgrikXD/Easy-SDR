@@ -11,7 +11,7 @@ An easy and quick building of Coax power supply module at the [SMD component gro
 ## How does it work?
 Coax power supply module is built on the principle of using Bias Tee. Bias Tees are the components, that are used to supply DC currents or voltages to bias RF circuits. Bias tee is a three-port device. A signal that consists of RF + DC is incident at port 1 of the Bias Tee. The capacitor blocks all DC signals from getting through to port 2 and only allows the RF signals to pass through. Whereas, the inductor in the circuit blocks all RF signals from getting through to Port 3 and allows all DC signals to get through.
 
-![Bias Tee schematic](../Resources/Coax%20power%20supply/Bias-Tee-schematic.png)  
+![Bias Tee schematic](../../Resources/Coax%20power%20supply/Bias-Tee-schematic.png)  
 
 A feature of this module is the stabilization of the active antennas or LNA supply voltage, which will allow to set a fixed value (DC +3.3 V) of the output voltage and avoid a situation where the antenna or LNA characteristics may change due to the instability of the supply voltage (battery discharge). This decision will positively affect the quality of the work of active antennas or LNA.
 
