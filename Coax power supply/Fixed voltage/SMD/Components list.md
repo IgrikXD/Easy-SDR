@@ -3,7 +3,7 @@
 ##### Bias Tees:
 - TCBT-14+, GU1414 (
 [EBAY](https://www.ebay.com/sch/i.html?_odkw=TCBT-14&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=TCBT-14%2B&_sacat=0) /
-[Datasheet](./Datasheets/Bias%20Tees/TCBT-14+-Bias-Tee-Datasheet.pdf) ) - **1 pcs.**
+[Datasheet](./Datasheets/Bias%20Tees/TCBT-14+-Bias-Tee-Datasheet.pdf) ) - **1 pcs. / 0 pcs. (w/o TCBT-14+)**
 
 ##### Voltage regulators:
 - LP5907MFX-3.3/NOPB, SOT-23 5-pin (
@@ -28,10 +28,15 @@
 [LCSC](https://lcsc.com/search?q=green%20led%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.Xgreen+led+080.TRS0&_nkw=green+led+0805&_sacat=0) ) - **1 pcs.**
 
+##### Inductors:
+- 100uH, 0805 (
+[LCSC](https://lcsc.com/search?q=100uH%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR2.TRC0.A0.H0.X100uh+0805.TRS0&_nkw=100uh+0805&_sacat=0) ) - **1 pcs. (w/o TCBT-14+)**
+
 ##### Capacitors:
 - 100nF, 6.3V+, 0805 (
 [LCSC](https://lcsc.com/search?q=100nf%200805) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100nf+0805.TRS2&_nkw=100nf+0805&_sacat=0) ) - **3 pcs.**
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100nf+0805.TRS2&_nkw=100nf+0805&_sacat=0) ) - **3 pcs. / 4 pcs. (w/o TCBT-14+)**
 - 4.7uF, 6.3V+, 0805 (
 [LCSC](https://lcsc.com/search?q=4.7uf%200805) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.X4.7uf+080.TRS0&_nkw=4.7uf+0805&_sacat=0) ) - **2 pcs.**
