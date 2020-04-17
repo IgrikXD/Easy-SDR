@@ -1,4 +1,4 @@
-# Components list for Coax power supply (SMD) module
+# Components list for Coax power supply, fixed voltage (SMD, ENCLOSURE) module
 
 ##### Bias Tees:
 - TCBT-14+, GU1414 (
