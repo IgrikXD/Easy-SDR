@@ -64,7 +64,7 @@
 ##### Switches:
 - MTS-101/102-C3 (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.Xmts-102-c.TRS0&_nkw=mts-102-c3&_sacat=0) /
-[Datasheet](./Datasheets/Switchs/MTS-Series-Switchs-Datasheet.pdf) ) - **1 pcs.**
+[Datasheet](./Datasheets/Switches/MTS-Series-Switches-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Aluminium enclosures:
 - 80 x 50 x 20 mm (
