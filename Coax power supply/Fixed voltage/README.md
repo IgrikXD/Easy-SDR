@@ -18,7 +18,7 @@ A feature of this module is the stabilization of supply voltage for powering up 
 ## Basic characteristics of the Coax power supply, fixed voltage module:
 
 - **Input voltage:** USB type B, DC 5 V  
-- **Frequency range:** 10 MHz - 10 GHz (according to the [datasheet on TCBT-14+](./Datasheets/Bias%20Tees/TCBT-14+-Bias-Tee-Datasheet.pdf), upper frequency may be unattainable with FR-4 PCB material)  
+- **Frequency range:** 10 MHz - 10 GHz (according to the [datasheet on TCBT-14+](./SMD/Datasheets/Bias%20Tees/TCBT-14+-Bias-Tee-Datasheet.pdf), upper frequency may be unattainable with FR-4 PCB material)  
 - **Output voltage:** DC +3.3 V (can be changed by replacing the linear regulator LP5907MFX-3.3)  
 - **Maximum output current:** 200 mA  
 - **RF connector:** SMA  
