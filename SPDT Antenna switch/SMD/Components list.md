@@ -26,7 +26,7 @@
 
 ##### Diodes:
 - BAV99, SOT-23 (
-[LCSC](https://lcsc.com/search?q=bav99%20sot-23) /
+[LCSC](https://lcsc.com/search?q=bav99) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.Xbav99.TRS0&_nkw=bav99&_sacat=0) /
 [Datasheet](./Datasheets/Diodes/BAV99-Diode-Datasheet.pdf) ) - **2 pcs.**
 
