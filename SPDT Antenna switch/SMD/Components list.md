@@ -1,7 +1,7 @@
 # Components list for SPDT Antenna switch (SMD, ENCLOSURE) module
 
 ##### Voltage regulators:
-- LP5907MFX-3.3/NOPB, SOT-23 5-pin (
+- LP5907MFX-3.3/NOPB, SOT-23-5 (
 [LCSC](https://lcsc.com/search?q=LP5907MFX-3.3) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=LP5907MFX-3.3&_sacat=0) /
 [Datasheet](./Datasheets/Voltage%20regulators/LP5907-Linear-Regulator-Datasheet.pdf) ) - **1 pcs.**
