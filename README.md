@@ -27,19 +27,19 @@ Creating affordable, easy-to-manufacture prototypes of PCBs to working and expan
 - [How to work with RTL-SDR receivers on Linux]
 
 ## How to use this repository?
-In the root of the repository select a device of interest and go to the appropriate directory (for example [HF Upconverter](./HF%20Upconverter)). After the transition, select the [SMD](./HF%20Upconverter/SMD) components group. Also in [Datasheets](./HF%20Upconverter/SMD/Datasheets) and [Schematics](./HF%20Upconverter/SMD/Schematics) directories, you can find all necessary technical documentation for the used components in the chosen module and schematic files in PDF format. If you only need GERBER files, you can find them in the appropriate [Gerbers](./HF%20Upconverter/SMD/Gerbers) directory for the selected components group. The next step is to choose the [EasyEDA](./HF%20Upconverter/SMD/EasyEDA) platform in which the project is implemented. After selecting this directory, the list of files for implementing the device becomes available to you. After that, based on submitted files, you can order PCBs for factory manufacturing.
+In the root of the repository select a device of interest and go to the appropriate directory (for example [HF Upconverter](./HF%20Upconverter)). After the transition, select the component group of interest ([SMD](./HF%20Upconverter/SMD) or [TH](./Antenna%20Mini-Whip/TH)). Also in [Datasheets](./HF%20Upconverter/SMD/Datasheets) and [Schematics](./HF%20Upconverter/SMD/Schematics) directories, you can find all necessary technical documentation for the used components and schematic files in PDF format. If you only need GERBER files, you can find them in the appropriate [Gerbers](./HF%20Upconverter/SMD/Gerbers) directory for the selected components group. By the next step, you can download project files for the [EasyEDA](./HF%20Upconverter/SMD/EasyEDA) platform, which can later be [loaded into the editor](./HF%20Upconverter/SMD/EasyEDA/README.md) for viewing and editing. After that, based on the files presented, you can perform the necessary modifications to the device and order PCB for factory manufacturing.
 
 ## Where can I buy an SDR receiver?
 You can order the SDR receiver on any of the currently available internet sites, such as eBay, Aliexpress, Taobao, etc. Or you can use the following links to order some advanced versions of SDR receivers:
 
 | Store | Information |
 | ----- | ----------- |
-| [RTL-SDR.COM] | International delivery. Performed selling modified versions of receivers. Performs support and develop new versions. There is a large set of various useful information (software, articles, manuals, news). |
-| [NooElec] | International delivery. Large selection of receivers and accessories. |
-| [Airspy] | You can choose a retailer according to your whereabouts. Performs support and develop new versions. There are links for [downloading SDRSharp](https://airspy.com/download/) and software for working with the server part. |
+| [RTL-SDR.COM] | International delivery. Performed selling modified versions of receivers based on RTL2832U chip. Performs support and develop new versions of hardware solutions. There is a large set of various useful information (software, articles, manuals, news). |
+| [NooElec] | International delivery. Large selection of SDR receivers based on RTL2832U chip and accessories, such as HF Upconverters, SAW filters, LNA, attenuators, antennas. |
+| [Airspy] | Much more productive and expensive devices compared to devices based on RTL2832U. You can choose a retailer according to your whereabouts. Performs support and develop new versions of software and hardware solutions. There are links for [downloading SDRSharp](https://airspy.com/download/) and software for working with the server part. |
 
 ## Who helped me with the development of the project?
-Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.COM V.3 and information support. [LCSC] company that provided most of the electronic components used for assembly for completely free. [Mini-Circuits] company for the providing samples of [ADE] frequency mixers, [PSA4-5043+] amplifiers, and Bias Tees [TCBT-14+] by [EZ-Sample] program. And also [PCBWay] for $ 20 discount when ordering PCBs for the project.
+Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.COM V.3 and information support. [LCSC] company that provided most of the electronic components used for assembly for completely free. [Mini-Circuits] company for the providing samples of [ADE] frequency mixers, [PSA4-5043+] and [PGA-103+] amplifiers, and Bias Tees [TCBT-14+] by [EZ-Sample] program. And also [PCBWay] for $ 70 discount when ordering PCBs for the project.
 
 ## How to contact me?
 - E-mail: igor.nikolaevich.96@gmail.com
@@ -55,6 +55,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [PCBWay]: <https://www.pcbway.com/>
 [ADE]: <https://www.minicircuits.com/WebStore/dashboard.html?model=ADE-1%2B>
 [PSA4-5043+]: <https://www.minicircuits.com/WebStore/dashboard.html?model=PSA4-5043%2B>
+[PGA-103+]: <https://www.minicircuits.com/WebStore/dashboard.html?model=PGA-103%2B>
 [TCBT-14+]: <https://www.minicircuits.com/WebStore/dashboard.html?model=TCBT-14%2B>
 [EZ-Sample]: <https://www.minicircuits.com/WebStore/ez_sample.html>
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
