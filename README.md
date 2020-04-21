@@ -24,7 +24,7 @@ Creating affordable, easy-to-manufacture prototypes of PCBs to working and expan
 - [How to export Gerber file from EasyEDA]
 - [How to order from JLCPCB]
 - [How to order from LCSC]
-- [How to work with SDR receivers on Linux]
+- [How to work with RTL-SDR receivers on Linux]
 
 ## How to use this repository?
 In the root of the repository select a device of interest and go to the appropriate directory (for example [HF Upconverter](./HF%20Upconverter)). After the transition, select the component group of interest ([SMD](./HF%20Upconverter/SMD) or [TH](./HF%20Upconverter/TH)). Also in [Datasheets](./HF%20Upconverter/SMD/Datasheets) and [Schematics](./HF%20Upconverter/SMD/Schematics) directories, you can find all necessary technical documentation for the used components in the chosen module and schematic files in PDF format. If you only need GERBER files, you can find them in the appropriate [Gerbers](./HF%20Upconverter/SMD/Gerbers) directory for the selected components group. The next step is to choose the platform in which the project is implemented ([EasyEDA](./HF%20Upconverter/SMD/EasyEDA) or [Sprint Layout](./HF%20Upconverter/TH/Sprint%20Layout) (only for TH components)). After selecting the directory with the platform of interest, the list of files for implementing the device becomes available to you. After that, based on submitted files, you can make the device independently or order printed circuit boards for factory manufacturing.
@@ -67,4 +67,4 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [How to export Gerber file from EasyEDA]: <./Useful%20info/How%20to%20export%20Gerber%20file%20from%20EasyEDA.md>
 [How to order from JLCPCB]: <./Useful%20info/How%20to%20order%20from%20JLCPCB.md>
 [How to order from LCSC]: <./Useful%20info/How%20to%20order%20from%20LCSC.md>
-[How to work with SDR receivers on Linux]: <./Useful%20info/How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md>
+[How to work with RTL-SDR receivers on Linux]: <./Useful%20info/How%20to%20work%20with%20RTL-SDR%20receivers%20on%20Linux.md>

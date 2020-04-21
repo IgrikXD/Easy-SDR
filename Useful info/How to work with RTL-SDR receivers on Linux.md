@@ -1,4 +1,4 @@
-# How to work with SDR receivers on Linux
+# How to work with RTL-SDR receivers on Linux
 
 In this tutorial, I'll show you how to work with SDR receivers in Linux. [Manjaro Linux] will be used for the work, however, any Arch-based distribution will worked with this manual.
 
