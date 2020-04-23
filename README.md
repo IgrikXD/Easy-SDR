@@ -18,6 +18,7 @@ Creating affordable, easy-to-manufacture prototypes of PCBs to working and expan
 - [HF Upconverter (SMD, ENCLOSURE)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./HF%20Upconverter/README.md), [Components list](./HF%20Upconverter/SMD/Components%20list.md), [Assembly guide](./HF%20Upconverter/SMD/Assembly%20guide.md), [Filters design files](./HF%20Upconverter/SMD/Filters%20design%20files))
 - [LNA, Bias Tee powered (SMD, ENCLOSURE)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./LNA/Bias%20Tee%20powered/README.md), [Components list](./LNA/Bias%20Tee%20powered/SMD/Components%20list.md), [Assembly guide](./LNA/Bias%20Tee%20powered/SMD/Assembly%20guide.md))
 - [LNA, Bias Tee powered + filtering (SMD, ENCLOSURE)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./LNA/Bias%20Tee%20powered%20+%20filtering/README.md), [Components list](./LNA/Bias%20Tee%20powered%20+%20filtering/SMD/Components%20list.md), [Assembly guide](./LNA/Bias%20Tee%20powered%20+%20filtering/SMD/Assembly%20guide.md))
+- [PI Attenuator (SMD, ENCLOSURE)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./PI%20Attenuator/README.md), [Components list](./PI%20Attenuator/SMD/Components%20list.md), [Assembly guide](./PI%20Attenuator/SMD/Assembly%20guide.md))
 - [SPDT Antenna switch (SMD, ENCLOSURE)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./SPDT%20Antenna%20switch/README.md), [Components list](./SPDT%20Antenna%20switch/SMD/Components%20list.md), [Assembly guide](./SPDT%20Antenna%20switch/SMD/Assembly%20guide.md))
 
 ### Deprecated implementations of modules on the EasyEDA platform (will be reworked or removed):
@@ -25,7 +26,6 @@ Creating affordable, easy-to-manufacture prototypes of PCBs to working and expan
 - [HF Upconverter (TH)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./HF%20Upconverter/README.md), [Components list](./HF%20Upconverter/TH/Components%20list.md), [Assembly guide](./HF%20Upconverter/TH/Assembly%20guide.md), [Filters design files](./HF%20Upconverter/TH/Filters%20design%20files))
 - [HF Upconverter (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./HF%20Upconverter/README.md), [Components list](./HF%20Upconverter/SMD/Components%20list.md), [Assembly guide](./HF%20Upconverter/SMD/Assembly%20guide.md), [Filters design files](./HF%20Upconverter/SMD/Filters%20design%20files))
 - [LNA (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./LNA/README.md), [Components list](./LNA/SMD/Components%20list.md), [Assembly guide](./LNA/SMD/Assembly%20guide.md))
-- [PI Attenuator (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./PI%20Attenuator/README.md), [Components list](./PI%20Attenuator/SMD/Components%20list.md), [Assembly guide](./PI%20Attenuator/SMD/Assembly%20guide.md))
 
 
 ## Current available information articles:
@@ -77,7 +77,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [HF Upconverter (TH)]: <https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8>
 [HF Upconverter (SMD)]: <https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d>
 [LNA (SMD)]: <https://easyeda.com/IgrikXD/LNA-SMD>
-[PI Attenuator (SMD)]: <https://easyeda.com/IgrikXD/PI-Attenuator-SMD>
+[PI Attenuator (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/PI-Attenuator-SMD>
 [How to export Gerber file from EasyEDA]: <./Useful%20info/How%20to%20export%20Gerber%20file%20from%20EasyEDA.md>
 [How to order from JLCPCB]: <./Useful%20info/How%20to%20order%20from%20JLCPCB.md>
 [How to order from LCSC]: <./Useful%20info/How%20to%20order%20from%20LCSC.md>
