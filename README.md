@@ -22,11 +22,10 @@ Creating affordable, easy-to-manufacture prototypes of PCBs to working and expan
 - [SPDT Antenna switch (SMD, ENCLOSURE)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./SPDT%20Antenna%20switch/README.md), [Components list](./SPDT%20Antenna%20switch/SMD/Components%20list.md), [Assembly guide](./SPDT%20Antenna%20switch/SMD/Assembly%20guide.md))
 
 ### Deprecated implementations of modules on the EasyEDA platform (will be reworked or removed):
-- [HF Antenna power supply (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./HF%20Antenna%20power%20supply/README.md), [Components list](./HF%20Antenna%20power%20supply/SMD/Components%20list.md), [Assembly guide](./HF%20Antenna%20power%20supply/SMD/Assembly%20guide.md))
-- [HF Upconverter (TH)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./HF%20Upconverter/README.md), [Components list](./HF%20Upconverter/TH/Components%20list.md), [Assembly guide](./HF%20Upconverter/TH/Assembly%20guide.md), [Filters design files](./HF%20Upconverter/TH/Filters%20design%20files))
-- [HF Upconverter (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./HF%20Upconverter/README.md), [Components list](./HF%20Upconverter/SMD/Components%20list.md), [Assembly guide](./HF%20Upconverter/SMD/Assembly%20guide.md), [Filters design files](./HF%20Upconverter/SMD/Filters%20design%20files))
-- [LNA (SMD)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([README](./LNA/README.md), [Components list](./LNA/SMD/Components%20list.md), [Assembly guide](./LNA/SMD/Assembly%20guide.md))
-
+- [HF Antenna power supply (SMD)]
+- [HF Upconverter (TH)]
+- [HF Upconverter (SMD)]
+- [LNA (SMD)]
 
 ## Current available information articles:
 - [How to export Gerber file from EasyEDA]
