@@ -29,7 +29,7 @@ An example of using an attenuator can be the situation when in the immediate vic
 **Not intended for use in the transmission path.**  
 
 ## List of changes:
-Version **3.0.EE**: added versions of PCBs with the possibility of installation in an aluminum enclosure with dimensions of 50 x 25 x 25 mm. 
+Version **3.0.EE**: added versions of PCBs with the possibility of installation in an aluminum enclosure with dimensions of 50 x 25 x 25 mm.  
 Version **2.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
 
 ## What was used in the development?
