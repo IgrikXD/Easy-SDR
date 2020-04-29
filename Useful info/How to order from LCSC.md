@@ -69,6 +69,7 @@ When choosing a specific order, you can see information about the address and me
 Other articles:  
 [How to export Gerber file from EasyEDA](./How%20to%20export%20Gerber%20file%20from%20EasyEDA.md)  
 [How to order from JLCPCB](./How%20to%20order%20from%20JLCPCB.md)  
+[How to order from PCBWay](./How%20to%20order%20from%20PCBWay.md)  
 [How to work with RTL-SDR receivers on Linux](./How%20to%20work%20with%20RTL-SDR%20receivers%20on%20Linux.md)
 
 

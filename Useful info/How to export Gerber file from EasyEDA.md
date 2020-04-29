@@ -53,6 +53,7 @@ Successfully uploaded:
 Other articles:  
 [How to order from JLCPCB](./How%20to%20order%20from%20JLCPCB.md)  
 [How to order from LCSC](./How%20to%20order%20from%20LCSC.md)  
+[How to order from PCBWay](./How%20to%20order%20from%20PCBWay.md)  
 [How to work with RTL-SDR receivers on Linux](./How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md)
 
 
