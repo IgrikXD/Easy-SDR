@@ -11,7 +11,7 @@ An easy and quick building of "SPDT Antenna switch" module based on [SMD compone
 ## How does it work?
 This device works on the principle of simple switching the desired antenna input (RF IN 1 / RF IN 2) and connecting it to the device output (RF OUT). This works in much the same way as if you had two independent antennas and alternately connected them to your SDR receiver as needed, disconnected one of them and connected the other. Only in the case of using this module, such switching will be carried out by means of a special chip - SPDT switch AS169-73LF. 
 
-![SPDT switch diagram](../../Resources/SPDT%20Antenna%20switch/SPDT-Switch-diagram.png) 
+![SPDT switch diagram](../Resources/SPDT%20Antenna%20switch/SPDT-Switch-diagram.png) 
 
 This allows you to switch the receiving antennas at a much higher speed and can really come in handy when you want to check how much a particular antenna works better while you are receiving a weak, short-time radio signal. Also, this saves time spent physically disconnecting the antenna from the coaxial input of the SDR receiver and connecting a new receiveng antenna.
 
