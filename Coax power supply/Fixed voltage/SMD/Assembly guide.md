@@ -16,7 +16,7 @@ Take a small piece of shrink tubing, with a diameter that allows you to put it o
 
 **Soldering sequence:** USB1 -> SMA con.  
 
-![USB-B heat shrink](../../Resources/Coax%20power%20supply/Enclosure-USB-B-heat-shrink.png)  
+![USB-B heat shrink tube](../../Resources/Coax%20power%20supply/Enclosure-USB-B-heat-shrink.png)  
 
 The next step is to prepare an aluminum enclosure, with dimensions of 80 x 50 x 20mm, for setting up PCB inside. Cut holes in the side covers of the case so that the USB-B and SMA connectors pass through them freely.
 
@@ -36,7 +36,7 @@ Unscrew the side covers of the case, remove the PCB and use a drill to mill the 
 
 The next step, again take a small piece of shrink tube, the diameter of which allows you to put it on the outer, round part of the toggle switch SW1. Heat the shrink tube to compress it to the outer, round part of the switch SW1. **This solution allow isolate SW1 toggle switch from the aluminum enclosure of the device.**  
 
-![Toggle switch heat shrink](../../Resources/Coax%20power%20supply/Enclosure-Toggle-switch-heat-shrink.png)  
+![Toggle switch heat shrink tube](../../Resources/Coax%20power%20supply/Enclosure-Toggle-switch-heat-shrink.png)  
 
 Insert the PCB back into the chassis, screw the side covers aluminum enclosure, tighten the nuts on the SMA connector, this will allow you to align and fix the PCB inside the case. After the above operations, solder the SW1 toggle switch after installing it in mounting place on PCB.  
 
