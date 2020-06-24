@@ -21,7 +21,7 @@ The next step is to prepare an aluminum enclosure, with dimensions of 80 x 50 x 
 
 ![Cutting holes in side covers](../../Resources/SPDT%20Antenna%20switch/Enclosure-Cutting-holes-in-side-covers.png)  
 
-Install the PCB in one of the parts of the case by placing it on the appropriate chassis. Screw the side covers of the case to the part of the case where the PCB is installed, **so you will fix the PCB and can mark the places for the hole cutting for the toggle switch SW1, SW2 and LED1**. Take the SW1 toggle switch and place it in the mounting place on the PCB. **The place where the toggle switch touches the side face of the enclosure is the point where milling is necessary in order for the toggle switch to be placed and soldered to the PCB.** Perform the same operation with the toggle switch SW2.
+Install the PCB in one of the parts of the case by placing it on the appropriate chassis. Screw the side covers of the case to the part of the case where the PCB is installed, **so you will fix the PCB and can mark the places for the hole cutting for the toggle switches SW1, SW2 and LED1**. Take the SW1 toggle switch and place it in the mounting place on the PCB. **The place where the toggle switch touches the side face of the enclosure is the point where milling is necessary in order for the toggle switch to be placed and soldered to the PCB.** Perform the same operation with the toggle switch SW2.
 
 ![Toggle switch installation](../../Resources/SPDT%20Antenna%20switch/Enclosure-Toggle-switch-installation.png)  
 
@@ -29,7 +29,7 @@ Mark the same point on the top of the aluminum housing cover.
 
 ![Toggle switch installation, top cover](../../Resources/SPDT%20Antenna%20switch/Enclosure-Toggle-switch-installation-top-cover.png)  
 
-Unscrew the side covers of the case, remove the PCB and use a drill to mill the hole for SW1 and SW2 toggle switches to the desired depth. Also, drill a hole for the LED1. After milling, re-insert the PCB into the appropriate chassis and check how freely the toggle switch fits into the milled hole. If you can't set the toggle switch, repeat the above steps to achieve optimal results.  
+Unscrew the side covers of the case, remove the PCB and use a drill to mill the holes for SW1 and SW2 toggle switches to the desired depth. Also, drill a hole for the LED1. After milling, re-insert the PCB into the appropriate chassis and check how freely the toggle switch fits into the milled hole. If you can't set the toggle switch, repeat the above steps to achieve optimal results.  
 
 ![Milled hole for toggle switch](../../Resources/SPDT%20Antenna%20switch/Enclosure-Milled-hole-for-toggle-switch.png) 
 
