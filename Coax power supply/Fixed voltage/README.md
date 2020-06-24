@@ -27,6 +27,8 @@ A feature of this module is the stabilization of supply voltage for powering up 
 - **PCB thickness:** 1.6 mm  
 - **PCB copper weight:** 1 oz  
 
+**Used only to power receiving antennas or amplifiers! Using the device in a transmitting radio channel can damage the TCBT-14 + (maximum allowable power is 30 dBm).**
+
 ## What was used in the development?
 | Source | Description |
 | ------ | ----------- |
