@@ -1,6 +1,6 @@
 # Antenna Mini-Whip
 
-An easy and quick building of active PA0RDT Mini-Whip antenna ([TH component group](./TH)) or RA0SMS Mini-Whip antenna ([SMD component group](./SMD/EasyEDA)). The module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order its manufacturing at the factory. The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
+An easy and quick building of active PA0RDT Mini-Whip antenna ([TH component group](./TH)) or RA0SMS Mini-Whip antenna ([SMD component group](./SMD/EasyEDA)). The module includes schematic (EasyEDA) and PCB files (EasyEDA, Sprint layout). Based on the submitted files, you can independently manufacture a PCB or order PCB manufacturing at the factory ([PCBWay], [JLCPCB]). The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the antenna is cheaper than buying a ready-made module.
 
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28TH%29-tested-green.svg)](https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65) [![Progress](https://img.shields.io/badge/version-7.0.EE-blue.svg)](./TH/EasyEDA)  
@@ -60,6 +60,8 @@ And also some videos about Mini-Whip (Russian language, original names saved):
 
 - [Jerome](mailto:limakan@gmail.com) - Changes to the antenna power supply are proposed, the changes consist of adding versions of PCBs with the possibility of using an RF isolation transformer.
 
+[PCBWay]: <https://www.pcbway.com/>
+[JLCPCB]: <https://jlcpcb.com/>
 [PA0RDT Mini-Whip]: <http://dl1dbc.net/SAQ/miniwhip.html>
 [RA0SMS Mini-Whip]: <http://www.ra0sms.ru/p/the-active-antenna-mini-whip-10-khz-30.html>
 [Fundamentals of the MiniWhip antenna]: <http://www.pa3fwm.nl/technotes/tn07.html>
