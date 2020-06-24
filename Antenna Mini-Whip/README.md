@@ -22,9 +22,6 @@ Note that the **Mini-Whip broadband active receiving antenna may not provide suf
 
 - **Frequency range:** 10 kHz - 30 MHz
 - **Power:** DC 5 - 13 V, 100 mA
-- **Second order output intercept point:** > + 70 dBm
-- **Third order output intercept point:** > + 30 dBm
-- **Maximum output power:** in excess of – 15 dBm
 - **RF connector:** SMA
 - **Feed line:** 50 Ohm coaxial cable
 - **Used PCB Material:** FR-4  
