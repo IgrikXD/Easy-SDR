@@ -1,6 +1,6 @@
 # SPDT Antenna switch
 
-An easy and quick building of "SPDT Antenna switch" module based on [SMD components](./SMD/EasyEDA) and used for switching receiving antennas. The module includes a [schematic](./SMD/Schematics) and [PCB](./SMD/Gerbers) prepared for setting up into aluminum enclosure with dimensions 80 x 50 x 20 mm with SMA connectors. Based on the submitted files, you can order PCB manufacturing at the factory ([PCBWay], [JLCPCB]). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the "SPDT Antenna switch" module is cheaper than buying a ready-made module.
+An easy and quick building of "SPDT Antenna switch" module based on [SMD components](./SMD/EasyEDA) and used for switching receiving antennas. The module includes a [schematic](./SMD/Schematics) and [PCB](./SMD/Gerbers) prepared for setting up into aluminum enclosure with dimensions 80 x 50 x 20 mm with SMA connectors. Based on the submitted files, you can order PCB manufacturing at the factory ([PCBWay], [JLCPCB]). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the "SPDT Antenna switch" module is cheaper than buying a ready-made device.
 
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/SPDT%20Antenna%20switch%20(SMD,%20ENCLOSURE)-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/hf-upconverter-smd-enclosure) [![Progress](https://img.shields.io/badge/version-1.0.EE-blue.svg)](./SMD/EasyEDA)  
