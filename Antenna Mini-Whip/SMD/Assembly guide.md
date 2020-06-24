@@ -9,9 +9,9 @@ Also, it is strongly recommended that you **use an antistatic wrist strap and do
 
 Soldering order of components:
 
-- Main module: R2 -> R1 -> R4 -> R6 -> C2 -> R7 -> R3 -> L1 -> R5 -> C1 -> R8 -> C5 -> R9 -> C4 -> С3 -> R10 -> R11 -> L2 -> Q2 -> Q1 -> SMA con.  
-- Power feed unit: C7 -> C6 -> C8 -> L3 -> D1 -> DC1 -> SMA con.
-- Power feed unit (with RF-isolation transformer): C10 -> D2 -> C9 -> C11 -> P2 -> T1 -> DC2 -> SMA con.
+- **Main module:** R2 -> R1 -> R4 -> R6 -> C2 -> R7 -> R3 -> L1 -> R5 -> C1 -> R8 -> C5 -> R9 -> C4 -> С3 -> R10 -> R11 -> L2 -> Q2 -> Q1 -> SMA con.  
+- **Power feed unit:** C7 -> C6 -> C8 -> L3 -> D1 -> DC1 -> SMA con.
+- **Power feed unit (with RF-isolation transformer):** C10 -> D2 -> C9 -> C11 -> P2 -> T1 -> DC2 -> SMA con.
 
 ## Additional instructions
 A useful step can also be to check the output voltage level with a multimeter. To prevent damage to your receiver, connect PFU to the power supply, and perform voltage measurement on the SMA connector (PFU-to-receiver connector). The value of the output voltage must be zero. After that, you can make further connections and work with the antenna.
