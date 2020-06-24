@@ -29,6 +29,7 @@ Note that the **Mini-Whip broadband active receiving antenna may not provide suf
 - **Feed line:** 50 Ohm coaxial cable
 - **Used PCB Material:** FR-4  
 - **PCB thickness:** 1.6 mm  
+- **PCB copper weight:** 1 oz  
 
 An important point is the **good grounding of the antenna**.
 
