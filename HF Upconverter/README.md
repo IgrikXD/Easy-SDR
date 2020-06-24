@@ -69,7 +69,7 @@ Some theoretical information about used parts:
 [Opendous Inc.'s OpenHardware]: <https://github.com/ha7ilm/opendous/wiki>
 [Understanding Mixers and Their Parameters]: <http://www.mwrf.com/components/understanding-mixers-and-their-parameters>
 [PI Attenuator Calculator]: <http://www.leleivre.com/rf_pipad.html>
-[Еще раз о приеме КВ на RTL-SDR]: <https://m.geektimes.ru/post/289241/>
+[Еще раз о приеме КВ на RTL-SDR]: <https://habr.com/ru/post/373465/>
 [USB-кабели и кабели питания]: <http://rones.su/techno/usb-dc-cables.html>
 [Типы зарядных портов]: <http://rones.su/techno/charging_ports_types.html>
 [Широкополосный SDR радиосканер из DVB тюнера]: <https://vk.com/dvb_tv>
