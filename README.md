@@ -12,14 +12,14 @@ This project is about creation of affordable and easy-to-manufacture prototypes 
 [![Development status](https://img.shields.io/badge/Trello-Development%20status-blue.svg?longCache=true&style=for-the-badge)](https://trello.com/b/7NEPnfiD/easysdr) [![Create bug report](https://img.shields.io/badge/Google%20Form-Create%20bug%20report-red.svg?longCache=true&style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSeUFM1p15N_vk8X_blSnZp6jPlZe_qRhiRlmntscx6jF2yRqw/viewform?usp=sf_link)
 
 ## Currently available modules at EasyEDA platform:
-[![README](https://img.shields.io/badge/README-Check%20it!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (TH)]  
-[![README](https://img.shields.io/badge/README-Check%20it!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (SMD)]   
-[![README](https://img.shields.io/badge/README-Check%20it!-green)](./Coax%20power%20supply/Fixed%20voltage/README.md) [Coax power supply, fixed voltage (SMD, ENCLOSURE)]  
-[![README](https://img.shields.io/badge/README-Check%20it!-green)](./HF%20Upconverter/README.md) [HF Upconverter (SMD, ENCLOSURE)]   
-[![README](https://img.shields.io/badge/README-Check%20it!-green)](./LNA/Bias%20Tee%20powered/README.md) [LNA, Bias Tee powered (SMD, ENCLOSURE)]  
-[![README](https://img.shields.io/badge/README-Check%20it!-green)](./LNA/Bias%20Tee%20powered%20+%20filtering/README.md) [LNA, Bias Tee powered + filtering (SMD, ENCLOSURE)]  
-[![README](https://img.shields.io/badge/README-Check%20it!-green)](./PI%20Attenuator/README.md) [PI Attenuator (SMD, ENCLOSURE)]  
-[![README](https://img.shields.io/badge/README-Check%20it!-green)](./SPDT%20Antenna%20switch/README.md) [SPDT Antenna switch (SMD, ENCLOSURE)]   
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (TH)]  
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (SMD)]   
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./Coax%20power%20supply/Fixed%20voltage/README.md) [Coax power supply, fixed voltage (SMD, ENCLOSURE)]  
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./HF%20Upconverter/README.md) [HF Upconverter (SMD, ENCLOSURE)]   
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./LNA/Bias%20Tee%20powered/README.md) [LNA, Bias Tee powered (SMD, ENCLOSURE)]  
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./LNA/Bias%20Tee%20powered%20+%20filtering/README.md) [LNA, Bias Tee powered + filtering (SMD, ENCLOSURE)]  
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./PI%20Attenuator/README.md) [PI Attenuator (SMD, ENCLOSURE)]  
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./SPDT%20Antenna%20switch/README.md) [SPDT Antenna switch (SMD, ENCLOSURE)]   
 
 ### Deprecated implementations of modules on the EasyEDA platform (will be reworked or removed):
 - [HF Antenna power supply (SMD)]
