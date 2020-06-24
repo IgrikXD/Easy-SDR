@@ -1,8 +1,7 @@
 # Components list for PI Attenuator (SMD, ENCLOSURE) module
 
-##### Resistors:
+##### How to choose the value of resistors?:
 The resistor values are selected from the table based on the desired attenuation value in dB.  
-The number of each of the resistors (Rx, Ry, Rz) - **1 pcs. (0805 for SMA / 0603 for N-Type)**  
 [Data on the resistor values were taken from the LCSC website.](https://lcsc.com/products/Chip-Resistor-Surface-Mount_439.html)
 
 | Attenuation value | Rx value | Ry value | Rz value | Actual attenuation value |
@@ -58,11 +57,33 @@ The number of each of the resistors (Rx, Ry, Rz) - **1 pcs. (0805 for SMA / 0603
 | 49 dB             | 49R9     | 49R9     | 6k98     | 49.00 dB                 |
 | 50 dB             | 51R1     | 51R1     | 8k06     | 50.03 dB                 |
 
+## Main module:
+
+##### Resistors:
+The number of each of the resistors (Rx, Ry, Rz), 0805 - **1 pcs.**  
+
 ##### Connectors:
 - SMA Female (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0) /
-[Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **2 pcs. (SMA)**
+[Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **2 pcs.**
+
+## Main module (N-Type):
+
+##### Resistors:
+The number of each of the resistors (Rx, Ry, Rz), 0603 - **1 pcs.**  
+
+##### Connectors:
 - N-Type female, 50 Ohm, panel mount ( 
 [Digi-Key](https://www.digikey.bg/products/en?keywords=n%20type%20female)
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR10.TRC0.A0.H0.Xn+type+female.TRS0&_nkw=n+type+female&_sacat=0) /
-[Datasheet](./Datasheets/Connectors/N-Type-Connector-Datasheet.pdf) ) - **2 pcs. (N-Type)**
+[Datasheet](./Datasheets/Connectors/N-Type-Connector-Datasheet.pdf) ) - **2 pcs.**
+
+## Main module (SMA):
+
+##### Resistors:
+The number of each of the resistors (Rx, Ry, Rz), 0805 - **1 pcs.**  
+
+##### Connectors:
+- SMA Female (
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0) /
+[Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **2 pcs.**
