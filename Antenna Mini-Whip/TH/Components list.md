@@ -85,11 +85,6 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR4.TRC1.A0.H0.X1n5819.TRS2&_nkw=1n5819&_sacat=0) /
 [Datasheet](./Datasheets/Diodes/1N5817-1N5819-Diode-Datasheet.pdf) ) - **1 pcs.**
 
-##### Inductors:
-- 470uH (
-[LCSC](https://lcsc.com/search?q=470uh) /
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.X470uh.TRS0&_nkw=470uh&_sacat=0) ) - **1 pcs.**
-
 ##### Capacitors:
 - 220uF, 20V+, 6.3x12mm (
 [LCSC](https://lcsc.com/search?q=220uf%206.3x12mm) /
