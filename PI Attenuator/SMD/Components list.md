@@ -1,6 +1,6 @@
 # Components list for PI Attenuator (SMD, ENCLOSURE) module
 
-##### How to choose the value of resistors?:
+##### How to choose the value of resistors?
 The resistor values are selected from the table based on the desired attenuation value in dB.  
 [Data on the resistor values were taken from the LCSC website.](https://lcsc.com/products/Chip-Resistor-Surface-Mount_439.html)
 
