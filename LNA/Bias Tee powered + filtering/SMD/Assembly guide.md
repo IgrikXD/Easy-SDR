@@ -9,7 +9,7 @@ Also, it is strongly recommended that you **use an antistatic wrist strap and do
 
 ### Assembling sequence:
 
-**LNA, Bias Tee powered + filtering (SMD, ENCLOSURE): Main module** C1 -> D1 -> U2 -> U1.
+**LNA, Bias Tee powered + filtering (SMD, ENCLOSURE): Main module:** C1 -> D1 -> U2 -> U1.
 
 At this stage, it is necessary to prepare an aluminum enclosure with dimensions of 50 x 25 x 25 mm for installing the PCB of the finished amplifier. Disassemble the metal case, discard the side covers - they are no longer needed, in their place will be performed installation of coaxial N-Type connectors.
 
