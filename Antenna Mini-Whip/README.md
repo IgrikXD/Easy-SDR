@@ -38,7 +38,7 @@ Version **5.0.EE**: the RF line width has been recalculated using [Saturn PCB De
 ## What was used in the development?
 | Source | Description |
 | ------ | ------ |
-| [PA0RDT Mini-Whip] | The original circuit of the active receiving antenna was used. The PCBs for TH components on platforms EasyEDA and Sprint Layout was implemented. |
+| [PA0RDT Mini-Whip] | The original circuit of the active receiving antenna was used. The PCBs for TH components on platforms EasyEDA was implemented. |
 | [RA0SMS Mini-Whip] | The original circuit of the active receiving antenna was used. The PCBs for SMD components on platform EasyEDA was implemented. |
 | [Fundamentals of the MiniWhip antenna] | Description of the principles of operation of the antenna. A qualitative article with a detailed step-by-step description. |
 | [Grounding of MiniWhip and other active whip antennas] | Explanation of the need for a good grounding of the active receiving antenna. |
