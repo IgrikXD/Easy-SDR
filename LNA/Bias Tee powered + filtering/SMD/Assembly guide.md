@@ -32,6 +32,7 @@ Now you need to unscrew the bottom cover and solder the PCB on the other side. Y
 ![Bottom side soldering](../../Resources/LNA/Bias%20Tee%20powered/Bottom-side-soldering.png)  
 
 After soldering the bottom side of the PCB, unscrew the top cover and clean the PCB to remove any flux residues. 
+
 ![Cleaning the PCB](../../Resources/LNA/Bias%20Tee%20powered/Cleaning-the-PCB.png)  
 
 Screw back the top and bottom enclosure covers. Now your device is assembled and ready to go.
