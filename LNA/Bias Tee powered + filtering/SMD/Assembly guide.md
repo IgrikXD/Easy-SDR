@@ -19,7 +19,7 @@ Take the two N-Type coaxial connectors and screw them onto one of the body parts
 
 ![N-Type mounting](../../Resources/LNA/Bias%20Tee%20powered/N-Type-mounting.png)  
 
-The next step is to solder the PCB to the installed connectors in the aluminum enclosure. To do this, you can take advantage of small pieces of wire or paper that fit under the PCB and pushing it to the pins of the N-Type connectors. After the PCB is fixed and correctly placed, solder the necessary connections.  
+The next step is to solder the PCB to the installed connectors in the aluminum enclosure. To do this, you can take advantage of small pieces of paper that fit under the PCB and pushing it to the pins of the N-Type connectors. After the PCB is fixed and correctly placed, solder the necessary connections.  
 
 ![PCB mounting](../../Resources/LNA/Bias%20Tee%20powered/PCB-mounting.png)  
 
@@ -31,9 +31,12 @@ Now you need to unscrew the bottom cover and solder the PCB on the other side. Y
 
 ![Bottom side soldering](../../Resources/LNA/Bias%20Tee%20powered/Bottom-side-soldering.png)  
 
-After soldering the bottom side of the PCB, screw the bottom cover of the device back on. Now your device is assembled and ready to go.
+After soldering the bottom side of the PCB, unscrew the top cover and clean the PCB to remove any flux residues. 
+![Cleaning the PCB](../../Resources/LNA/Bias%20Tee%20powered/Cleaning-the-PCB.png)  
 
-![Ready-made device](../../Resources/LNA/Bias%20Tee%20powered/Enclosure-Ready-made-device.png)  
+Screw back the top and bottom enclosure covers. Now your device is assembled and ready to go.
+
+![Ready-made device](../../Resources/LNA/Bias%20Tee%20powered/Enclosure-Ready-made-device.png)
 
 ## Installation recommendations
 Since it is recommended that the LNA be located in close proximity to the receiving antenna, there is a possibility that you may encounter a problem when the LNA will be forced to work in conditions of high humidity (rain, snow). In this case, before installing the LNA, **it is recommended to perform a preliminary sealing of all connected parts between enclosure and N-Type connectors with silicone sealant**. This will prevent the ingress of water into the device and its failure.
