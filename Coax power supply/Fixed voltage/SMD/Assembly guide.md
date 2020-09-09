@@ -10,7 +10,7 @@ Also, it is strongly recommended that you **use an antistatic wrist strap and do
 ### Assembling sequence:
 
 **Coax power supply, fixed voltage (SMD, ENCLOSURE): Main module (TCBT-14+):** R1 -> F1 -> R3 -> C5 -> L1 -> U1 -> C1 -> C2 -> U2 -> C3 -> C4 -> R2 -> LED1.  
-**Coax power supply, fixed voltage (SMD, ENCLOSURE): Main module):** R1 -> F1 -> R3 -> C5 -> L1 -> U1 -> C1 -> C2 -> C(BT) -> L(BT) -> C3 -> C4 -> R2 -> LED1.  
+**Coax power supply, fixed voltage (SMD, ENCLOSURE): Main module:** R1 -> F1 -> R3 -> C5 -> L1 -> U1 -> C1 -> C2 -> C(BT) -> L(BT) -> C3 -> C4 -> R2 -> LED1.  
 
 Take a small piece of shrink tubing, with a diameter that allows you to put it on the outer side of the USB-B connector. Put the shrink tube on the USB-B connector and briefly heat the shrink tube to compress it to the outer side of the USB-B connector. **This solution allows you to isolate the external part of the USB-B connector and the USB cable braid from the GND polygon on the PCB.**  
 
