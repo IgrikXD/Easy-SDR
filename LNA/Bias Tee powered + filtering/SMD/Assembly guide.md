@@ -13,39 +13,39 @@ Also, it is strongly recommended that you **use an antistatic wrist strap and do
 
 At this stage, it is necessary to prepare an aluminum enclosure with dimensions of 50 x 25 x 25 mm for installing the PCB of the finished amplifier. Disassemble the metal case, discard the side covers - they are no longer needed, in their place will be performed installation of coaxial N-Type connectors.
 
-![Disassembled enclosure](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/Disassembled-enclosure.png)  
+![Disassembled enclosure](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/Disassembled-enclosure.jpg)  
 
 Take the two N-Type coaxial connectors and screw them onto one of the body parts using 2 screws on each side.
 
-![N-Type mounting](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/N-Type-mounting.png)  
+![N-Type mounting](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/N-Type-mounting.jpg)  
 
 The next step is to solder the PCB to the installed connectors in the aluminum enclosure. To do this, you can take advantage of small pieces of paper that fit under the PCB and pushing it to the pins of the N-Type connectors. 
 
-![PCB mounting](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/PCB-mounting.png)  
+![PCB mounting](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/PCB-mounting.jpg)  
 
 After the PCB is fixed and correctly placed, solder the central pins of N-Type connectors.
 
-![N-Type central pins soldering](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/N-Type-central-pins-soldering.png)
+![N-Type central pins soldering](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/N-Type-central-pins-soldering.jpg)
 
 Then solder the remaining pins of the N-Type connector. In this case, I recommend using a special flux for soldering aluminum and a sufficiently powerful soldering iron that can heat up a fairly massive metal part.
 
-![N-Type soldering](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/N-Type-soldering.png)
+![N-Type soldering](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/N-Type-soldering.jpg)
 
 After the PCB has been soldered to the pins of the N-Type coaxial connector, remove the piece of paper that was used to support the PCB and screw the top cover of the device.
 
-![Top cover mounting](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/Top-cover-mounting.png)  
+![Top cover mounting](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/Top-cover-mounting.jpg)  
 
 Now you need to solder the PCB on the other side. You do not need to worry that the PCB will fall out of the case - it is held by a soldered connection to the N-Type connectors, which in turn remain screwed to another part of the enclosure.
 
-![Bottom side soldering](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/Bottom-side-soldering.png)  
+![Bottom side soldering](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/Bottom-side-soldering.jpg)  
 
 After soldering the bottom side of the PCB, unscrew the top cover and clean the PCB to remove any flux residues. 
 
-![Cleaning the PCB](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/Cleaning-the-PCB.png)  
+![Cleaning the PCB](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/Cleaning-the-PCB.jpg)  
 
 Screw back the top and bottom enclosure covers. Now your device is assembled and ready to go.
 
-![Ready-made device](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/Enclosure-Ready-made-device.png)
+![Ready-made device](../../Resources/LNA/Bias%20Tee%20powered%20+%20filtering/Enclosure-Ready-made-device.jpg)
 
 ## Installation recommendations
 Since it is recommended that the LNA be located in close proximity to the receiving antenna, there is a possibility that you may encounter a problem when the LNA will be forced to work in conditions of high humidity (rain, snow). In this case, before installing the LNA, **it is recommended to perform a preliminary sealing of all connected parts between enclosure and N-Type connectors with silicone sealant**. This will prevent the ingress of water into the device and its failure.
