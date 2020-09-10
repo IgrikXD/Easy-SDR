@@ -31,7 +31,7 @@ Then solder the remaining pins of the N-Type connector. In this case, I recommen
 
 ![N-Type soldering](../../Resources/LNA/Bias%20Tee%20powered/N-Type-soldering.png)
 
-After the PCB has been soldered to the pins of the N-Type coaxial connector, remove the piece of paper or wire that was used to support the PCB and screw the top cover of the device.
+After the PCB has been soldered to the pins of the N-Type coaxial connector, remove the piece of paper that was used to support the PCB and screw the top cover of the device.
 
 ![Top cover mounting](../../Resources/LNA/Bias%20Tee%20powered/Top-cover-mounting.png)  
 
