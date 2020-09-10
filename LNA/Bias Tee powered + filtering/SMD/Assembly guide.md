@@ -19,15 +19,23 @@ Take the two N-Type coaxial connectors and screw them onto one of the body parts
 
 ![N-Type mounting](../../Resources/LNA/Bias%20Tee%20powered/N-Type-mounting.png)  
 
-The next step is to solder the PCB to the installed connectors in the aluminum enclosure. To do this, you can take advantage of small pieces of paper that fit under the PCB and pushing it to the pins of the N-Type connectors. After the PCB is fixed and correctly placed, solder the necessary connections.  
+The next step is to solder the PCB to the installed connectors in the aluminum enclosure. To do this, you can take advantage of small pieces of paper that fit under the PCB and pushing it to the pins of the N-Type connectors. 
 
 ![PCB mounting](../../Resources/LNA/Bias%20Tee%20powered/PCB-mounting.png)  
+
+After the PCB is fixed and correctly placed, solder the central pins of N-Type connectors.
+
+![N-Type central pins soldering](../../Resources/LNA/Bias%20Tee%20powered/N-Type-central-pins-soldering.png)
+
+Then solder the remaining pins of the N-Type connector. In this case, I recommend using a special flux for soldering aluminum and a sufficiently powerful soldering iron that can heat up a fairly massive metal part.
+
+![N-Type soldering](../../Resources/LNA/Bias%20Tee%20powered/N-Type-soldering.png)
 
 After the PCB has been soldered to the pins of the N-Type coaxial connector, remove the piece of paper or wire that was used to support the PCB and screw the top cover of the device.
 
 ![Top cover mounting](../../Resources/LNA/Bias%20Tee%20powered/Top-cover-mounting.png)  
 
-Now you need to unscrew the bottom cover and solder the PCB on the other side. You do not need to worry that the PCB will fall out of the case - it is held by a soldered connection to the N-Type connectors, which in turn remain screwed to another part of the enclosure.
+Now you need to solder the PCB on the other side. You do not need to worry that the PCB will fall out of the case - it is held by a soldered connection to the N-Type connectors, which in turn remain screwed to another part of the enclosure.
 
 ![Bottom side soldering](../../Resources/LNA/Bias%20Tee%20powered/Bottom-side-soldering.png)  
 
