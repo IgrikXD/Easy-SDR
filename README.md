@@ -1,6 +1,6 @@
 # The project implements some hardware devices for cheap SDR receivers based on Realtek RTL2832U controller 
 
-![Easy-SDR](https://github.com/IgrikXD/Easy-SDR/blob/master/Resources/Main-cover.png)
+![Easy-SDR](./Resources/Main-cover.png)
 
 ## What is SDR?
 [Software-defined radio (SDR)] is a radio communication system where components that have been traditionally implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer or embedded system.  
@@ -48,6 +48,8 @@ You can order the SDR receiver on any of the currently available internet sites,
 
 ## Who helped me with the development of the project?
 Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.COM V.3 and information support. [LCSC] company that provided most of the electronic components used for assembly for completely free. [Mini-Circuits] company for the providing samples of [ADE] frequency mixers, [PSA4-5043+] and [PGA-103+] amplifiers, and Bias Tees [TCBT-14+] by [EZ-Sample] program. And also [PCBWay] for $ 70 discount when ordering PCBs for the project.
+
+![Sponsors-logos](./Resources/Sponsors-logos.png)
 
 ## How to contact me?
 - E-mail: igor.nikolaevich.96@gmail.com
