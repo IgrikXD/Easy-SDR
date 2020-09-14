@@ -6,7 +6,7 @@ An easy and quick building of "SPDT Antenna switch" module based on [SMD compone
 [![Progress](https://img.shields.io/badge/SPDT%20Antenna%20switch%20(SMD,%20ENCLOSURE)-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/hf-upconverter-smd-enclosure) [![Progress](https://img.shields.io/badge/version-1.0.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
-- [SPDT Antenna switch (SMD, ENCLOSURE)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
+- [SPDT Antenna switch (SMD, ENCLOSURE)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md), [Enclosure model files](./SMD/Enclosure%20model%20files))
 
 ## How does it work?
 This device works on the principle of simple switching the desired antenna input (RF IN 1 / RF IN 2) and connecting it to the device output (RF OUT). This works in much the same way as if you had two independent antennas and alternately connected them to your SDR receiver as needed, disconnected one of them and connected the other. Only in the case of using this module, such switching will be carried out by means of a special chip - SPDT switch AS169-73LF. 
