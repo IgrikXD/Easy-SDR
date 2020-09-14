@@ -43,7 +43,7 @@ Example of PCBs from PCBWay service:
 ![PCBs](../Resources/PCBWay%20order/PCBWay-18-PCB-10.jpg)  
 ![PCBs](../Resources/PCBWay%20order/PCBWay-19-PCB-11.jpg)  
 
-PCBs of high enough quality, I currently have no claims on workmanship. Earlier, about a year ago, I encountered a problem with the poor quality of the solder mask in PCBWay boards (peeling during heating), but now no problems have been found.  
+PCBs of high enough quality, I currently have no claims on workmanship. Earlier, about a two year ago, I encountered a problem with the poor quality of the solder mask in PCBWay boards (peeling during heating), but now no problems have been found. PCBWay very often provides good discounts and supports the Open Source / Open Hardware community, which is why I decided to use PCBWay services as the main supplier of printed circuit boards for my project. 
 
 Other articles:  
 [How to export Gerber file from EasyEDA](./How%20to%20export%20Gerber%20file%20from%20EasyEDA.md)  
