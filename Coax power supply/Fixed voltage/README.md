@@ -6,7 +6,7 @@ An easy and quick building of "Coax power supply, fixed voltage" module based on
 [![Progress](https://img.shields.io/badge/Coax%20power%20supply,%20fixed%20voltage%20(SMD,%20ENCLOSURE)-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/coax-power-supply-smd-enclosure) [![Progress](https://img.shields.io/badge/version-1.0.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
-- [Coax power supply, fixed voltage (SMD, ENCLOSURE)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
+- [Coax power supply, fixed voltage (SMD, ENCLOSURE)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md), [Enclosure model files](./SMD/Enclosure%20model%20files))
 
 ## How does it work?
 Coax power supply module is built on the principle of using Bias Tee. Bias Tees are the components, that are used to supply DC currents or voltages to bias RF circuits. Bias tee is a three-port device. A signal that consists of RF + DC is incident at port 1 of the Bias Tee. The capacitor blocks all DC signals from getting through to port 2 and only allows the RF signals to pass through. Whereas, the inductor in the circuit blocks all RF signals from getting through to Port 3 and allows all DC signals to get through.
