@@ -31,17 +31,16 @@ To view the production status, click the "Production Tracking" button for the sp
 ## Soldering-ready PCBs
 
 Example of PCBs from PCBWay service:  
-![PCBs](../Resources/PCBWay%20order/PCBWay-9-PCB-1.jpg)  
-![PCBs](../Resources/PCBWay%20order/PCBWay-10-PCB-2.jpg)  
-![PCBs](../Resources/PCBWay%20order/PCBWay-11-PCB-3.jpg)  
-![PCBs](../Resources/PCBWay%20order/PCBWay-12-PCB-4.jpg)  
-![PCBs](../Resources/PCBWay%20order/PCBWay-13-PCB-5.jpg)  
-![PCBs](../Resources/PCBWay%20order/PCBWay-14-PCB-6.jpg)  
-![PCBs](../Resources/PCBWay%20order/PCBWay-15-PCB-7.jpg)  
-![PCBs](../Resources/PCBWay%20order/PCBWay-16-PCB-8.jpg)  
-![PCBs](../Resources/PCBWay%20order/PCBWay-17-PCB-9.jpg)  
-![PCBs](../Resources/PCBWay%20order/PCBWay-18-PCB-10.jpg)  
-![PCBs](../Resources/PCBWay%20order/PCBWay-19-PCB-11.jpg)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-9-PCB-HF-Upconverter.jpg)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-10-PCB-Coax-power-supply.jpg)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-11-PCB-SPDT-Antenna-switch.jpg)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-12-PCB-LNA-Bias-Tee-powered-1.jpg)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-13-PCB-LNA-Bias-Tee-powered-2.jpg)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-14-PCB-LNA-Bias-Tee-powered+filtering-1.jpg)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-15-PCB-LNA-Bias-Tee-powered+filtering-2.jpg)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-16-PCB-HF-Upconverter-ready-made.jpg)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-17-PCB-SPDT-Antenna-switch-ready-made-1.jpg)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-18-PCB-SPDT-Antenna-switch-ready-made-2.jpg)  
 
 PCBs of high enough quality, I currently have no claims on workmanship. Earlier, about a two year ago, I encountered a problem with the poor quality of the solder mask in PCBWay boards (peeling during heating), but now no problems have been found. PCBWay very often provides good discounts and supports the Open Source / Open Hardware community, which is why I decided to use PCBWay services as the main supplier of printed circuit boards for my project. 
 
