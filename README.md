@@ -18,7 +18,7 @@ This project is about creation of affordable and easy-to-manufacture prototypes 
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./HF%20Upconverter/README.md) [HF Upconverter (SMD, ENCLOSURE)]   
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./LNA/Bias%20Tee%20powered/README.md) [LNA, Bias Tee powered (SMD, ENCLOSURE)]  
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./LNA/Bias%20Tee%20powered%20+%20filtering/README.md) [LNA, Bias Tee powered + filtering (SMD, ENCLOSURE)]  
-[![README](https://img.shields.io/badge/README-Click%20me!-green)](./PI%20Attenuator/README.md) [PI Attenuator (SMD, ENCLOSURE)]  
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./PI%20Attenuator/README.md) [PI Attenuator (SMD)]  
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./SPDT%20Antenna%20switch/README.md) [SPDT Antenna switch (SMD, ENCLOSURE)]   
 
 ### Deprecated implementations of modules on the EasyEDA platform (will be reworked or removed):
@@ -79,7 +79,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [HF Upconverter (TH)]: <https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8>
 [HF Upconverter (SMD)]: <https://easyeda.com/IgrikXD/HF_Upconverter_SMD-3cfb364d4cd2413abd3e60c4312f322d>
 [LNA (SMD)]: <https://easyeda.com/IgrikXD/LNA-SMD>
-[PI Attenuator (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/PI-Attenuator-SMD>
+[PI Attenuator (SMD)]: <https://easyeda.com/IgrikXD/PI-Attenuator-SMD>
 [How to export Gerber file from EasyEDA]: <./Useful%20info/How%20to%20export%20Gerber%20file%20from%20EasyEDA.md>
 [How to order from JLCPCB]: <./Useful%20info/How%20to%20order%20from%20JLCPCB.md>
 [How to order from LCSC]: <./Useful%20info/How%20to%20order%20from%20LCSC.md>
