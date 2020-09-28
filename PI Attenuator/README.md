@@ -1,12 +1,12 @@
 # PI Attenuator
 
-An easy and quick building of "PI Attenuator" module based on [SMD components](./SMD/EasyEDA) for weakening too strong signals during receiving process. The module includes a [schematic](./SMD/Schematics) and [PCB](./SMD/Gerbers) prepared for setting up into aluminum enclosure with dimensions 50 x 25 x 25 mm with SMA or N-Type connectors. Based on the submitted files, you can order PCB manufacturing at the factory ([PCBWay], [JLCPCB]). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the "PI Attenuator" module is cheaper than buying a ready-made device.
+An easy and quick building of "PI Attenuator" module based on [SMD components](./SMD/EasyEDA) for weakening too strong signals during receiving process. The module includes a [schematic](./SMD/Schematics) and [PCB](./SMD/Gerbers) with SMA connectors. Based on the submitted files, you can order PCB manufacturing at the factory ([PCBWay], [JLCPCB]). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the "PI Attenuator" module is cheaper than buying a ready-made device.
 
 ## Current development progress:
-[![Progress](https://img.shields.io/badge/PI%20Attenuator%20%28SMD,%20ENCLOSURE%29-tested-green.svg)](https://easyeda.com/IgrikXD/PI-Attenuator-SMD) [![Progress](https://img.shields.io/badge/version-3.0.EE-blue.svg)](./SMD/EasyEDA)  
+[![Progress](https://img.shields.io/badge/PI%20Attenuator%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/PI-Attenuator-SMD) [![Progress](https://img.shields.io/badge/version-4.0.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
-- [PI Attenuator (SMD, ENCLOSURE)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
+- [PI Attenuator (SMD)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md))
 
 ## How does it work?
 An attenuator is an electronic device that reduces the power of a signal without appreciably distorting its waveform.
@@ -18,17 +18,16 @@ An example of using an attenuator can be the situation when in the immediate vic
 
 ## Basic characteristics of the PI Attenuator module:
 
-- **Maximum power dissipation:** 300 mW / 24.77 dBm (for SMD 0805)
+- **Maximum power dissipation:** 300 mW / 24.77 dBm
 - **Attenuation range:** 1 - 50 dB (see list of parameters in schematic file)
-- **RF connector:** SMA / N-Type
+- **RF connector:** SMA
 - **Feed line:** 50 Ohm coaxial cable
 - **Used PCB Material:** FR-4
 - **PCB thickness:** 1.6 mm
 - **PCB copper weight:** 1 oz
 
-**Not intended for use in the transmission path.**  
-
 ## List of changes:
+Version **4.0.EE**: removed old versions of PCBs due to the bulkiness of the end device in the case of their use. In this case, it would be much more optimal to use ready-made SMA attenuators.  
 Version **3.0.EE**: added versions of PCBs with the possibility of installation in an aluminum enclosure with dimensions of 50 x 25 x 25 mm.  
 Version **2.0.EE**: the RF line width has been recalculated using [Saturn PCB Design V7.08](http://www.saturnpcb.com/pcb_toolkit/). At the moment, the resistance of the RF line is close to 50 Ohms.
 
@@ -41,7 +40,7 @@ Version **2.0.EE**: the RF line width has been recalculated using [Saturn PCB De
 
 [PCBWay]: <https://www.pcbway.com/>
 [JLCPCB]: <https://jlcpcb.com/>
-[PI Attenuator (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/PI-Attenuator-SMD>
+[PI Attenuator (SMD)]: <https://easyeda.com/IgrikXD/PI-Attenuator-SMD>
 [Attenuator]: <https://en.wikipedia.org/wiki/Attenuator_(electronics)>
 [Аттенюатор]: <https://ru.wikipedia.org/wiki/%D0%90%D1%82%D1%82%D0%B5%D0%BD%D1%8E%D0%B0%D1%82%D0%BE%D1%80>
 [PI Attenuator Calculator]: <http://www.leleivre.com/rf_pipad.html>
