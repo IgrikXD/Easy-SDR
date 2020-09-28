@@ -3,7 +3,7 @@
 An easy and quick building of "HF Upconverter" module based on [SMD components](./SMD/EasyEDA) and used for working with [LF], [MF] and [HF] bands on SDR receivers. The module includes a [schematic](./SMD/Schematics) and [PCB](./SMD/Gerbers) prepared for setting up into aluminum enclosure with dimensions 80 x 50 x 20 mm with SMA connectors. Based on the submitted files, you can order PCB manufacturing at the factory ([PCBWay], [JLCPCB]). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the "HF Upconverter" module is cheaper than buying a ready-made device.
 
 ## Current development progress:
-[![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28SMD,%20ENCLOSURE%29-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/hf-upconverter-smd-enclosure) [![Progress](https://img.shields.io/badge/version-1.0.EE-blue.svg)](./SMD/EasyEDA)  
+[![Progress](https://img.shields.io/badge/HF%20Upconverter%20%28SMD,%20ENCLOSURE%29-tested-green.svg)](https://easyeda.com/IgrikXD/hf-upconverter-smd-enclosure) [![Progress](https://img.shields.io/badge/version-1.0.EE-blue.svg)](./SMD/EasyEDA)  
 
 ## Current available implementations at EasyEDA platform:
 - [HF Upconverter (SMD, ENCLOSURE)] ([Components list](./SMD/Components%20list.md), [Assembly guide](./SMD/Assembly%20guide.md), [Filters design files](./SMD/Filters%20design%20files), [Enclosure model files](./SMD/Enclosure%20model%20files))
