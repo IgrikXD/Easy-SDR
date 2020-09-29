@@ -19,7 +19,7 @@ An example of using an attenuator can be the situation when in the immediate vic
 ## Basic characteristics of the PI Attenuator module:
 
 - **Maximum power dissipation:** 300 mW / 24.77 dBm
-- **Attenuation range:** 1 - 50 dB (see list of parameters in schematic file)
+- **Attenuation range:** 1 - 50 dB (see list of parameters in schematic file or [Components list](./SMD/Components%20list.md))
 - **RF connector:** SMA
 - **Feed line:** 50 Ohm coaxial cable
 - **Used PCB Material:** FR-4
