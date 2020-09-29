@@ -1,6 +1,6 @@
 # Antenna Mini-Whip
 
-An easy and quick building of active PA0RDT Mini-Whip receiving antenna ([TH component group](./TH/EasyEDA)) or RA0SMS Mini-Whip receiving antenna ([SMD component group](./SMD/EasyEDA)). The module includes a schematic ([SMD](./SMD/Schematics), [TH](./TH/Schematics)) and PCB files ([SMD](./SMD/Gerbers), [TH](./TH/Gerbers)). Based on the submitted files, you can order PCB manufacturing at the factory ([PCBWay], [JLCPCB]). The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the Mini-Whip antenna is cheaper than buying a ready-made device.
+An easy and quick building of active PA0RDT Mini-Whip receiving antenna (based on [TH components](./TH/EasyEDA)) or RA0SMS Mini-Whip receiving antenna (based on [SMD components](./SMD/EasyEDA)). The module includes a schematic ([SMD](./SMD/Schematics), [TH](./TH/Schematics)) and PCB GERBER files ([SMD](./SMD/Gerbers), [TH](./TH/Gerbers)). Based on the submitted files, you can order PCB manufacturing at the factory ([PCBWay], [JLCPCB]). The antenna consists of the antenna itself and power feed unit (PFU). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the Mini-Whip antenna is cheaper than buying a ready-made device.
 
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/Antenna%20Mini--Whip%20%28TH%29-tested-green.svg)](https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65) [![Progress](https://img.shields.io/badge/version-7.0.EE-blue.svg)](./TH/EasyEDA)  
@@ -19,6 +19,7 @@ Note that the **Mini-Whip broadband active receiving antenna may not provide suf
 
 ## Basic characteristics of the antenna:
 
+- **Not intended for use in the transmission path**
 - **Frequency range:** 10 kHz - 30 MHz
 - **Power:** DC 5 - 13 V, 100 mA
 - **RF connector:** SMA
