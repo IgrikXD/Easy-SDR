@@ -1,8 +1,7 @@
 # Components list for PI Attenuator (SMD) module
 
-##### Resistors:
+##### How to choose the value of resistors?
 The resistor values are selected from the table based on the desired attenuation value in dB.  
-The number of each of the resistors (Rx, Ry, Rz) - **1 pcs.**  
 [Data on the resistor values were taken from the LCSC website.](https://lcsc.com/products/Chip-Resistor-Surface-Mount_439.html)
 
 | Attenuation value | Rx value | Ry value | Rz value | Actual attenuation value |
@@ -58,13 +57,10 @@ The number of each of the resistors (Rx, Ry, Rz) - **1 pcs.**
 | 49 dB             | 49R9     | 49R9     | 6k98     | 49.00 dB                 |
 | 50 dB             | 51R1     | 51R1     | 8k06     | 50.03 dB                 |
 
+##### Resistors:
+The number of each of the resistors (Rx, Ry, Rz), 0805 - **1 pcs.**  
+
 ##### Connectors:
 - SMA Female (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **2 pcs.**
-- SMA Male (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.Xsma+male.TRS5&_nkw=sma+male&_sacat=0) ) - **2 pcs.**
-
-##### Coaxial cable:
-- RG-58 (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC2.A0.H0.Xrg58.TRS1&_nkw=rg58&_sacat=0) ) - **0.2 meter.** Or some other coaxial cable with wave impedance - 50 Ohm. You can choose any other convenient length.

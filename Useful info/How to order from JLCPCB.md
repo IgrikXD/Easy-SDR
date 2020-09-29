@@ -58,7 +58,8 @@ After the end of the production, your order will be packed and sent to you. The 
 Other articles:  
 [How to export Gerber file from EasyEDA](./How%20to%20export%20Gerber%20file%20from%20EasyEDA.md)  
 [How to order from LCSC](./How%20to%20order%20from%20LCSC.md)  
-[How to work with SDR receivers on Linux](./How%20to%20work%20with%20SDR%20receivers%20on%20Linux.md)
+[How to order from PCBWay](./How%20to%20order%20from%20PCBWay.md)  
+[How to work with RTL-SDR receivers on Linux](./How%20to%20work%20with%20RTL-SDR%20receivers%20on%20Linux.md)
 
 
 [JLCPCB]: <https://jlcpcb.com/>
