@@ -53,7 +53,7 @@ Screw the top cover of the aluminum enclosure. Now the device is ready to work.
 ![Ready-made device](../../Resources/HF%20Upconverter/Enclosure-Ready-made-device.jpg)  
 
 ## Installation recommendations
-If you use HF Upconverter, you will lose the ability to use software selectable Bias Tee (if this is offered by your SDR receiver). Therefore, if you use an active antenna (for example, [Mini-Whip](https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754)) or [Bias Tee powered LNA](https://easyeda.com/IgrikXD/bias-tee-lna-smd-enclosure), you will definitely need to use a separate Power Feed Unit that is connected between the antenna and the converter.
+If you use HF Upconverter, you will lose the ability to use software selectable Bias Tee (if this is offered by your SDR receiver). Therefore, **if you use an active antenna (for example, [Mini-Whip](https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754)) or [Bias Tee powered LNA](https://easyeda.com/IgrikXD/bias-tee-lna-smd-enclosure), you will definitely need to use a separate Power Feed Unit that is connected between the antenna and the converter.**
 
 Also, because of using of a 125 MHz value crystal oscillator, the frequency will be shifted to 125 MHz up (the frequency shift of our received radio station will look like this: 4.625 MHz + 125 MHz = 129.625 MHz). For convenience, you will need to set the value of the backward bias of -125 MHz in the receiving program (Gqrx, SDRSharp, etc.), but this action is not mandatory.
 
