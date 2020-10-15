@@ -69,6 +69,12 @@ Detailed data on the characteristics of PGA-103+ at different frequencies: [Typi
 | [Mini-Circuits PSA4-5043+] | Used technical documentation on the recommended PCB layout and the recommended use of components. |
 | [Mini-Circuits PGA-103+] | Used technical documentation on the recommended PCB layout and the recommended use of components. |
 
+## Similar projects:
+| Project | Description |
+| ------ | ------ |
+| [LNA for ABS-B] | RF amplifier and / or filter design in metal case with N-Type connectors to work with ADS-B. The amplifier is built on the basis of a ready-made PSA4-5043 microcircuit, and a TA1090EC filter. The author assembles and pre-tests the finished device before publishing. |
+| [LNA for RF receiver] | RF amplifier and / or filter design in metal case with N-Type connectors with Bias Tee powering supply or built-in LM1117 voltage regulator. The amplifiers are based on the off-the-shelf PSA4-5043 / PMA3-83LNW microcircuits, and have a huge variation of the applied filters. The author assembles and pre-tests the finished device before publishing. |
+
 ## Who helped improve this project?
 - [eismeer89](eismeer89@gmail.com) - Proposal to use a metal enclosure in the end device and replace SMA connectors with N-Type. Consultation on technical aspects of the implementation of amplifiers and RF transmission lines.
 
@@ -81,3 +87,5 @@ Detailed data on the characteristics of PGA-103+ at different frequencies: [Typi
 [Mini-Circuits PSA4-5043 preamp EDN]: <https://www.edn.com/electronics-blogs/emc-emi-rfi-esd/4397653/Mini-Circuits-PSA4-5043-preamp>
 [Mini-Circuits PSA4-5043+]: <https://www.minicircuits.com/WebStore/dashboard.html?model=PSA4-5043%2B>
 [Mini-Circuits PGA-103+]: <https://www.minicircuits.com/WebStore/dashboard.html?model=PGA-103%2B>
+[LNA for ABS-B]: <https://easyeda.com/Eismeer/lna-for-rf-receiver_copy_copy>
+[LNA for RF receiver]: <https://easyeda.com/Eismeer/lna-for-rf-receiver>
