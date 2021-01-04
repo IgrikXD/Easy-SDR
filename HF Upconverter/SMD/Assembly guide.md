@@ -11,7 +11,7 @@ Also, it is strongly recommended that you **use an antistatic wrist strap and do
 
 **HF Upconverter (SMD, ENCLOSURE): Main module:** R1 -> F1 -> R8 -> C27 -> L1 -> R2 -> LED1 -> U1 -> U2 -> C2 -> C1 -> C3 -> C5 -> C4 -> U3 -> R3 (required if the OE or ST function is used by a crystal oscillator) -> C6 -> C7 -> U4 -> R4 -> R5 -> C9 -> L3 -> R6 -> R7 -> C8 -> L2 -> C10 -> C11 -> D1 -> L4 -> C13 -> C15 -> L5 -> C12 -> C14 -> C16 -> L6 -> C17 -> C18 -> C20 -> L8 -> C26 -> C19 -> L7 -> C23 -> L11 -> L10 -> C22 -> C24 -> L12 -> C21 -> L9 -> C25 -> L13 -> MX1.  
 
-> **Optional** 
+> **Optional**  
 > Take a small piece of shrink tubing, with a diameter that allows you to put it on the outer side of the USB-B connector. Put the shrink tube on the USB-B connector and briefly heat the shrink tube to compress it to the outer side of the USB-B connector. **This solution allows you to isolate the external part of the USB-B connector and the USB cable braid from the GND polygon on the PCB.**  
 
 **Soldering sequence:** USB1 -> SMA con.   
