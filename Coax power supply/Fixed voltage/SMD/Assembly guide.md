@@ -12,7 +12,7 @@ Also, it is strongly recommended that you **use an antistatic wrist strap and do
 **Coax power supply, fixed voltage (SMD, ENCLOSURE): Main module (TCBT-14+):** R1 -> F1 -> R3 -> C5 -> L1 -> U1 -> C1 -> C2 -> U2 -> C3 -> C4 -> R2 -> LED1.  
 **Coax power supply, fixed voltage (SMD, ENCLOSURE): Main module:** R1 -> F1 -> R3 -> C5 -> L1 -> U1 -> C1 -> C2 -> C(BT) -> L(BT) -> C3 -> C4 -> R2 -> LED1.  
 
-> Optional   
+> **Optional**   
 > Take a small piece of shrink tubing, with a diameter that allows you to put it on the outer side of the USB-B connector. Put the shrink tube on the USB-B connector and briefly heat the shrink tube to compress it to the outer side of the USB-B connector. **This solution allows you to isolate the external part of the USB-B connector and the USB cable braid from the GND polygon on the PCB.**  
 
 **Soldering sequence:** USB1 -> SMA con.  
@@ -34,7 +34,7 @@ Unscrew the side covers of the case, remove the PCB and use a drill to mill the 
 
 ![Milled hole for toggle switch](../../../Resources/Coax%20power%20supply/Fixed%20voltage/Enclosure-Milled-hole-for-toggle-switch.jpg) 
 
-> Optional  
+> **Optional**  
 > The next step, again take a small piece of shrink tube, the diameter of which allows you to put it on the outer, round part of the toggle switch SW1. Heat the shrink tube to compress it to the outer, round part of the switch SW1. **This solution allow isolate SW1 toggle switch from the aluminum enclosure of the device.**   
 
 Insert the PCB back into the chassis, screw the side covers aluminum enclosure, tighten the nuts on the SMA connector, this will allow you to align and fix the PCB inside the case. After the above operations, solder the SW1 toggle switch after installing it in mounting place on PCB.  
