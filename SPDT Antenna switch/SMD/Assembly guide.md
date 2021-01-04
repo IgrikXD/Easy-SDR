@@ -33,7 +33,7 @@ Unscrew the side covers of the case, remove the PCB and use a drill to mill the 
 
 ![Milled hole for toggle switch](../../Resources/SPDT%20Antenna%20switch/Enclosure-Milled-hole-for-toggle-switch.jpg) 
 
-> **Optional** 
+> **Optional**  
 > The next step, again take a small piece of shrink tube, the diameter of which allows you to put it on the outer, round part of the toggle switch SW1 and SW2. Heat the shrink tube to compress it to the outer, round part of the switches. **This solution allow isolate toggle switches from the aluminum enclosure of the device.**   
 
 Insert the PCB back into the chassis, screw the side covers aluminum enclosure, tighten the nuts on the SMA connector, this will allow you to align and fix the PCB inside the case. After the above operations, solder the SW1 and SW2 toggle switches after installing it in mounting place on PCB.  
