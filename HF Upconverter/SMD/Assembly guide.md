@@ -11,11 +11,10 @@ Also, it is strongly recommended that you **use an antistatic wrist strap and do
 
 **HF Upconverter (SMD, ENCLOSURE): Main module:** R1 -> F1 -> R8 -> C27 -> L1 -> R2 -> LED1 -> U1 -> U2 -> C2 -> C1 -> C3 -> C5 -> C4 -> U3 -> R3 (required if the OE or ST function is used by a crystal oscillator) -> C6 -> C7 -> U4 -> R4 -> R5 -> C9 -> L3 -> R6 -> R7 -> C8 -> L2 -> C10 -> C11 -> D1 -> L4 -> C13 -> C15 -> L5 -> C12 -> C14 -> C16 -> L6 -> C17 -> C18 -> C20 -> L8 -> C26 -> C19 -> L7 -> C23 -> L11 -> L10 -> C22 -> C24 -> L12 -> C21 -> L9 -> C25 -> L13 -> MX1.  
 
-Take a small piece of shrink tubing, with a diameter that allows you to put it on the outer side of the USB-B connector. Put the shrink tube on the USB-B connector and briefly heat the shrink tube to compress it to the outer side of the USB-B connector. **This solution allows you to isolate the external part of the USB-B connector and the USB cable braid from the GND polygon on the PCB.**  
+> **Optional** 
+> Take a small piece of shrink tubing, with a diameter that allows you to put it on the outer side of the USB-B connector. Put the shrink tube on the USB-B connector and briefly heat the shrink tube to compress it to the outer side of the USB-B connector. **This solution allows you to isolate the external part of the USB-B connector and the USB cable braid from the GND polygon on the PCB.**  
 
-**Soldering sequence:** USB1 -> SMA con.  
-
-![USB-B heat shrink tube](../../Resources/HF%20Upconverter/Enclosure-USB-B-heat-shrink.jpg)  
+**Soldering sequence:** USB1 -> SMA con.   
 
 The next step is to prepare an aluminum enclosure, with dimensions of 80 x 50 x 20mm, for setting up PCB inside. Cut holes in the side covers of the case so that the USB-B and SMA connectors pass through them freely.
 > I do not give specific recommendations for preparing a metal case for a finished device, since there are many ways to manufacture it, both at home and using industrial equipment (laser cutting, CNC milling machine). I will only provide [AutoCAD](./Enclosure%20model%20files/) drawings for the manufacture of side covers in any way convenient for you. For self-production of cases, I use a drill with metal cutters and the necessary drills. I carry out the transfer of the drawing from AutoCAD to the covers of the metal case 80 x 50 x 20 mm, after which I perform the necessary processing using a drill and file files.
@@ -34,9 +33,8 @@ Unscrew the side covers of the case, remove the PCB and use a drill to mill the 
 
 ![Milled hole for toggle switch](../../Resources/HF%20Upconverter/Enclosure-Milled-hole-for-toggle-switch.jpg) 
 
-The next step, again take a small piece of shrink tube, the diameter of which allows you to put it on the outer, round part of the toggle switch SW1. Heat the shrink tube to compress it to the outer, round part of the switch SW1. **This solution allow isolate SW1 toggle switch from the aluminum enclosure of the device.**  
-
-![Toggle switch heat shrink tube](../../Resources/HF%20Upconverter/Enclosure-Toggle-switch-heat-shrink.jpg)  
+> **Optional**  
+> The next step, again take a small piece of shrink tube, the diameter of which allows you to put it on the outer, round part of the toggle switch SW1. Heat the shrink tube to compress it to the outer, round part of the switch SW1. **This solution allow isolate SW1 toggle switch from the aluminum enclosure of the device.**  
 
 Insert the PCB back into the chassis, screw the side covers aluminum enclosure, tighten the nuts on the SMA connector, this will allow you to align and fix the PCB inside the case. After the above operations, solder the SW1 toggle switch after installing it in mounting place on PCB.  
 
