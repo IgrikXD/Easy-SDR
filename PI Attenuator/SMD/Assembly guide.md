@@ -13,4 +13,6 @@ Soldering order of components:
 ## Installation recommendations
 Connect the attenuator between the antenna and the SDR receiver. Or, in the case of using an upconverter - between the antenna and the upconverter, this solution will also avoid overloading the upconverter's input.
 
+If desired, the finished device can be packed in shrink wrap. This will protect the device from moisture and dust.
+
 If you use PI Attenuator, you will lose the ability to use software selectable Bias Tee (if this is offered by your SDR receiver). Therefore, **if you use an active antenna (for example, [Mini-Whip](https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754)) or [Bias Tee powered LNA](https://easyeda.com/IgrikXD/bias-tee-lna-smd-enclosure), you will definitely need to use a separate Power Feed Unit that is connected between the antenna and the attenuator.**
