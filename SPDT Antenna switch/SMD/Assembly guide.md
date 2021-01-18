@@ -44,7 +44,7 @@ Insert the PCB back into the chassis, screw the side covers aluminum enclosure, 
 
 After soldering clean the PCB to remove any flux residues.
 
-![Cleaning the PCB](../../Resources/HF%20Upconverter/Cleaning-the-PCB.jpg)
+![Cleaning the PCB](../../Resources/SPDT%20Antenna%20switch/Cleaning-the-PCB.jpg)
 
 Screw the top cover of the aluminum enclosure. Now the device is ready to work.
 
