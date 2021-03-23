@@ -1,6 +1,6 @@
 # PI Attenuator
 
-An easy and quick building of "PI Attenuator" module based on [SMD components](./SMD/EasyEDA) for weakening too strong signals during receiving process. The module includes a [schematic](./SMD/Schematics) and [PCB GERBER files](./SMD/Gerbers) with SMA connectors. Based on the submitted files, you can order PCB manufacturing at the factory ([PCBWay], [JLCPCB]). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the "PI Attenuator" module is cheaper than buying a ready-made device.
+An easy and quick building of "PI Attenuator" module based on [SMD components](./SMD/EasyEDA) for weakening too strong signals during receiving/transmitting process. The module includes a [schematic](./SMD/Schematics) and [PCB GERBER files](./SMD/Gerbers) with SMA connectors. Based on the submitted files, you can order PCB manufacturing at the factory ([PCBWay], [JLCPCB]). In turn, I developed PCB for the independently manufacturing based on the existing circuit. As a result, the self-made manufacture of the "PI Attenuator" module is cheaper than buying a ready-made device.
 
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/PI%20Attenuator%20%28SMD%29-tested-green.svg)](https://easyeda.com/IgrikXD/PI-Attenuator-SMD) [![Progress](https://img.shields.io/badge/version-4.0.EE-blue.svg)](./SMD/EasyEDA)  
