@@ -13,7 +13,8 @@ This project is about creation of affordable and easy-to-manufacture prototypes 
 
 ## Currently available modules at EasyEDA platform:
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (TH)]  
-[![README](https://img.shields.io/badge/README-Click%20me!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (SMD)]   
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (SMD)]  
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./Balun/README.md) [Balun (SMD, ENCLOSURE)]   
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./Coax%20power%20supply/Fixed%20voltage/README.md) [Coax power supply, fixed voltage (SMD, ENCLOSURE)]  
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./HF%20Upconverter/README.md) [HF Upconverter (SMD, ENCLOSURE)]   
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./LNA/Bias%20Tee%20powered/README.md) [LNA, Bias Tee powered (SMD, ENCLOSURE)]  
@@ -71,6 +72,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [EZ-Sample]: <https://www.minicircuits.com/WebStore/ez_sample.html>
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
 [Antenna Mini-Whip (SMD)]: <https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754>
+[Balun (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/bias-tee-lna-smd-enclosure_copy_copy>
 [Coax power supply, fixed voltage (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/coax-power-supply-smd-enclosure>
 [HF Upconverter (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/hf-upconverter-smd-enclosure>
 [LNA, Bias Tee powered (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/bias-tee-lna-smd-enclosure>
