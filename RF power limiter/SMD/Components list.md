@@ -14,7 +14,7 @@ RLM-751-2WL+, TT1224 (
 
 ##### Connectors:
 - SMA Female (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=RLM-751-2WL%2B&_sacat=0) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=sma+female+edge&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/SMA-Connector-Datasheet.pdf) ) - **2 pcs.**
 
 ##### Aluminium enclosures:
