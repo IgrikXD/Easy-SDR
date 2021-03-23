@@ -19,6 +19,7 @@ This project is about creation of affordable and easy-to-manufacture prototypes 
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./LNA/Bias%20Tee%20powered/README.md) [LNA, Bias Tee powered (SMD, ENCLOSURE)]  
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./LNA/Bias%20Tee%20powered%20+%20filtering/README.md) [LNA, Bias Tee powered + filtering (SMD, ENCLOSURE)]  
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./PI%20Attenuator/README.md) [PI Attenuator (SMD)]  
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./RF%20power%20limiter/README.md) [RF power limiter (SMD, ENCLOSURE)]  
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./SPDT%20Antenna%20switch/README.md) [SPDT Antenna switch (SMD, ENCLOSURE)]   
 
 ### Deprecated implementations of modules on the EasyEDA platform (will be reworked or removed):
@@ -74,6 +75,7 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 [HF Upconverter (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/hf-upconverter-smd-enclosure>
 [LNA, Bias Tee powered (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/bias-tee-lna-smd-enclosure>
 [LNA, Bias Tee powered + filtering (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/bias-tee-filtering-lna-smd-enclosure>
+[RF power limiter (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/bias-tee-lna-smd-enclosure_copy>
 [SPDT Antenna switch (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/spdt-antenna-switch-smd-enclosure>
 [HF Antenna power supply (SMD)]: <https://easyeda.com/IgrikXD/Antenna-power-supply-SMD>
 [HF Upconverter (TH)]: <https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8>
