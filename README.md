@@ -6,7 +6,7 @@
 [Software-defined radio (SDR)] is a radio communication system where components that have been traditionally implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer or embedded system.  
 
 ## What are the objectives of this project?
-This project is about creation of affordable and easy-to-manufacture prototypes of PCBs which are used to expand the capabilities of existing low-cost SDR receivers based on [RTL2832U](https://www.realtek.com/en/products/communications-network-ics/item/rtl2832u) chip. All the created elements of the project will have a detailed description of the assembly process, with all the existing features and possible problems.
+This project is about creation of affordable and easy-to-manufacture prototypes of PCBs which are used to expand the capabilities of existing low-cost SDR receivers based on [RTL2832U](https://www.realtek.com/en/products/communications-network-ics/item/rtl2832u) chip. All the created elements of the project will have a detailed description of the assembly process, with all the existing features and possible problems. If you are only interested in buying ready-made devices, you can contact me on [Telegram](https://t.me/igrikxd).
 
 ## Current development progress:
 [![Development status](https://img.shields.io/badge/Trello-Development%20status-blue.svg?longCache=true&style=for-the-badge)](https://trello.com/b/7NEPnfiD/easysdr) [![Create bug report](https://img.shields.io/badge/Google%20Form-Create%20bug%20report-red.svg?longCache=true&style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSeUFM1p15N_vk8X_blSnZp6jPlZe_qRhiRlmntscx6jF2yRqw/viewform?usp=sf_link)
@@ -55,6 +55,8 @@ Great thanks to [RTL-SDR.COM] for the provided samples of SDR receivers RTL-SDR.
 - E-mail: igor.nikolaevich.96@gmail.com
 - Telegram: https://t.me/igrikxd
 - LinkedIn: https://www.linkedin.com/in/igor-yatsevich/
+
+**You can also [contact me](https://t.me/igrikxd) to purchase ready-made devices.**
 
 [Software-defined radio (SDR)]: <https://en.wikipedia.org/wiki/Software-defined_radio>
 [RTL-SDR.COM]: <https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/>
