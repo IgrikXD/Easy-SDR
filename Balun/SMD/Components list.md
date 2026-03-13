@@ -5,7 +5,12 @@
 ##### Transformer:
 - Any transformer in AT224-X case (
 [Mini-Circuits](https://www.minicircuits.com/WebStore/Transformers.html) /
-[Datasheet](./Datasheets/Transformers/AT224.pdf) - **1 pcs.**
+[Datasheet](./Datasheets/Transformers/AT224.pdf) ) - **1 pcs.**
+
+##### ESD Suppressor:
+- PESD, 0603 ( [LCSC](https://www.lcsc.com/search?q=PESD0603&s_z=n_PESD0603) /
+[EBAY](https://www.ebay.com/sch/i.html?_nkw=PESD0603&_sacat=0&_from=R40&_trksid=m570.l1313) /
+[Datasheet](./Datasheets/ESD-supressors/PESD-Supressors-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Connectors:
 - SMA Female 90 degrees (
