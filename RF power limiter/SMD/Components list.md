@@ -10,12 +10,12 @@
 RLM-751-2WL+, TT1224 (
 [Mini-Circuits](https://www.minicircuits.com/WebStore/dashboard.html?model=RLM-751-2WL%2B) / 
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=RLM-33%2B&_sacat=0) /
-[Datasheets](./Datasheets/Power%20limiters/RLM-33+.pdf) )  - **1 pcs.**
+[Datasheets](./Datasheets/Power%20limiters/RLM-751-2WL+.pdf) )  - **1 pcs.**
 
 ##### Connectors:
 - SMA Female (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=sma+female+edge&_sacat=0) /
-[Datasheet](./Datasheets/Connectors/SMA-Connector-Datasheet.pdf) ) - **2 pcs.**
+[Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **2 pcs.**
 
 ##### Aluminium enclosures:
 - 50 x 50 x 25 mm (
