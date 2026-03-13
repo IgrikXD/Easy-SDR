@@ -18,12 +18,14 @@ Your support helps me continue developing open-source projects like [WSPR-beacon
 
 ## Currently available modules at EasyEDA platform
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (TH)]  
-[![README](https://img.shields.io/badge/README-Click%20me!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (SMD)]   
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (SMD)]  
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./Balun/README.md) [Balun (SMD, ENCLOSURE)]   
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./Coax%20power%20supply/Fixed%20voltage/README.md) [Coax power supply, fixed voltage (SMD, ENCLOSURE)]  
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./HF%20Upconverter/README.md) [HF Upconverter (SMD, ENCLOSURE)]   
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./LNA/Bias%20Tee%20powered/README.md) [LNA, Bias Tee powered (SMD, ENCLOSURE)]  
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./LNA/Bias%20Tee%20powered%20+%20filtering/README.md) [LNA, Bias Tee powered + filtering (SMD, ENCLOSURE)]  
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./PI%20Attenuator/README.md) [PI Attenuator (SMD)]  
+[![README](https://img.shields.io/badge/README-Click%20me!-green)](./RF%20power%20limiter/README.md) [RF power limiter (SMD, ENCLOSURE)]  
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./SPDT%20Antenna%20switch/README.md) [SPDT Antenna switch (SMD, ENCLOSURE)]   
 
 ### Deprecated implementations of modules on the EasyEDA platform (will be reworked or removed)
@@ -77,10 +79,12 @@ You can also [contact me](https://t.me/igrikxd) to purchase ready-made devices.
 [EZ-Sample]: <https://www.minicircuits.com/WebStore/ez_sample.html>
 [Antenna Mini-Whip (TH)]: <https://easyeda.com/igor.nikolaevich.96/Antenna_Mini_Whip-d8935f151d3a4221a9a3aacae3acdb65>
 [Antenna Mini-Whip (SMD)]: <https://easyeda.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a811855125754>
+[Balun (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/bias-tee-lna-smd-enclosure_copy_copy>
 [Coax power supply, fixed voltage (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/coax-power-supply-smd-enclosure>
 [HF Upconverter (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/hf-upconverter-smd-enclosure>
 [LNA, Bias Tee powered (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/bias-tee-lna-smd-enclosure>
 [LNA, Bias Tee powered + filtering (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/bias-tee-filtering-lna-smd-enclosure>
+[RF power limiter (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/bias-tee-lna-smd-enclosure_copy>
 [SPDT Antenna switch (SMD, ENCLOSURE)]: <https://easyeda.com/IgrikXD/spdt-antenna-switch-smd-enclosure>
 [HF Antenna power supply (SMD)]: <https://easyeda.com/IgrikXD/Antenna-power-supply-SMD>
 [HF Upconverter (TH)]: <https://easyeda.com/IgrikXD/HF_Upconverter_ADE_series_mixers-b319a09d843a495baa5be52cb93d76d8>

@@ -25,6 +25,10 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR10.TRC0.A0.H0.Xn+type+female.TRS0&_nkw=n+type+female&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/N-Type-Connector-Datasheet.pdf) ) - **2 pcs.**
 
+##### Aluminium enclosures:
+- 50 x 50 x 25 mm (
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=aluminium+enclosure+50&_sacat=0) ) - **1 pcs.**
+
 ## Main module (DF782):
 
 ##### Amplifiers:
@@ -49,3 +53,7 @@
 [Digi-Key](https://www.digikey.bg/products/en?keywords=n%20type%20female) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR10.TRC0.A0.H0.Xn+type+female.TRS0&_nkw=n+type+female&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/N-Type-Connector-Datasheet.pdf) ) - **2 pcs.**
+
+##### Aluminium enclosures:
+- 50 x 50 x 25 mm (
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=aluminium+enclosure+50&_sacat=0) ) - **1 pcs.**
