@@ -17,7 +17,8 @@ Your support helps me continue developing open-source projects like [WSPR-beacon
 [![Development status](https://img.shields.io/badge/Trello-Development%20status-blue.svg?longCache=true&style=for-the-badge)](https://trello.com/b/7NEPnfiD/easysdr) [![Create bug report](https://img.shields.io/badge/Google%20Form-Create%20bug%20report-red.svg?longCache=true&style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSeUFM1p15N_vk8X_blSnZp6jPlZe_qRhiRlmntscx6jF2yRqw/viewform?usp=sf_link)
 
 > [!NOTE]
-> **Project support has ended, and the current version is the final stable release.** No new features or bug-fix releases are planned. This repository remains publicly available as a reference for further development of other modules.
+> **Project support has ended, and the current version is the final stable release.** No new features or bug-fix releases are planned. This repository remains publicly available as a reference for further development of other modules. 
+> Fully assembled devices are still available for purchase on [Tindie](https://www.tindie.com/stores/y-development/).
 
 ## Currently available modules at EasyEDA platform
 [![README](https://img.shields.io/badge/README-Click%20me!-green)](./Antenna%20Mini-Whip/README.md) [Antenna Mini-Whip (TH)]  
