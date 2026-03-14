@@ -18,6 +18,7 @@ Your support helps me continue developing open-source projects like [WSPR-beacon
 
 > [!NOTE]
 > **Project support has ended, and the current version is the final stable release.** No new features or bug-fix releases are planned. This repository remains publicly available as a reference for further development of other modules. 
+>
 > Fully assembled devices are still available for purchase on [Tindie](https://www.tindie.com/stores/y-development/).
 
 ## Currently available modules at EasyEDA platform
